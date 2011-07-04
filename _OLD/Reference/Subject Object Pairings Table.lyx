@@ -30,6 +30,7 @@ FakeBold=2]{Everson Mono}%
 \usepackage{tocbibind}%
 \usepackage{pdflscape}
 \usepackage{graphicx}
+\usepackage{dingbat}
 \end_preamble
 \use_default_options true
 \begin_modules
@@ -92,10 +93,10 @@ linguistics
 \end_index
 \paperwidth 6in
 \paperheight 9in
-\leftmargin 1in
-\topmargin 1.25in
-\rightmargin 1in
-\bottommargin 1.25in
+\leftmargin 0.75in
+\topmargin 1in
+\rightmargin 0.75in
+\bottommargin 1in
 \secnumdepth 3
 \tocdepth 1
 \paragraph_separation skip
@@ -112,6 +113,22 @@ linguistics
 \end_header
 
 \begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\end_inset
+
+
+\end_layout
 
 \begin_layout Standard
 The way Cherokee pronouns are currently presented in an English centric
@@ -134,7 +151,7 @@ I have attempted to do this in the following table.
 
 \begin_layout Standard
 After various different arrangements, I was able to discern two important
- facts about Cherokee pronouns that English style groupings hide:
+ facts about Cherokee pronouns that English based groupings hide:
 \end_layout
 
 \begin_layout Enumerate
@@ -189,9 +206,13 @@ This demonstrates a very fundamental and not easily translatable concept
  of constant interrelationship that is embedded in the Cherokee language.
 \end_layout
 
+\begin_layout Itemize
+This likely has cultural and spiritual ramifications.
+\end_layout
+
 \end_deeper
 \begin_layout Standard
-Unlike English, where the persons of 
+Unlike English, where the pronouns 
 \begin_inset Quotes eld
 \end_inset
 
@@ -224,7 +245,7 @@ Sgi-
 \begin_inset Quotes erd
 \end_inset
 
- signify a constant degree of connectedness between 
+ signify a constant degree of connectedness between the persons of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -259,27 +280,14 @@ Sgigotiha
 \end_inset
 
 .
- In both cases the fact that a connectedness is communicated first by prefixing
- 
-\begin_inset Quotes eld
-\end_inset
+ In both cases the prefix communicates the existence of a relationship between
+ two parties before being followed by the actual causal relationship.
+ This implies more importance is given to the existence of the relationship
+ and not to what the actual relationship happens to be.
+\end_layout
 
-Gv-
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-Sgi-
-\begin_inset Quotes erd
-\end_inset
-
- to what the current connectedness actually is implies more importance is
- given to the existence of the relationship and not what the actual relationship
- happens to be.
- In English, the opposite holds true.
+\begin_layout Standard
+In English, the opposite can be said to hold true.
  For the English phrases 
 \begin_inset Quotes eld
 \end_inset
@@ -314,15 +322,15 @@ You
 
  is only shown through what is causing that relationship to occur at the
  moment.
- This places a greater importance on the cause of relationship over the
- actual relationship.
+ This discrete structuring of English places a greater importance on the
+ cause of the relationship over the fact that a relationship even exists.
 \end_layout
 
 \begin_layout Standard
 It would probably help an English speaking Cherokee language student to
- know of these fundamental differences that between the two languages and
- to clearly understand that the relationships that are indicated by the
- pronoun prefixes cannot be split apart the same way they are in English.
+ know of these fundamental differences that exists between the two languages
+ and to clearly understand that the relationships that are indicated by
+ the pronoun prefixes cannot be split apart the same way they are in English.
 \end_layout
 
 \begin_layout Standard
@@ -402,7 +410,20 @@ Ambiguous
 \begin_inset Quotes eld
 \end_inset
 
-
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -423,8 +444,25 @@ A Reference Grammar of Oklahoma Cherokee
 \begin_inset Quotes erd
 \end_inset
 
- page 196.
- 
+ on page 196.
+ Where a prefix has multiple meanings that are equally 
+\begin_inset Quotes eld
+\end_inset
+
+weighted
+\begin_inset Quotes erd
+\end_inset
+
+ based on the first part of the relationship, the second part of the relationshi
+p was used as additional 
+\begin_inset Quotes eld
+\end_inset
+
+weighting
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_deeper
@@ -449,6 +487,22 @@ It/They
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status open
@@ -943,7 +997,19 @@ I see you two.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1138,7 +1204,19 @@ You two see me.
 \begin_inset Text
 
 \begin_layout Plain Layout
- (?)
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1398,7 +1476,19 @@ I see you all.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1528,7 +1618,19 @@ You all see me.
 \begin_inset Text
 
 \begin_layout Plain Layout
- (?)
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -1983,7 +2085,19 @@ I want it.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -2373,7 +2487,19 @@ I see them.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -2698,7 +2824,19 @@ You want it.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -3153,7 +3291,19 @@ You all see them.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -3413,7 +3563,19 @@ You two see it.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -3664,7 +3826,7 @@ You two + them (animate)
 \begin_inset Text
 
 \begin_layout Plain Layout
-You to see them.
+You two see them.
 \end_layout
 
 \end_inset
@@ -3673,7 +3835,19 @@ You to see them.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -3933,7 +4107,19 @@ You all want it.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -4323,7 +4509,19 @@ We want it.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -4908,7 +5106,19 @@ You and I want it.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -5558,7 +5768,19 @@ He and I want it.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -6208,7 +6430,19 @@ They and I want it.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -7313,7 +7547,19 @@ We want them.
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+checkmark{}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \end_inset
@@ -7674,6 +7920,72 @@ end{landscape}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset Quotes eld
+\end_inset
+
+A Reference Grammar of Oklahoma Cherokee
+\begin_inset Quotes erd
+\end_inset
+
+ can be accessed as a downloadable PDF from: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://kuscholarworks.ku.edu/dspace/bitstream/1808/4212/1/umi-ku-2613_1.pdf
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+This material is free to copy and use under the Creative Commons Attribution-Sha
+re Alike 3.0 United States License.
+\end_layout
+
+\begin_layout Standard
+Under the following conditions:
+\end_layout
+
+\begin_layout Itemize
+Attribution — You must maintain the list of authors and contributers intact.
+\end_layout
+
+\begin_layout Itemize
+You may not imply that any contributer or author endorses you or your use
+ of the work.
+\end_layout
+
+\begin_layout Itemize
+Share Alike — If you alter, transform, or build upon this work, you may
+ distribute the resulting work only under the same or similar license to
+ this one.
+\end_layout
+
+\begin_layout Standard
+To view a copy of this license, visit 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://creativecommons.org/licenses/by-sa/3.0/us/
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+-Michael Joyner
 \end_layout
 
 \end_body
