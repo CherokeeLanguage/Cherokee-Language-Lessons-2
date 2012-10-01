@@ -27,8 +27,8 @@
 \paperfontsize 12
 \spacing single
 \use_hyperref false
-\papersize a5paper
-\use_geometry false
+\papersize letterpaper
+\use_geometry true
 \use_amsmath 1
 \use_esint 1
 \use_mhchem 1
@@ -43,10 +43,14 @@
 \shortcut idx
 \color #008000
 \end_index
+\leftmargin 0.75in
+\topmargin 0.75in
+\rightmargin 0.5in
+\bottommargin 0.75in
 \secnumdepth 3
 \tocdepth 3
-\paragraph_separation skip
-\defskip smallskip
+\paragraph_separation indent
+\paragraph_indentation default
 \quotes_language english
 \papercolumns 1
 \papersides 1
@@ -61,11 +65,316 @@
 \begin_body
 
 \begin_layout Section
+ᏥᏍᏚ, ᎠᎪᏗ ᎡᎯ ᏩᏯ, ᏩᏯ, ᎠᎴ ᏲᎾ ᎡᏆ
+\end_layout
+
+\begin_layout Enumerate
+ᏌᏊ ᎢᏳᏩᎦᏘ
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᎴᏁᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏰᎶᎢᏍᏗ ᎤᎪᎮᎢᏃ, ᎦᎷᎦ ᏥᏍᏚ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏛᏛᎮᎢᏃ, 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭷ! ᏥᏍᏚ! ᎦᏙᎲ ᎭᏗᏟ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏥᏍᏚ ᎤᏁᏤᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏘᎠ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎶᏎᎢ.
+ ᏭᏕᎵᏤᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏬᏞᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏪᎵᏎᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗ ᎤᏲᎢ ᎤᎵᏍᏓᏁᎸᎢ.
+ ᏯᏆᎵᏍᏓᏁᎭ ᏍᏊ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎾᎯᏳ ᎠᎪᏗ ᎡᎯ ᏩᏯ ᏍᏊ ᎤᎴᏅᎮᎢ ᎤᎵᏘᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏪᏅᏎᎢ ᎠᎴ ᎤᏪᏅᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎿ ᎤᏍᏗ ᎢᎪᏗ ᎨᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎿ ᏩᏯ ᎨᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏩᏯ ᎤᎪᎮᎢᏃ, ᎦᎷᎦ ᎠᎪᏗ ᎡᎯ ᏩᏯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎷᏤᎢ ᏩᏯᏃ ᎤᏛᏛᎮᎢ 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙᎲ ᎭᏗᏟ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏁᏤᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏘᎠ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᎶᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏩᏯ ᎤᏬᏞᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏩᏯ ᎤᏪᎵᏎᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗ ᎤᏲᎢ ᎤᎵᏍᏓᏁᎸᎢ.
+ ᏯᏆᎵᏍᏓᏁᎭ ᏍᏊ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎾᎯᏳ ᏩᏯ ᎤᎴᏅᎮᎢ ᎤᎵᏘᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏪᏅᏎᎢ ᎠᎴ ᎤᏪᏅᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎿ ᎤᏍᏗ ᎢᎪᏗ ᎨᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎿ ᏲᎾ ᎡᏆ ᎨᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏲᎾ ᎡᏆ ᎤᎪᎮᎢᏃ, ᎦᎷᎦ ᏩᏯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎷᏤᎢ ᎠᎴ ᏲᎾ ᎡᏆ ᎤᏛᏛᎮᎢ 
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ ᎦᏙᎲ ᎭᏗᏟ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏩᏯ ᎤᏁᏤᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏘᎠ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏩᏯ ᎤᎶᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏲᎾ ᎡᎦ ᎤᏍᏗ ᎤᎴᏁᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏲᎾ ᎡᎦ ᎤᏪᎵᏎᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗ ᎤᏲᎢ ᎤᎵᏍᏓᏁᎸᎢ.
+ ᏯᏆᎵᏍᏓᏁᎭ ᏍᏊ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎾᎯᏳ ᏲᎾ ᎡᏆ ᎤᎴᏅᎮᎢ ᎤᎵᏘᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏪᏅᏎᎢ ᎠᎴ ᎤᏪᏅᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎿ ᎢᎪᏗ ᎨᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎷᏤᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎿ ᏚᎪᎮᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏚᏃᏞᎢ.
+ ᏩᏯ, ᎠᎪᏗ ᏩᏯ, ᎠᎴ ᏥᏍᏚ.
+\end_layout
+
+\begin_layout Enumerate
+ᏲᎾ ᎡᏆ ᏩᏯ ᎤᏛᏛᎮᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ, ᎦᏙᎲ ᎤᎵᏘᏒᎢ? ᎤᎿ Ꮭ ᎪᎱᏍᏗ ᏱᎨᏒᎢ ᏣᎵᏘᏍᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏩᏯ ᎤᏛᏁᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎴᏁᎢ.
+ ᎠᎩᎪᎲᎢ ᎦᎷᎦ ᎠᎪᏘ ᎡᎯ ᏩᏯ.
+ ᎯᎳᏴᎢ ᎤᎷᏨᎢ, ᎠᎦᏛᏅᎢ, 'ᏃᏊ ᎦᏙᎲ ᎭᏗᏟ?' ᎤᏛᏛᎲᎢ 'ᎦᎵᏘᎠ!'
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏲᎾ ᎡᏆ ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎠᏛᏛᎮᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏂᎯᎾ? ᎦᏙᎲ ᎤᎵᏘᏎᎢ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏁᏤᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎿ ᎤᎴᏁᎢ.
+ ᎯᎳᏴᎢ ᏥᏍᏚ ᎤᎷᏨᎢ, ᎠᏆᏛᏛᎲᎢ, 'ᏃᏊ, ᎦᏙᎲ?', ᎤᏛᏅᎢᏃ, 'ᎦᎵᏘᎠ.'
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏲᎾ ᎡᏆ ᏥᏍᏚ ᎠᏛᏛᎮᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ ᏂᎯ.
+ ᏃᏊ ᎦᏙᎲ ᎤᎵᏘᏎᎢ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏥᏍᏚ ᎤᏛᏁᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏚᏩᏂᎦᏢᎢ ᏓᎩᏍᏗᎬᎢ.
+ ᎤᏰᎶᎢᏍᏗ ᎤᏃᎸᏅᎢ! ᎤᏅᏥ ᎤᎶᏒᎢ.
+ ᎾᎯᏳ ᎤᏩᏂᎦᏢᎢ ᎤᎶᏒᎢ.
+ ᎠᎴ ᎦᏚ ᎠᏴ ᏱᎨᏒᎢ! ᎾᎯᏳᏃ ᎠᏆᎵᏘᏒᎢ.
+ Ꮎ ᎤᏰᎸᏗ ᎠᏆᏛᏅᎢ, 'ᎦᎵᏘᎠ'
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎾᎯᏳ ᎤᏂᏰᏘᏎᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎾᎯᏳ ᎤᎵᏍᏆᏛᎢ.
+\end_layout
+
+\begin_layout Section
 Rabbit, Coyote, Wolf, and Grizzly Bear
 \end_layout
 
 \begin_layout Standard
-From 
+Adapted from 
 \begin_inset Quotes eld
 \end_inset
 
@@ -76,12 +385,12 @@ Kutenai tales
 , pp55-57
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏌᏊ ᎢᏳᏩᎦᏘ
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 \begin_inset Quotes eld
 \end_inset
 
@@ -93,36 +402,36 @@ One time
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
-ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏍᏗ ᎤᎴᏁᎢ.
+\begin_layout Enumerate
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᎴᏁᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Coyote stood in a certain spot.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 (igodi, prairie, gloss-pg141), (alehvsga, pg38), (ehi, anehi, resident (place),
  dweller (place), pg 89)
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᏰᎶᎢᏍᏗ ᎤᎪᎮᎢᏃ, ᎦᎷᎦ ᏥᏍᏚ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Suddenly he saw him, Rabbit arriving.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 (uyelo?isdi, suddenly, pg185) (galuga, he is arriving, pg 102)
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᏛᏛᎮᎢᏃ, 
 \begin_inset Quotes eld
 \end_inset
@@ -135,7 +444,7 @@ Suddenly he saw him, Rabbit arriving.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 And he asked him, 
 \begin_inset Quotes eld
 \end_inset
@@ -147,13 +456,13 @@ Hey! Rabbit! Why are you running?
 
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 (gadohv, why?, pg 92) (aliti?a, he is running away, escaping, pg40) (atli
  (ᎠᏗᏟ!), he is running, pg 59)
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏥᏍᏚ ᎤᏁᏤᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -166,7 +475,7 @@ Hey! Rabbit! Why are you running?
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Rabbit answered, 
 \begin_inset Quotes eld
 \end_inset
@@ -178,39 +487,39 @@ I am running away!
 
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 (kanega, he is speaking, he is answering, pg 139).
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᎶᏎᎢ.
  ᏭᏕᎵᏤᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 He passed him.
  He went out of sight.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 (galosga, he is passing by without stopping, he is passing a test, pg 102)
  (wudeliga, he is going out of sight, pg 189)
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏬᏞᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Coyote sat.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏪᎵᏎᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -224,7 +533,7 @@ Coyote sat.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Coyote thought, 
 \begin_inset Quotes eld
 \end_inset
@@ -237,22 +546,22 @@ Something bad happened to him.
 
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 (elia, he thinks so, pg 90) (ulsdahneha, it is happening to him, pg 174).
  (sgwu, also, pg 153)
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎾᎯᏳ ᎠᎪᏗ ᎡᎯ ᏩᏯ ᏍᏊ ᎤᎴᏅᎮᎢ ᎤᎵᏘᏍᏗ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Then Coyote also began to run away.
 \end_layout
 
-\begin_layout Itemize
+\begin_layout Enumerate
 (aleniha, he is starting/beginning, pg 39)(
 \begin_inset Quotes eld
 \end_inset
@@ -273,12 +582,12 @@ begin
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᏪᏅᏎᎢ ᎠᎴ ᎤᏪᏅᏎᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 \begin_inset Quotes eld
 \end_inset
 
@@ -290,37 +599,37 @@ He went and he went.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᎿ ᎤᏍᏗ ᎢᎪᏗ ᎨᏎᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 There was a little prairie.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᎿ ᏩᏯ ᎨᏎᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 There was wolf.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏩᏯ ᎤᎪᎮᎢᏃ, ᎦᎷᎦ ᎠᎪᏗ ᎡᎯ ᏩᏯ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Wolf saw Coyote arriving.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᎷᏤᎢ ᏩᏯᏃ ᎤᏛᏛᎮᎢ 
 \begin_inset Quotes eld
 \end_inset
@@ -333,7 +642,7 @@ Wolf saw Coyote arriving.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 He arrived and Wolf asked, 
 \begin_inset Quotes eld
 \end_inset
@@ -346,7 +655,7 @@ Why are you running?
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏁᏤᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -359,7 +668,7 @@ Why are you running?
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Coyote answered, 
 \begin_inset Quotes eld
 \end_inset
@@ -372,27 +681,27 @@ I am running away!
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᎶᏎᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Coyote passed him.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏩᏯ ᎤᏬᏞᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Wolf sat.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏩᏯ ᎤᏪᎵᏎᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -406,7 +715,7 @@ Wolf sat.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Wolf thought, 
 \begin_inset Quotes eld
 \end_inset
@@ -420,63 +729,63 @@ Something bad happened to him.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎾᎯᏳ ᏩᏯ ᎤᎴᏅᎮᎢ ᎤᎵᏘᏍᏗ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Then Wolf began to run away.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᏪᏅᏎᎢ ᎠᎴ ᎤᏪᏅᏎᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 He went and he went.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᎿ ᎤᏍᏗ ᎢᎪᏗ ᎨᏎᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 There was a little prairie.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᎿ ᏲᎾ ᎡᏆ ᎨᏎᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 There was grizzly bear.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 (yona equa - great bear, grizzly bear)
 \end_layout
 
 \end_deeper
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏲᎾ ᎡᏆ ᎤᎪᎮᎢᏃ, ᎦᎷᎦ ᏩᏯ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Grizzly Bear saw Wolf arriving.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᎷᏤᎢ ᎠᎴ ᏲᎾ ᎡᏆ ᎤᏛᏛᎮᎢ 
 \begin_inset Quotes eld
 \end_inset
@@ -489,7 +798,7 @@ Grizzly Bear saw Wolf arriving.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 He arrived and Grizzly Bear asked, 
 \begin_inset Quotes eld
 \end_inset
@@ -502,13 +811,13 @@ Now, why are you running?
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 (nogwu, now)
 \end_layout
 
 \end_deeper
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏩᏯ ᎤᏁᏤᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -521,7 +830,7 @@ Now, why are you running?
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Wolf answered, 
 \begin_inset Quotes eld
 \end_inset
@@ -534,27 +843,27 @@ I am running away!
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏩᏯ ᎤᎶᏎᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Wolf passed him.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏲᎾ ᎡᎦ ᎤᏍᏗ ᎤᎴᏁᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Grizzly Bear stood in a certain spot.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏲᎾ ᎡᎦ ᎤᏪᎵᏎᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -568,7 +877,7 @@ Grizzly Bear stood in a certain spot.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Grizzly Bear thought, 
 \begin_inset Quotes eld
 \end_inset
@@ -582,69 +891,69 @@ Something bad happened to him.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎾᎯᏳ ᏲᎾ ᎡᏆ ᎤᎴᏅᎮᎢ ᎤᎵᏘᏍᏗ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Then Grizzly Bear began to run away.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᏪᏅᏎᎢ ᎠᎴ ᎤᏪᏅᏎᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 He went and he went.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᎿ ᎢᎪᏗ ᎨᏎᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 There was a prairie.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᎷᏤᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 He arrived.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎤᎿ ᏚᎪᎮᎢ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 There he saw them.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏚᏃᏞᎢ.
  ᏩᏯ, ᎠᎪᏗ ᏩᏯ, ᎠᎴ ᏥᏍᏚ.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 They sat.
  Wolf, Coyote, and Rabbit.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏲᎾ ᎡᏆ ᏩᏯ ᎤᏛᏛᎮᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -657,7 +966,7 @@ They sat.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Grizzly Bear asked Wolf, 
 \begin_inset Quotes eld
 \end_inset
@@ -670,7 +979,7 @@ Now, why did you run away? There wasn't anything, you to run away.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏩᏯ ᎤᏛᏁᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -685,7 +994,7 @@ Now, why did you run away? There wasn't anything, you to run away.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Wolf said, 
 \begin_inset Quotes eld
 \end_inset
@@ -696,13 +1005,13 @@ I stood in a certain spot, I saw Coyote arriving.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 (hilayvi, when, pg 129)
 \end_layout
 
 \end_deeper
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏲᎾ ᎡᏆ ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎠᏛᏛᎮᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -715,7 +1024,7 @@ I stood in a certain spot, I saw Coyote arriving.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Grizzly Bear asked Coyote, 
 \begin_inset Quotes eld
 \end_inset
@@ -728,7 +1037,7 @@ What about you? Why did you run away?
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏁᏤᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -742,12 +1051,12 @@ What about you? Why did you run away?
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Coyote answered, 
 \begin_inset Quotes eld
 \end_inset
 
-I was staying there.
+There, I stood in a certain spot.
  When rabbit arrived, I said to him, 'Now, why?' and he said 'I am running
  away.'
 \begin_inset Quotes erd
@@ -757,7 +1066,7 @@ I was staying there.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏲᎾ ᎡᏆ ᏥᏍᏚ ᎠᏛᏛᎮᎢ, 
 \begin_inset Quotes eld
 \end_inset
@@ -771,7 +1080,7 @@ I was staying there.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Grizzly Bear asked Rabbit, 
 \begin_inset Quotes eld
 \end_inset
@@ -785,12 +1094,16 @@ Now you.
 \end_layout
 
 \end_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 ᏥᏍᏚ ᎤᏛᏁᎢ, 
 \begin_inset Quotes eld
 \end_inset
 
-
+ᏚᏩᏂᎦᏢᎢ ᏓᎩᏍᏗᎬᎢ.
+ ᎤᏰᎶᎢᏍᏗ ᎤᏃᎸᏅᎢ! ᎤᏅᏥ ᎤᎶᏒᎢ.
+ ᎾᎯᏳ ᎤᏩᏂᎦᏢᎢ ᎤᎶᏒᎢ.
+ ᎠᎴ ᎦᏚ ᎠᏴ ᏱᎨᏒᎢ! ᎾᎯᏳᏃ ᎠᏆᎵᏘᏒᎢ.
+ Ꮎ ᎤᏰᎸᏗ ᎠᏆᏛᏅᎢ, 'ᎦᎵᏘᎠ'
 \begin_inset Quotes erd
 \end_inset
 
@@ -798,18 +1111,108 @@ Now you.
 \end_layout
 
 \begin_deeper
-\begin_layout Itemize
+\begin_layout Enumerate
 Rabbit said, 
 \begin_inset Quotes eld
 \end_inset
 
+I was eating tree limbs.
+ Suddenly the wind blew! Snow fell from up high.
+ Then a tree limb fell.
+ And on top of me it maybe was! And then I ran away.
+ That is the reason I said, 'I am running away.'
+\begin_inset Quotes erd
+\end_inset
 
+.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+(agia/solid, alsdayvhvsga/meal, asdigia/long object/pg47, gahyea/flexible,
+ he is eating it)
+\end_layout
+
+\begin_layout Enumerate
+(uwanigahlvi, branch/limb of tree, pg182)
+\end_layout
+
+\begin_layout Enumerate
+(unole, wind/storm/tornado, pg 177)
+\end_layout
+
+\begin_layout Enumerate
+(ganolvvsga, the wind is blowing, pg 110)
+\end_layout
+
+\begin_layout Enumerate
+(unhji/ᎤᏅᏥ, snow, pg177)
+\end_layout
+
+\begin_layout Enumerate
+(to fall, gadosga/galeyvsga/galosga(fall from an elevated position, pg 102)/ganv
+ga/gohosga/uligohvsdi)
+\end_layout
+
+\begin_layout Enumerate
+(gâ-du/2-3, pg93, on top (of))
+\end_layout
+
+\begin_layout Enumerate
+(gohlvsga, he is making it, pg 121)
+\end_layout
+
+\begin_layout Enumerate
+(uyehldi, reason, pg 185)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+ᎾᎯᏳ ᎤᏂᏰᏘᏎᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Then they laughed.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+(uyetsga, ᎤᏰᏘᏍᎦ, pg 185)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+ᎾᎯᏳ ᎤᎵᏍᏆᏛᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+\begin_inset Quotes eld
+\end_inset
+
+Then it is ended.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+(alsgwadia, it is ending, pg 42)
+\end_layout
+
+\end_deeper
 \end_deeper
 \end_body
 \end_document
