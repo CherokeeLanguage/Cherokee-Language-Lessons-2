@@ -9,25 +9,25 @@
 \language_package default
 \inputencoding utf8
 \fontencoding global
-\font_roman default
-\font_sans default
+\font_roman Digohweli
+\font_sans Aboriginal Sans
 \font_typewriter default
 \font_default_family default
-\use_non_tex_fonts false
+\use_non_tex_fonts true
 \font_sc false
 \font_osf false
 \font_sf_scale 100
 \font_tt_scale 100
 
 \graphics default
-\default_output_format default
+\default_output_format pdf4
 \output_sync 0
 \bibtex_command default
 \index_command default
-\paperfontsize default
+\paperfontsize 12
 \spacing single
 \use_hyperref false
-\papersize default
+\papersize a5paper
 \use_geometry false
 \use_amsmath 1
 \use_esint 1
@@ -99,7 +99,7 @@ One time
 
 \begin_deeper
 \begin_layout Itemize
-Coyote was standing in a certain spot.
+Coyote stood in a certain spot.
 \end_layout
 
 \begin_layout Itemize
@@ -201,7 +201,7 @@ He passed him.
 
 \end_deeper
 \begin_layout Itemize
-ᏩᏯ ᎤᏍᏗ ᎤᏬᏞᎢ.
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏬᏞᎢ.
 \end_layout
 
 \begin_deeper
@@ -211,12 +211,12 @@ Coyote sat.
 
 \end_deeper
 \begin_layout Itemize
-ᏩᏯ ᎤᏍᏗ ᎤᏪᎵᏎᎢ, 
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏪᎵᏎᎢ, 
 \begin_inset Quotes eld
 \end_inset
 
 ᎪᎱᏍᏗ ᎤᏲᎢ ᎤᎵᏍᏓᏁᎸᎢ.
- ᏯᏆᎵᏍᏓᏁᎭ!
+ ᏯᏆᎵᏍᏓᏁᎭ ᏍᏊ!
 \begin_inset Quotes erd
 \end_inset
 
@@ -230,7 +230,7 @@ Coyote thought,
 \end_inset
 
 Something bad happened to him.
- Maybe it is happening to me!
+ Maybe it is happening to me also!
 \begin_inset Quotes erd
 \end_inset
 
@@ -239,16 +239,17 @@ Something bad happened to him.
 
 \begin_layout Itemize
 (elia, he thinks so, pg 90) (ulsdahneha, it is happening to him, pg 174).
+ (sgwu, also, pg 153)
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
-ᎾᎯᏳ ᏩᏯ ᎤᏍᏗ ᎤᎴᏅᎮᎢ ᎤᎵᏘᏍᏗ.
+ᎾᎯᏳ ᎠᎪᏗ ᎡᎯ ᏩᏯ ᏍᏊ ᎤᎴᏅᎮᎢ ᎤᎵᏘᏍᏗ.
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Then Coyote began to run away.
+Then Coyote also began to run away.
 \end_layout
 
 \begin_layout Itemize
@@ -310,7 +311,7 @@ There was wolf.
 
 \end_deeper
 \begin_layout Itemize
-ᏩᏯ ᎤᎪᎮᎢᏃ, ᎦᎷᎦ ᏩᏯ ᎤᏍᏗ.
+ᏩᏯ ᎤᎪᎮᎢᏃ, ᎦᎷᎦ ᎠᎪᏗ ᎡᎯ ᏩᏯ.
 \end_layout
 
 \begin_deeper
@@ -320,12 +321,493 @@ Wolf saw Coyote arriving.
 
 \end_deeper
 \begin_layout Itemize
-.
+ᎤᎷᏤᎢ ᏩᏯᏃ ᎤᏛᏛᎮᎢ 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᏙᎲ ᎭᏗᏟ?
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-()
+He arrived and Wolf asked, 
+\begin_inset Quotes eld
+\end_inset
+
+Why are you running?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏁᏤᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏘᎠ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Coyote answered, 
+\begin_inset Quotes eld
+\end_inset
+
+I am running away!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᎶᏎᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Coyote passed him.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ ᎤᏬᏞᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Wolf sat.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ ᎤᏪᎵᏎᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗ ᎤᏲᎢ ᎤᎵᏍᏓᏁᎸᎢ.
+ ᏯᏆᎵᏍᏓᏁᎭ ᏍᏊ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Wolf thought, 
+\begin_inset Quotes eld
+\end_inset
+
+Something bad happened to him.
+ Maybe something bad is happening to me also!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎾᎯᏳ ᏩᏯ ᎤᎴᏅᎮᎢ ᎤᎵᏘᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Then Wolf began to run away.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎤᏪᏅᏎᎢ ᎠᎴ ᎤᏪᏅᏎᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+He went and he went.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎤᎿ ᎤᏍᏗ ᎢᎪᏗ ᎨᏎᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+There was a little prairie.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎤᎿ ᏲᎾ ᎡᏆ ᎨᏎᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+There was grizzly bear.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+(yona equa - great bear, grizzly bear)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᏲᎾ ᎡᏆ ᎤᎪᎮᎢᏃ, ᎦᎷᎦ ᏩᏯ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Grizzly Bear saw Wolf arriving.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎤᎷᏤᎢ ᎠᎴ ᏲᎾ ᎡᏆ ᎤᏛᏛᎮᎢ 
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ ᎦᏙᎲ ᎭᏗᏟ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+He arrived and Grizzly Bear asked, 
+\begin_inset Quotes eld
+\end_inset
+
+Now, why are you running?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+(nogwu, now)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ ᎤᏁᏤᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎦᎵᏘᎠ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Wolf answered, 
+\begin_inset Quotes eld
+\end_inset
+
+I am running away!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ ᎤᎶᏎᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Wolf passed him.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏲᎾ ᎡᎦ ᎤᏍᏗ ᎤᎴᏁᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Grizzly Bear stood in a certain spot.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏲᎾ ᎡᎦ ᎤᏪᎵᏎᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎪᎱᏍᏗ ᎤᏲᎢ ᎤᎵᏍᏓᏁᎸᎢ.
+ ᏯᏆᎵᏍᏓᏁᎭ ᏍᏊ!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Grizzly Bear thought, 
+\begin_inset Quotes eld
+\end_inset
+
+Something bad happened to him.
+ Maybe something bad is happening to me also!
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎾᎯᏳ ᏲᎾ ᎡᏆ ᎤᎴᏅᎮᎢ ᎤᎵᏘᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Then Grizzly Bear began to run away.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎤᏪᏅᏎᎢ ᎠᎴ ᎤᏪᏅᏎᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+He went and he went.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎤᎿ ᎢᎪᏗ ᎨᏎᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+There was a prairie.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎤᎷᏤᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+He arrived.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎤᎿ ᏚᎪᎮᎢ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+There he saw them.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏚᏃᏞᎢ.
+ ᏩᏯ, ᎠᎪᏗ ᏩᏯ, ᎠᎴ ᏥᏍᏚ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+They sat.
+ Wolf, Coyote, and Rabbit.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏲᎾ ᎡᏆ ᏩᏯ ᎤᏛᏛᎮᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ, ᎦᏙᎲ ᎤᎵᏘᏒᎢ? ᎤᎿ Ꮭ ᎪᎱᏍᏗ ᏱᎨᏒᎢ ᏣᎵᏘᏍᏗ.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Grizzly Bear asked Wolf, 
+\begin_inset Quotes eld
+\end_inset
+
+Now, why did you run away? There wasn't anything, you to run away.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ ᎤᏛᏁᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎴᏁᎢ.
+ ᎠᎩᎪᎲᎢ ᎦᎷᎦ ᎠᎪᏘ ᎡᎯ ᏩᏯ.
+ ᎯᎳᏴᎢ ᎤᎷᏨᎢ, ᎠᎦᏛᏅᎢ, 'ᏃᏊ ᎦᏙᎲ ᎭᏗᏟ?' ᎤᏛᏛᎲᎢ 'ᎦᎵᏘᎠ!'
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Wolf said, 
+\begin_inset Quotes eld
+\end_inset
+
+I stood in a certain spot, I saw Coyote arriving.
+ When he arrived, I said, 'Now why are you running?' He answered, 'I am
+ running away.'
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+(hilayvi, when, pg 129)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᏲᎾ ᎡᏆ ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎠᏛᏛᎮᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏂᎯᎾ? ᎦᏙᎲ ᎤᎵᏘᏎᎢ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Grizzly Bear asked Coyote, 
+\begin_inset Quotes eld
+\end_inset
+
+What about you? Why did you run away?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᎪᏗ ᎡᎯ ᏩᏯ ᎤᏁᏤᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᎤᎿ ᎤᎴᏁᎢ.
+ ᎯᎳᏴᎢ ᏥᏍᏚ ᎤᎷᏨᎢ, ᎠᏆᏛᏛᎲᎢ, 'ᏃᏊ, ᎦᏙᎲ?', ᎤᏛᏅᎢᏃ, 'ᎦᎵᏘᎠ.'
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Coyote answered, 
+\begin_inset Quotes eld
+\end_inset
+
+I was staying there.
+ When rabbit arrived, I said to him, 'Now, why?' and he said 'I am running
+ away.'
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏲᎾ ᎡᏆ ᏥᏍᏚ ᎠᏛᏛᎮᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+ᏃᏊ ᏂᎯ.
+ ᏃᏊ ᎦᏙᎲ ᎤᎵᏘᏎᎢ?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Grizzly Bear asked Rabbit, 
+\begin_inset Quotes eld
+\end_inset
+
+Now you.
+ Now why did you run away?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏥᏍᏚ ᎤᏛᏁᎢ, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Rabbit said, 
+\begin_inset Quotes eld
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_deeper
