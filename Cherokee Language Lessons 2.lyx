@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.5 $
+$Revision: 1.6 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/29 00:34:49 $ UTC
+$Date: 2016/10/29 00:45:25 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.5 $
+$Revision: 1.6 $
 \noun default
 .
 \end_layout
@@ -7872,7 +7872,7 @@ Read over the following vocabulary carefully, practice saying the words
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -87813,7 +87813,7 @@ Set 1
 
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
