@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.4 $
+$Revision: 1.5 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/28 02:26:30 $ UTC
+$Date: 2016/10/29 00:34:49 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.4 $
+$Revision: 1.5 $
 \noun default
 .
 \end_layout
@@ -7872,7 +7872,7 @@ Read over the following vocabulary carefully, practice saying the words
 
 \begin_layout Standard
 \begin_inset ERT
-status collapsed
+status open
 
 \begin_layout Plain Layout
 
@@ -7945,7 +7945,15 @@ Fast.
 
 \begin_deeper
 \begin_layout Description
-ᏗᏂᏯᏄᎵ [di²ni²yạ²nu⁴li]
+ᏗᏂᏯᏄᎵ [di²ni²yạ²nu⁴li] 
+\begin_inset Quotes eld
+\end_inset
+
+They-fast.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -7963,7 +7971,15 @@ Floor.
 
 \begin_deeper
 \begin_layout Description
-ᏓᏲᏓᏝᎲᎢ [da¹yo²da²³hlạ²hv⁴ɂi]
+ᏓᏲᏓᏝᎲᎢ [da¹yo²da²³hlạ²hv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Floors.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -7985,7 +8001,15 @@ Slow.
 \begin_inset space ~
 \end_inset
 
-ᏧᏍᎦᏃᎵ [u²ni²sgạ²no⁴li, ju²sgạ²no⁴li]
+ᏧᏍᎦᏃᎵ [u²ni²sgạ²no⁴li, ju²sgạ²no⁴li] 
+\begin_inset Quotes eld
+\end_inset
+
+They-slow.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_deeper
@@ -8042,10 +8066,34 @@ Board.
 
 \begin_deeper
 \begin_layout Description
-ᏧᏯᏖᎾ [ju²hyah²te²³na]
+ᏧᏯᏖᎾ [ju²hyah²te²³na] 
+\begin_inset Quotes eld
+\end_inset
+
+Boards.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Description
 ᎦᎶᎯᏍᏗᎢ [gạ²lo²hị²sdi⁴ɂi] 
 \begin_inset Quotes eld
@@ -8061,7 +8109,39 @@ Doorway.
 
 \begin_deeper
 \begin_layout Description
-ᏗᎦᎶᎯᏍᏗᎢ [dị²gạ²lo²hị²sdi⁴ɂi]
+ᏗᎦᎶᎯᏍᏗᎢ [dị²gạ²lo²hị²sdi⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Doorways.
+ Doors.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏣᏄᎵ [ga²jạ²nu⁴li] 
+\begin_inset Quotes eld
+\end_inset
+
+Fast.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+\begin_inset space ~
+\end_inset
+
+ ☞ 
+\emph on
+This is a common variation for ᎠᏯᏄᎵ.
 \end_layout
 
 \end_deeper
@@ -8091,7 +8171,15 @@ Board.
 
 \begin_deeper
 \begin_layout Description
-ᏗᏯᏖᎾ [di²hyah²te²³na]
+ᏗᏯᏖᎾ [di²hyah²te²³na] 
+\begin_inset Quotes eld
+\end_inset
+
+Boards.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -8145,7 +8233,16 @@ Board for writing.
 \begin_inset space ~
 \end_inset
 
-ᏗᎪᏪᎶᏗ [di²hyah²te²³na dị²go²hwe²³lo¹di]
+ᏗᎪᏪᎶᏗ [di²hyah²te²³na dị²go²hwe²³lo¹di] 
+\begin_inset Quotes eld
+\end_inset
+
+Chalkboards.
+ Whiteboards.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_deeper
