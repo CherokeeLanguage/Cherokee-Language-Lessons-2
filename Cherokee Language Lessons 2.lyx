@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.3 $
+$Revision: 1.4 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/27 01:58:28 $ UTC
+$Date: 2016/10/28 02:26:30 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.3 $
+$Revision: 1.4 $
 \noun default
 .
 \end_layout
@@ -8264,7 +8264,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-You one will be walking.
+You will be walking.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8276,7 +8276,7 @@ You one will be walking.
 \begin_inset Quotes eld
 \end_inset
 
-You one, turn around.
+Turn around.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8288,7 +8288,7 @@ You one, turn around.
 \begin_inset Quotes eld
 \end_inset
 
-You one, stop.
+Stop.
 \end_layout
 
 \begin_layout Description
@@ -8296,7 +8296,7 @@ You one, stop.
 \begin_inset Quotes eld
 \end_inset
 
-You one, touch it.
+Touch it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8308,7 +8308,7 @@ You one, touch it.
 \begin_inset Quotes eld
 \end_inset
 
-You one, stand.
+Stand.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8320,7 +8320,7 @@ You one, stand.
 \begin_inset Quotes eld
 \end_inset
 
-You one, touch him.
+Touch him.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8332,7 +8332,7 @@ You one, touch him.
 \begin_inset Quotes eld
 \end_inset
 
-You one, sit.
+Sit.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8418,7 +8418,7 @@ hya³ɂi²se³sdi]
 \begin_inset Quotes eld
 \end_inset
 
-No, you one will not be walking.
+No, you will not be walking.
 \begin_inset Quotes erd
 \end_inset
 
@@ -10226,7 +10226,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏦᎢᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -17399,7 +17399,7 @@ end{multicols}
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename /home/mjoyner/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1b/comics/ch08-09/panels2.lyx/001.jpg
+	filename artwork/comics/mi-ma-mo-ulihelisdi-nijadetiya/panels2.lyx/001.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -17413,7 +17413,7 @@ end{multicols}
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename /home/mjoyner/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1b/comics/ch08-09/panels2.lyx/002.jpg
+	filename artwork/comics/mi-ma-mo-ulihelisdi-nijadetiya/panels2.lyx/002.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -17427,7 +17427,7 @@ end{multicols}
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename /home/mjoyner/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1b/comics/ch08-09/panels2.lyx/003.jpg
+	filename artwork/comics/mi-ma-mo-ulihelisdi-nijadetiya/panels2.lyx/003.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -17441,7 +17441,7 @@ end{multicols}
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename /home/mjoyner/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1b/comics/ch08-09/panels2.lyx/004.jpg
+	filename artwork/comics/mi-ma-mo-ulihelisdi-nijadetiya/panels2.lyx/004.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -17455,7 +17455,7 @@ end{multicols}
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename /home/mjoyner/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1b/comics/ch08-09/panels2.lyx/005.jpg
+	filename artwork/comics/mi-ma-mo-ulihelisdi-nijadetiya/panels2.lyx/005.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -17469,7 +17469,7 @@ end{multicols}
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename /home/mjoyner/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1b/comics/ch08-09/panels2.lyx/006.jpg
+	filename artwork/comics/mi-ma-mo-ulihelisdi-nijadetiya/panels2.lyx/006.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -17483,7 +17483,7 @@ end{multicols}
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename /home/mjoyner/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1b/comics/ch08-09/panels2.lyx/007.jpg
+	filename artwork/comics/mi-ma-mo-ulihelisdi-nijadetiya/panels2.lyx/007.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -17497,7 +17497,7 @@ end{multicols}
 \begin_layout Standard
 \align center
 \begin_inset Graphics
-	filename /home/mjoyner/Documents/ᏣᎳᎩ/Lessons/Cherokee Language Lessons-Volume 1b/comics/ch08-09/panels2.lyx/008.jpg
+	filename artwork/comics/mi-ma-mo-ulihelisdi-nijadetiya/panels2.lyx/008.jpg
 	lyxscale 25
 	width 95col%
 	height 86pheight%
@@ -17509,7 +17509,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage clearpage
+\begin_inset Newpage cleardoublepage
 \end_inset
 
 
