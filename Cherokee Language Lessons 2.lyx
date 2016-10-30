@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.8 $
+$Revision: 1.9 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/29 00:54:08 $ UTC
+$Date: 2016/10/29 21:27:35 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.8 $
+$Revision: 1.9 $
 \noun default
 .
 \end_layout
@@ -7862,6 +7862,2328 @@ Your answers should match the Syllabary in the previous practice.
 \end_layout
 
 \begin_layout Section
+ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ (Grammar)
+\end_layout
+
+\begin_layout Standard
+Let's review the bound pronouns you have been using so far:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+I \SpecialChar \ldots{}
+ him
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I \SpecialChar \ldots{}
+ it.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꮵ̣-, Ꭶ͓- (jị-, g-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I \SpecialChar \ldots{}
+ them (animate).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²jiy-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²ji²y-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I \SpecialChar \ldots{}
+ them (inanimate).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᏕᏥ-, ᏕᎦ͓- (de²ji-, g-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He \SpecialChar \ldots{}
+ me.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
+\end_layout
+
+\begin_layout Itemize
+Set B: 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (ạ²gị-, ạ²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They \SpecialChar \ldots{}
+ me.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎬᎩ̣-, ᎬᏆ͓- (gv²gị-, gv²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He \SpecialChar \ldots{}
+ he or it.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꭰ̣-, Ꭶ̣- (ạ-, gạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꭴ-, Ꭴ̣Ꮹ͓- (u-, ụw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He \SpecialChar \ldots{}
+ them.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮣ̣-, ᏕᎦ̣- (dạ-, de²gạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮪ-, Ꮪ̣Ꮹ͓- (du-, dụ²w-)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+You \SpecialChar \ldots{}
+ him.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You \SpecialChar \ldots{}
+ it.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꭿ̣- (hị-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮳ̣- (jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You \SpecialChar \ldots{}
+ them (animate).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You \SpecialChar \ldots{}
+ them (inanimate).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᏕᎯ̣- (de²hị-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: ᏕᏣ̣- (de²jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He \SpecialChar \ldots{}
+ you.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꮳ̣ (jạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮳ̣ (jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They \SpecialChar \ldots{}
+ you.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎨᏣ̣- (ge²jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They \SpecialChar \ldots{}
+ he or it.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꭰ̣Ꮒ- (ạ²ni-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ ᎤᏂ- (u¹ni-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They \SpecialChar \ldots{}
+ them.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮣ̣Ꮒ- (dạ²ni-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ ᏚᏂ- (du¹ni-)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Compare them to each other and you will notice a pattern which shows three
+ very common prefixes which are added to each of the bound pronouns to indicate
+ 
+\begin_inset Quotes eld
+\end_inset
+
+them
+\begin_inset Quotes erd
+\end_inset
+
+.
+ We will look at each, one at a time:
+\end_layout
+
+\begin_layout Description
+Ꭶ- [ga-] 
+\begin_inset Quotes eld
+\end_inset
+
+them-animate
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The following shows the bound pronouns you have used so far which are used
+ with 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭶ-
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Itemize
+Ꮵ-, ᏥᏯ͓- (ji-, ji²y-) 
+\begin_inset Quotes eld
+\end_inset
+
+I \SpecialChar \ldots{}
+ him or her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²jiy-) 
+\begin_inset Quotes eld
+\end_inset
+
+I \SpecialChar \ldots{}
+ them (animate).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Ꭿ-, ᎯᏯ͓- (hi-, hi²y-) 
+\begin_inset Quotes eld
+\end_inset
+
+You \SpecialChar \ldots{}
+ him or her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hi²y-) 
+\begin_inset Quotes eld
+\end_inset
+
+You \SpecialChar \ldots{}
+ them (animate).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Example usage:
+\end_layout
+
+\begin_layout Itemize
+ᏌᎶᎵ ᏥᏯᏚᎵᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I want a squirrel.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+The 
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᏯ͓-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix means 
+\begin_inset Quotes eld
+\end_inset
+
+I \SpecialChar \ldots{}
+ it
+\begin_inset Quotes erd
+\end_inset
+
+, so we know that there is only one squirrel.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏌᎶᎵ ᎦᏥᏯᏚᎵᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I want squirrels.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Adding 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭶ-
+\begin_inset Quotes erd
+\end_inset
+
+ to 
+\begin_inset Quotes eld
+\end_inset
+
+ᏥᏯ͓-
+\begin_inset Quotes erd
+\end_inset
+
+ changes the meaning from 
+\begin_inset Quotes eld
+\end_inset
+
+I \SpecialChar \ldots{}
+ it.
+\begin_inset Quotes erd
+\end_inset
+
+ to 
+\begin_inset Quotes eld
+\end_inset
+
+I \SpecialChar \ldots{}
+ them.
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This change from 
+\begin_inset Quotes eld
+\end_inset
+
+it
+\begin_inset Quotes erd
+\end_inset
+
+ to 
+\begin_inset Quotes eld
+\end_inset
+
+them
+\begin_inset Quotes erd
+\end_inset
+
+ lets us know that there must be two or more squirrels wanted.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏥᏍᏚ ᎯᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You see a rabbit.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+The 
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᏯ͓-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix means 
+\begin_inset Quotes eld
+\end_inset
+
+You \SpecialChar \ldots{}
+ it
+\begin_inset Quotes erd
+\end_inset
+
+, so we know that there is only one rabbit.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏥᏍᏚ ᎦᎯᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You see rabbits.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Adding 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭶ-
+\begin_inset Quotes erd
+\end_inset
+
+ to 
+\begin_inset Quotes eld
+\end_inset
+
+ᎯᏯ͓-
+\begin_inset Quotes erd
+\end_inset
+
+ changes the meaning from 
+\begin_inset Quotes eld
+\end_inset
+
+You \SpecialChar \ldots{}
+ it.
+\begin_inset Quotes erd
+\end_inset
+
+ to 
+\begin_inset Quotes eld
+\end_inset
+
+You \SpecialChar \ldots{}
+ them.
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+it
+\begin_inset Quotes erd
+\end_inset
+
+ has changed to 
+\begin_inset Quotes eld
+\end_inset
+
+them
+\begin_inset Quotes erd
+\end_inset
+
+ so we know that there must be two or more rabbits in sight.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+⚠
+\emph on
+ Some speakers do not use the 
+\begin_inset Quotes eld
+\end_inset
+
+ga-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix and instead use the 
+\begin_inset Quotes eld
+\end_inset
+
+de-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix.
+ This lesson material expects you to use both prefixes.
+\end_layout
+
+\begin_layout Description
+Ꭸ- [ge-] 
+\begin_inset Quotes eld
+\end_inset
+
+They \SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The following shows the bound pronouns you have used so far which are used
+ with 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭸ-
+\begin_inset Quotes erd
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎠᎩ̣-, ᎠᏆ͓- (a²gị-, a²gw-) 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎬᎩ̣-, ᎬᏆ͓- (gv²gị-, gv²gw-) 
+\begin_inset Quotes eld
+\end_inset
+
+They \SpecialChar \ldots{}
+ me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꮳ̣ (jạ-) 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎨᏣ̣ (ge²jạ-) 
+\begin_inset Quotes eld
+\end_inset
+
+They \SpecialChar \ldots{}
+ you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
+☞ 
+\emph on
+Ꭸ- and Ꭰ- combine their sounds together to become Ꭼ-.
+\end_layout
+
+\begin_layout Standard
+Example usage:
+\end_layout
+
+\begin_layout Itemize
+ᏩᏯ ᎠᎩᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A wolf sees me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏩᏯ ᎬᎩᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The wolves see me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏩᏯ ᎬᏆᏚᎵᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The wolves want me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏥᏍᏚ ᏣᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A rabbit sees you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏥᏍᏚ ᎨᏣᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The rabbits see you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+ᏥᏍᏚ ᎨᏣᏚᎵᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The rabbits want you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+Ꮥ- [de-] 
+\begin_inset Quotes eld
+\end_inset
+
+them
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+more than once
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This prefix is used to indicate either 
+\begin_inset Quotes eld
+\end_inset
+
+them
+\begin_inset Quotes erd
+\end_inset
+
+, 
+\begin_inset Quotes eld
+\end_inset
+
+more than once
+\begin_inset Quotes erd
+\end_inset
+
+, or a combination of the two.
+ Most of the time it indicates 
+\begin_inset Quotes eld
+\end_inset
+
+them
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+The following table shows the bound pronouns with the meanings of 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ me or you
+\begin_inset Quotes erd
+\end_inset
+
+ with and without the 
+\begin_inset Quotes eld
+\end_inset
+
+de-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix added:
+\end_layout
+
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎠᎩ̣-, ᎠᏆ͓- (a²gị-, a²gw-) 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᏓᎩ̣-, ᏓᏆ͓- (da²gị-, da²gw-) 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ me, more than once.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꮳ̣ (jạ-) 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᏕᏣ̣ (de²jạ-) 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ you, more than once.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Example usage:
+\end_layout
+
+\begin_layout Itemize
+ᏩᏯ ᎠᎩᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A wolf sees me.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏩᏯ ᏓᎩᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A wolf is seeing me more than once.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Like seeing multiple reflections of me in mirrors.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏥᏍᏚ ᏣᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A rabbit sees you.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏥᏍᏚ ᏕᏣᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+A rabbit is seeing you more than once.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Like seeing multiple reflections of you in mirrors.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+The following table shows the remaining bound pronouns with and without
+ the 
+\begin_inset Quotes eld
+\end_inset
+
+de-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix added:
+\end_layout
+
+\begin_layout Itemize
+Ꮵ̣-, Ꭶ͓- (jị-, g-) 
+\begin_inset Quotes eld
+\end_inset
+
+I \SpecialChar \ldots{}
+ it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏕᏥ-, ᏕᎦ͓- (de²ji-, g-) 
+\begin_inset Quotes eld
+\end_inset
+
+I \SpecialChar \ldots{}
+ them (inanimate).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᎩ̣-, ᎠᏆ͓- (a²gị-, a²gw-) 
+\begin_inset Quotes eld
+\end_inset
+
+I \SpecialChar \ldots{}
+ it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏓᎩ̣-, ᏓᏆ͓- (da²gị-, da²gw-) 
+\begin_inset Quotes eld
+\end_inset
+
+I \SpecialChar \ldots{}
+ them (inanimate).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꭰ̣-, Ꭶ̣- (ạ-, gạ-) 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ he or it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꮣ-, ᏕᎦ̣- (da-, de²gạ-) 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꭴ-, Ꭴ̣Ꮹ͓- (u-, ụw-) 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ he or it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꮪ-, Ꮪ̣Ꮹ͓- (du-, dụ²w-) 
+\begin_inset Quotes eld
+\end_inset
+
+He \SpecialChar \ldots{}
+ them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Ꭿ̣- (hị-) 
+\begin_inset Quotes eld
+\end_inset
+
+You \SpecialChar \ldots{}
+ it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏕᎯ̣- (de²hị-) 
+\begin_inset Quotes eld
+\end_inset
+
+You \SpecialChar \ldots{}
+ them (inanimate).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Ꮳ̣- (jạ-) 
+\begin_inset Quotes eld
+\end_inset
+
+You \SpecialChar \ldots{}
+ it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏕᏣ̣- (de²jạ-) 
+\begin_inset Quotes eld
+\end_inset
+
+You \SpecialChar \ldots{}
+ them (inanimate).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꭰ̣Ꮒ- (ạ²ni-) 
+\begin_inset Quotes eld
+\end_inset
+
+They \SpecialChar \ldots{}
+ he or it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꮣ̣Ꮒ- (dạ²ni-) 
+\begin_inset Quotes eld
+\end_inset
+
+They \SpecialChar \ldots{}
+ them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎤᏂ- (u¹ni-) 
+\begin_inset Quotes eld
+\end_inset
+
+They \SpecialChar \ldots{}
+ he or it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᏚᏂ- (du¹ni-) 
+\begin_inset Quotes eld
+\end_inset
+
+They \SpecialChar \ldots{}
+ them.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Example usage:
+\end_layout
+
+\begin_layout Itemize
+ᏌᏛᏗ ᏥᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I see a trap.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏗᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+I see traps.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+I see traps.
+ I am seeing them one at a time.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It does not have to be a different trap for each sighting.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+I see rocks.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+This would be the correct meaning to assume, unless something indicates
+ otherwise.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+I see rocks.
+ I am seeing them more than once.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It could be any number of rocks per sighting (including only a single rock)
+ and it does not have to be different rocks for each sighting.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎦᏍᎩᎶ ᎯᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You see a chair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏗᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+You see chairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+You see chairs.
+ You are seeing them one at a time.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It can be either the same chair or a different chair for each sighting.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+You see rocks.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+This would be the correct meaning to assume, unless something indicates
+ otherwise.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+You see rocks.
+ You are seeing them more than once.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It could be any number of rocks per sighting (including only a single rock)
+ and it does not have to be different rocks for each sighting.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎦᏍᎩᎶ ᎠᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she sees a chair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏗᎦᏍᎩᎶ ᏓᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+He/she sees chairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎦᏍᎩᎶ ᏓᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+He/she sees chairs.
+ He/she is seeing them one at a time.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It can be either the same chair or a different chair for each sighting.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏅᏯ ᏓᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+He/she sees rocks.
+ He/she is seeing them more than once.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It could be any number of rocks per sighting (including only a single rock)
+ and it does not have to be different rocks for each sighting.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ ᏙᏯ ᎠᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The wolf sees a beaver.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏩᎭᏯ ᏙᏯ ᏓᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+The wolf sees beaver.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+This would be the correct meaning to assume, unless something indicates
+ otherwise.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+The wolf sees beaver.
+ The wolf is seeing them more than once.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It could be any number of beaver per sighting (including repeatedly seeing
+ only a single beaver) and it does not have to be different beaver for each
+ sighting.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏩᏯ ᏧᏃᏗᎨᎢ ᏙᏯ ᏓᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+The wolf sees brown beaver.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+The use of the plural color brown makes it clear that there are two or more
+ beaver.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎠᏂᏴᏫ ᏌᏛᏗ ᎠᏂᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The people see a trap.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎠᏂᏴᏫ ᏗᏌᏛᏗ ᏓᏂᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+The people see traps.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᏂᏴᏫ ᏌᏛᏗ ᏓᏂᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+The people see traps.
+ They see them one at a time.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᏂᏴᏫ ᏅᏯ ᏓᏂᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+The people see rocks.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+This would be the correct meaning to assume, unless something indicates
+ otherwise.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+They see rocks.
+ They see them more than once.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It could be any number of rocks per sighting (including only a single rock)
+ and it does not have to be different rocks for each sighting.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎠᏂᏴᏫ ᏥᏍᏚ ᎠᏂᎪᏩᏘᎭ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+The people see a rabbit.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎠᏂᏴᏫ ᏥᏍᏚ ᏓᏂᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+The people see rabbits.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+This would be the correct meaning to assume, unless something indicates
+ otherwise.
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+They see rabbits.
+ They are seeing them more than once.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+It could be any number of rabbits per sighting (including only a single
+ rabbit) and it does not have to be different rabbits for each sighting.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᏂᏴᏫ ᎤᏂᏁᎦ ᏥᏍᏚ ᏓᏂᎪᏩᏘᎭ.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+The people see white rabbits.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+The use of the plural for the color white makes it clear that there are
+ two or more rabbits.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Description
+ᏕᎦ- [dega-] 
+\begin_inset Quotes eld
+\end_inset
+
+them-animate (more than once).
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+This is a combination of 
+\begin_inset Quotes eld
+\end_inset
+
+de-
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+ga-
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Example usage:
+\end_layout
+
+\begin_layout Itemize
+ᏌᎶᎵᏍ ᎯᏆᏘᎭ? 
+\begin_inset Quotes eld
+\end_inset
+
+Do you see a squirrel?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏌᎶᎵᏍ ᎦᎯᎪᏩᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Do you see squirrels?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏌᎶᎵᏍ ᏕᎦᎯᎪᏩᏘᎭ?
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Are you seeing squirrels more than once?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Are you seeing more than one grouping of squirrels?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Section
+ᏙᏪᎸᎦ
+\end_layout
+
+\begin_layout Standard
+Write out each of the following Cherokee phrases with the number of its
+ matching picture.
+ When done, compare your answers to the answers at the end of this section.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Some challenges show pronunciation marks.
+ They have been added to help you with remembering critical pronunciations.
+ You should not write them out.
+\end_layout
+
+\begin_layout Subsection*
+Challenges
+\end_layout
+
+\begin_layout Enumerate
+x
+\end_layout
+
+\begin_layout Subsection*
+Pictures
+\end_layout
+
+\begin_layout Subsection*
+Answers
+\end_layout
+
+\begin_layout Chapter
+ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+\end_layout
+
+\begin_layout Section
 ᏘᎪᎵᏯ
 \end_layout
 
@@ -11149,2066 +13471,6 @@ end{multicols}
 
 \end_layout
 
-\begin_layout Chapter
-xxx ᎠᏕᎶᏆᏍᏗ
-\end_layout
-
-\begin_layout Section
-ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ (Grammar)
-\end_layout
-
-\begin_layout Standard
-Let's review the bound pronouns you have been using so far:
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-I \SpecialChar \ldots{}
- him
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-) 
-\end_layout
-
-\begin_layout Itemize
-Set B: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-I \SpecialChar \ldots{}
- it.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A: Ꮵ̣-, Ꭶ͓- (jị-, g-) 
-\end_layout
-
-\begin_layout Itemize
-Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-I \SpecialChar \ldots{}
- them (animate).
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²jiy-) 
-\end_layout
-
-\begin_layout Itemize
-Set B: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²ji²y-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-I \SpecialChar \ldots{}
- them (inanimate).
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A: ᏕᏥ-, ᏕᎦ͓- (de²ji-, g-) 
-\end_layout
-
-\begin_layout Itemize
-Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-He \SpecialChar \ldots{}
- me.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A: 
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
-\end_layout
-
-\begin_layout Itemize
-Set B: 
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (ạ²gị-, ạ²gw-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-They \SpecialChar \ldots{}
- me.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-ᎬᎩ̣-, ᎬᏆ͓- (gv²gị-, gv²gw-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-He \SpecialChar \ldots{}
- he or it.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꭰ̣-, Ꭶ̣- (ạ-, gạ-)
-\end_layout
-
-\begin_layout Itemize
-Set B:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꭴ-, Ꭴ̣Ꮹ͓- (u-, ụw-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-He \SpecialChar \ldots{}
- them.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꮣ̣-, ᏕᎦ̣- (dạ-, de²gạ-)
-\end_layout
-
-\begin_layout Itemize
-Set B:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꮪ-, Ꮪ̣Ꮹ͓- (du-, dụ²w-)
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-columnbreak{}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-You \SpecialChar \ldots{}
- him.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-) 
-\end_layout
-
-\begin_layout Itemize
-Set B: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-) 
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-You \SpecialChar \ldots{}
- it.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A: Ꭿ̣- (hị-) 
-\end_layout
-
-\begin_layout Itemize
-Set B: Ꮳ̣- (jạ-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-You \SpecialChar \ldots{}
- them (animate).
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-) 
-\end_layout
-
-\begin_layout Itemize
-Set B: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-) 
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-You \SpecialChar \ldots{}
- them (inanimate).
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A: ᏕᎯ̣- (de²hị-) 
-\end_layout
-
-\begin_layout Itemize
-Set B: ᏕᏣ̣- (de²jạ-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-He \SpecialChar \ldots{}
- you.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A: 
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꮳ̣ (jạ-)
-\end_layout
-
-\begin_layout Itemize
-Set B:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꮳ̣ (jạ-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-They \SpecialChar \ldots{}
- you.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-ᎨᏣ̣- (ge²jạ-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-They \SpecialChar \ldots{}
- he or it.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꭰ̣Ꮒ- (ạ²ni-)
-\end_layout
-
-\begin_layout Itemize
-Set B:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- ᎤᏂ- (u¹ni-)
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-They \SpecialChar \ldots{}
- them.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Set A:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- Ꮣ̣Ꮒ- (dạ²ni-)
-\end_layout
-
-\begin_layout Itemize
-Set B:
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
- ᏚᏂ- (du¹ni-)
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Compare them to each other and you will notice a pattern which shows three
- very common prefixes which are added to each of the bound pronouns to indicate
- 
-\begin_inset Quotes eld
-\end_inset
-
-them
-\begin_inset Quotes erd
-\end_inset
-
-.
- We will look at each, one at a time:
-\end_layout
-
-\begin_layout Description
-Ꭶ- [ga-] 
-\begin_inset Quotes eld
-\end_inset
-
-them-animate
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-The following shows the prefixes you have used so far which are used with
- 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭶ-
-\begin_inset Quotes erd
-\end_inset
-
-:
-\end_layout
-
-\begin_layout Itemize
-Ꮵ-, ᏥᏯ͓- (ji-, ji²y-) 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- him or her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²jiy-) 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- them (animate).
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Ꭿ-, ᎯᏯ͓- (hi-, hi²y-) 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- him or her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hi²y-) 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- them (animate).
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-Example usage:
-\end_layout
-
-\begin_layout Itemize
-ᏌᎶᎵ ᏥᏯᏚᎵᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-I want a squirrel.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-The 
-\begin_inset Quotes eld
-\end_inset
-
-ᏥᏯ͓-
-\begin_inset Quotes erd
-\end_inset
-
- prefix means 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- it
-\begin_inset Quotes erd
-\end_inset
-
-, so we know that there is only one squirrel.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏌᎶᎵ ᎦᏥᏯᏚᎵᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-I want squirrels.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Adding 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭶ-
-\begin_inset Quotes erd
-\end_inset
-
- to 
-\begin_inset Quotes eld
-\end_inset
-
-ᏥᏯ͓-
-\begin_inset Quotes erd
-\end_inset
-
- changes the meaning from 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- it.
-\begin_inset Quotes erd
-\end_inset
-
- to 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- them.
-\begin_inset Quotes erd
-\end_inset
-
-.
- This change from 
-\begin_inset Quotes eld
-\end_inset
-
-it
-\begin_inset Quotes erd
-\end_inset
-
- to 
-\begin_inset Quotes eld
-\end_inset
-
-them
-\begin_inset Quotes erd
-\end_inset
-
- lets us know that there must be two or more squirrels wanted.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᏥᏍᏚ ᎯᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-You see a rabbit.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-The 
-\begin_inset Quotes eld
-\end_inset
-
-ᎯᏯ͓-
-\begin_inset Quotes erd
-\end_inset
-
- prefix means 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- it
-\begin_inset Quotes erd
-\end_inset
-
-, so we know that there is only one rabbit.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏥᏍᏚ ᎦᎯᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-You see rabbits.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Adding 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭶ-
-\begin_inset Quotes erd
-\end_inset
-
- to 
-\begin_inset Quotes eld
-\end_inset
-
-ᎯᏯ͓-
-\begin_inset Quotes erd
-\end_inset
-
- changes the meaning from 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- it.
-\begin_inset Quotes erd
-\end_inset
-
- to 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- them.
-\begin_inset Quotes erd
-\end_inset
-
-.
- The 
-\begin_inset Quotes eld
-\end_inset
-
-it
-\begin_inset Quotes erd
-\end_inset
-
- has changed to 
-\begin_inset Quotes eld
-\end_inset
-
-them
-\begin_inset Quotes erd
-\end_inset
-
- so we know that there must be two or more rabbits in sight.
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-⚠
-\emph on
- Some speakers do not use the 
-\begin_inset Quotes eld
-\end_inset
-
-ga-
-\begin_inset Quotes erd
-\end_inset
-
- prefix and instead use the 
-\begin_inset Quotes eld
-\end_inset
-
-de-
-\begin_inset Quotes erd
-\end_inset
-
- prefix.
- This lesson material expects you to use both prefixes.
-\end_layout
-
-\begin_layout Description
-Ꮥ- [de-] 
-\begin_inset Quotes eld
-\end_inset
-
-them
-\begin_inset Quotes erd
-\end_inset
-
- or 
-\begin_inset Quotes eld
-\end_inset
-
-more than once
-\begin_inset Quotes erd
-\end_inset
-
-.
- This prefix is used to indicate either 
-\begin_inset Quotes eld
-\end_inset
-
-them
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-more than once
-\begin_inset Quotes erd
-\end_inset
-
-, or a combination of the two.
- It is safe to assume it indicates 
-\begin_inset Quotes eld
-\end_inset
-
-them
-\begin_inset Quotes erd
-\end_inset
-
- unless context shows otherwise.
-\end_layout
-
-\begin_layout Standard
-The following table shows the bound pronouns with the meanings of 
-\begin_inset Quotes eld
-\end_inset
-
-He \SpecialChar \ldots{}
- me or you
-\begin_inset Quotes erd
-\end_inset
-
- with and without the 
-\begin_inset Quotes eld
-\end_inset
-
-de-
-\begin_inset Quotes erd
-\end_inset
-
- prefix added:
-\end_layout
-
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-ᎠᎩ̣-, ᎠᏆ͓- (a²gị-, a²gw-) 
-\begin_inset Quotes eld
-\end_inset
-
-He \SpecialChar \ldots{}
- me.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-ᏓᎩ̣-, ᏓᏆ͓- (da²gị-, da²gw-) 
-\begin_inset Quotes eld
-\end_inset
-
-He \SpecialChar \ldots{}
- me, more than once.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꮳ̣ (jạ-) 
-\begin_inset Quotes eld
-\end_inset
-
-He \SpecialChar \ldots{}
- you.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-ᏕᏣ̣ (de²jạ-) 
-\begin_inset Quotes eld
-\end_inset
-
-He \SpecialChar \ldots{}
- you, more than once.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-Example usage:
-\end_layout
-
-\begin_layout Itemize
-ᏩᏯ ᎠᎩᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-A wolf sees me.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏩᏯ ᏓᎩᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-A wolf is seeing me more than once.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Like seeing multiple reflections of me in mirrors.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᏥᏍᏚ ᏣᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-A rabbit sees you.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏥᏍᏚ ᏕᏣᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-A rabbit is seeing you more than once.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Like seeing multiple reflections of you in mirrors.
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-The following table shows the remaining bound pronouns with and without
- the 
-\begin_inset Quotes eld
-\end_inset
-
-de-
-\begin_inset Quotes erd
-\end_inset
-
- prefix added:
-\end_layout
-
-\begin_layout Itemize
-Ꮵ̣-, Ꭶ͓- (jị-, g-) 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏕᏥ-, ᏕᎦ͓- (de²ji-, g-) 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- them (inanimate).
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎠᎩ̣-, ᎠᏆ͓- (a²gị-, a²gw-) 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏓᎩ̣-, ᏓᏆ͓- (da²gị-, da²gw-) 
-\begin_inset Quotes eld
-\end_inset
-
-I \SpecialChar \ldots{}
- them (inanimate).
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꭰ̣-, Ꭶ̣- (ạ-, gạ-) 
-\begin_inset Quotes eld
-\end_inset
-
-He \SpecialChar \ldots{}
- he or it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꮣ-, ᏕᎦ̣- (da-, de²gạ-) 
-\begin_inset Quotes eld
-\end_inset
-
-He \SpecialChar \ldots{}
- them.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꭴ-, Ꭴ̣Ꮹ͓- (u-, ụw-) 
-\begin_inset Quotes eld
-\end_inset
-
-He \SpecialChar \ldots{}
- he or it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꮪ-, Ꮪ̣Ꮹ͓- (du-, dụ²w-) 
-\begin_inset Quotes eld
-\end_inset
-
-He \SpecialChar \ldots{}
- them.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Ꭿ̣- (hị-) 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏕᎯ̣- (de²hị-) 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- them (inanimate).
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Ꮳ̣- (jạ-) 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏕᏣ̣- (de²jạ-) 
-\begin_inset Quotes eld
-\end_inset
-
-You \SpecialChar \ldots{}
- them (inanimate).
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꭰ̣Ꮒ- (ạ²ni-) 
-\begin_inset Quotes eld
-\end_inset
-
-They \SpecialChar \ldots{}
- he or it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-Ꮣ̣Ꮒ- (dạ²ni-) 
-\begin_inset Quotes eld
-\end_inset
-
-They \SpecialChar \ldots{}
- them.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-ᎤᏂ- (u¹ni-) 
-\begin_inset Quotes eld
-\end_inset
-
-They \SpecialChar \ldots{}
- he or it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-
-\family roman
-\series medium
-\shape up
-\size normal
-\emph off
-\bar no
-\strikeout off
-\uuline off
-\uwave off
-\noun off
-\color none
-\lang english
-ᏚᏂ- (du¹ni-) 
-\begin_inset Quotes eld
-\end_inset
-
-They \SpecialChar \ldots{}
- them.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-Example usage:
-\end_layout
-
-\begin_layout Itemize
-ᏌᏛᏗ ᏥᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-I see a trap.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏗᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-I see traps.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-I see traps.
- I am seeing them one at a time.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-It does not have to be a different trap for each sighting.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-I see rocks.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-This would be the correct meaning to assume, unless something indicates
- otherwise.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-I see rocks.
- I am seeing them more than once.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-It could be any number of rocks per sighting (including only a single rock)
- and it does not have to be different rocks for each sighting.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-ᎦᏍᎩᎶ ᎯᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-You see a chair.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏗᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-You see chairs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-You see chairs.
- You are seeing them one at a time.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-It can be either the same chair or a different chair for each sighting.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-You see rocks.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-This would be the correct meaning to assume, unless something indicates
- otherwise.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-You see rocks.
- You are seeing them more than once.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-It could be any number of rocks per sighting (including only a single rock)
- and it does not have to be different rocks for each sighting.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-ᎦᏍᎩᎶ ᎠᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-He/she sees a chair.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏗᎦᏍᎩᎶ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-He/she sees chairs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎦᏍᎩᎶ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-He/she sees chairs.
- He/she is seeing them one at a time.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-It can be either the same chair or a different chair for each sighting.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᏅᏯ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-He/she sees rocks.
- He/she is seeing them more than once.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-It could be any number of rocks per sighting (including only a single rock)
- and it does not have to be different rocks for each sighting.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-ᏩᏯ ᏙᏯ ᎠᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-The wolf sees a beaver.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏩᎭᏯ ᏙᏯ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-The wolf sees beaver.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-This would be the correct meaning to assume, unless something indicates
- otherwise.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-The wolf sees beaver.
- The wolf is seeing them more than once.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-It could be any number of beaver per sighting (including repeatedly seeing
- only a single beaver) and it does not have to be different beaver for each
- sighting.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᏩᏯ ᏧᏃᏗᎨᎢ ᏙᏯ ᏓᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-The wolf sees brown beaver.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-The use of the plural color brown makes it clear that there are two or more
- beaver.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-ᎠᏂᏴᏫ ᏌᏛᏗ ᎠᏂᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-The people see a trap.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᎠᏂᏴᏫ ᏗᏌᏛᏗ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-The people see traps.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎠᏂᏴᏫ ᏌᏛᏗ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-The people see traps.
- They see them one at a time.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎠᏂᏴᏫ ᏅᏯ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-The people see rocks.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-This would be the correct meaning to assume, unless something indicates
- otherwise.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-They see rocks.
- They see them more than once.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-It could be any number of rocks per sighting (including only a single rock)
- and it does not have to be different rocks for each sighting.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-ᎠᏂᏴᏫ ᏥᏍᏚ ᎠᏂᎪᏩᏘᎭ.
- 
-\begin_inset Quotes eld
-\end_inset
-
-The people see a rabbit.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᎠᏂᏴᏫ ᏥᏍᏚ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-The people see rabbits.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-This would be the correct meaning to assume, unless something indicates
- otherwise.
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-They see rabbits.
- They are seeing them more than once.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-It could be any number of rabbits per sighting (including only a single
- rabbit) and it does not have to be different rabbits for each sighting.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎠᏂᏴᏫ ᎤᏂᏁᎦ ᏥᏍᏚ ᏓᏂᎪᏩᏘᎭ.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-The people see white rabbits.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-The use of the plural for the color white makes it clear that there are
- two or more rabbits.
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Description
-ᏕᎦ- [dega-] 
-\begin_inset Quotes eld
-\end_inset
-
-them-animate (more than once).
-\begin_inset Quotes erd
-\end_inset
-
- ☞ 
-\emph on
-This is a combination of 
-\begin_inset Quotes eld
-\end_inset
-
-de-
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-ga-
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Example usage:
-\end_layout
-
-\begin_layout Itemize
-ᏌᎶᎵᏍ ᎯᏆᏘᎭ? 
-\begin_inset Quotes eld
-\end_inset
-
-Do you see a squirrel?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏌᎶᎵᏍ ᎦᎯᎪᏩᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Do you see squirrels?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᏌᎶᎵᏍ ᏕᎦᎯᎪᏩᏘᎭ?
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Are you seeing squirrels more than once?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Are you seeing more than one grouping of squirrels?
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\end_deeper
 \begin_layout Chapter
 xxx ᎠᏕᎶᏆᏍᏗ
 \end_layout
