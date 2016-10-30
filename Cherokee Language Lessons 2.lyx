@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.13 $
+$Revision: 1.14 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/30 06:13:18 $ UTC
+$Date: 2016/10/30 16:25:34 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.13 $
+$Revision: 1.14 $
 \noun default
 .
 \end_layout
@@ -12570,7 +12570,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Subsubsection*
-Commands to give two people
+Special word
 \end_layout
 
 \begin_layout Standard
@@ -12597,11 +12597,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎡᏍᏓᏒᏂᎦ [e²sdạ²svnh²ga] 
+ᎮᏍᏗ [he¹sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Touch him you two.
+Don't
 \begin_inset Quotes erd
 \end_inset
 
@@ -12609,71 +12609,11 @@ Touch him you two.
 \end_layout
 
 \begin_layout Description
-ᏍᏓᎢᏎᏍᏗ [sda³ɂi²se³sdi] 
+ᏞᏍᏗ [hle¹sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-You two will be walking.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏍᏓᎦᏔᎲᎾ [sdạ²ktạ²hv²³na] 
-\begin_inset Quotes eld
-\end_inset
-
-Turn around you two.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏍᏓᎴᏫᏍᏓ [sdạ²le²hwị²sda] 
-\begin_inset Quotes eld
-\end_inset
-
-Stop you two.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏍᏓᏒᏂᎦ [sdạ²svnh²ga] 
-\begin_inset Quotes eld
-\end_inset
-
-Touch it you two.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᏍᏗᏙᎨᏍᏗ [dị²sdị²do³²ge³sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Stand you two.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏗᏍᏙᏞᏍᏗ [dị²sdo²³hle³²sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Sit you two.
+Don't
 \begin_inset Quotes erd
 \end_inset
 
@@ -12697,7 +12637,30 @@ end{multicols}
 \end_layout
 
 \begin_layout Subsubsection*
-Commands to give to more than two people
+Negative commands to give one person
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+To make a negative command, most of the time we use the word 
+\begin_inset Quotes eld
+\end_inset
+
+hlesdi
+\begin_inset Quotes erd
+\end_inset
+
+ and add 
+\begin_inset Quotes eld
+\end_inset
+
+ji-
+\begin_inset Quotes erd
+\end_inset
+
+ onto the command word.
+ The following are the previous seven words in negative form.
 \end_layout
 
 \begin_layout Standard
@@ -12724,11 +12687,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎡᏣᏒᏂᎦ [e²jạ²svnh²ga] 
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏯᎢᏎᏍᏗ [hla
+\begin_inset space ~
+\end_inset
+
+hya³ɂi²se³sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Touch him you all.
+No, you will not be walking.
 \begin_inset Quotes erd
 \end_inset
 
@@ -12736,11 +12707,15 @@ Touch him you all.
 \end_layout
 
 \begin_layout Description
-ᎢᏣᎢᏎᏍᏗ [i²ja³ɂi²se³sdi] 
+ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᎭᎦᏔᎲᎾ [hle¹sdi ji²hạ²ktạ²hv²³na] 
 \begin_inset Quotes eld
 \end_inset
 
-You all will be walking.
+Don't turn around.
 \begin_inset Quotes erd
 \end_inset
 
@@ -12748,11 +12723,15 @@ You all will be walking.
 \end_layout
 
 \begin_layout Description
-ᎢᏣᎦᏔᎲᎾ [i²jạ²ktạ²hv²³na] 
+ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᎭᎴᏫᏍᏓ [hle¹sdi ji²hạ²le²hwị²sda] 
 \begin_inset Quotes eld
 \end_inset
 
-Turn around you all.
+Don't stop.
 \begin_inset Quotes erd
 \end_inset
 
@@ -12760,11 +12739,15 @@ Turn around you all.
 \end_layout
 
 \begin_layout Description
-ᎢᏣᎴᏫᏍᏓ [i²jạ²le²hwị²sda] 
+ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᎭᏒᏂᎦ [hle¹sdi ji²hạ²svnh²ga] 
 \begin_inset Quotes eld
 \end_inset
 
-Stop you all.
+Don't touch it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -12772,11 +12755,15 @@ Stop you all.
 \end_layout
 
 \begin_layout Description
-ᎢᏣᏒᏂᎦ [i²jạ²svnh²ga] 
+ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᎯᏙᎨᏍᏗ [hle¹sdi ji²hị²do³²ge³sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Touch it you all.
+Don't stand.
 \begin_inset Quotes erd
 \end_inset
 
@@ -12784,11 +12771,15 @@ Touch it you all.
 \end_layout
 
 \begin_layout Description
-ᏗᏥᏙᎨᏍᏗ [di²ji²do³²ge³sdi] 
+ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᎯᏯᏒᏂᎦ [hle¹sdi ji²hi²ya¹svnh²ga] 
 \begin_inset Quotes eld
 \end_inset
 
-Stand you all.
+Don't touch him.
 \begin_inset Quotes erd
 \end_inset
 
@@ -12796,11 +12787,15 @@ Stand you all.
 \end_layout
 
 \begin_layout Description
-ᏗᏦᏞᏍᏗ [di²jo²³hle³²sdi] 
+ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᏦᏞᏍᏗ [hle¹sdi ji²jo²³hle³²sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Sit you all.
+Don't sit.
 \begin_inset Quotes erd
 \end_inset
 
@@ -13233,7 +13228,7 @@ Read over the following vocabulary carefully, practice saying the words
 \end_layout
 
 \begin_layout Subsubsection*
-Special word
+Commands to give two people
 \end_layout
 
 \begin_layout Standard
@@ -13260,11 +13255,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎮᏍᏗ [he¹sdi] 
+ᎡᏍᏓᏒᏂᎦ [e²sdạ²svnh²ga] 
 \begin_inset Quotes eld
 \end_inset
 
-Don't
+Touch him you two.
 \begin_inset Quotes erd
 \end_inset
 
@@ -13272,97 +13267,11 @@ Don't
 \end_layout
 
 \begin_layout Description
-ᏞᏍᏗ [hle¹sdi] 
+ᏍᏓᎢᏎᏍᏗ [sda³ɂi²se³sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Don't
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection*
-Negative commands to give one person
-\end_layout
-
-\begin_layout Standard
-☞ 
-\emph on
-To make a negative command, most of the time we use the word 
-\begin_inset Quotes eld
-\end_inset
-
-hlesdi
-\begin_inset Quotes erd
-\end_inset
-
- and add 
-\begin_inset Quotes eld
-\end_inset
-
-ji-
-\begin_inset Quotes erd
-\end_inset
-
- onto the command word.
- The following are the previous seven words in negative form.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-Ꮭ
-\begin_inset space ~
-\end_inset
-
-ᏯᎢᏎᏍᏗ [hla
-\begin_inset space ~
-\end_inset
-
-hya³ɂi²se³sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-No, you will not be walking.
+You two will be walking.
 \begin_inset Quotes erd
 \end_inset
 
@@ -13370,15 +13279,11 @@ No, you will not be walking.
 \end_layout
 
 \begin_layout Description
-ᏞᏍᏗ
-\begin_inset space ~
-\end_inset
-
-ᏥᎭᎦᏔᎲᎾ [hle¹sdi ji²hạ²ktạ²hv²³na] 
+ᏍᏓᎦᏔᎲᎾ [sdạ²ktạ²hv²³na] 
 \begin_inset Quotes eld
 \end_inset
 
-Don't turn around.
+Turn around you two.
 \begin_inset Quotes erd
 \end_inset
 
@@ -13386,15 +13291,11 @@ Don't turn around.
 \end_layout
 
 \begin_layout Description
-ᏞᏍᏗ
-\begin_inset space ~
-\end_inset
-
-ᏥᎭᎴᏫᏍᏓ [hle¹sdi ji²hạ²le²hwị²sda] 
+ᏍᏓᎴᏫᏍᏓ [sdạ²le²hwị²sda] 
 \begin_inset Quotes eld
 \end_inset
 
-Don't stop.
+Stop you two.
 \begin_inset Quotes erd
 \end_inset
 
@@ -13402,15 +13303,11 @@ Don't stop.
 \end_layout
 
 \begin_layout Description
-ᏞᏍᏗ
-\begin_inset space ~
-\end_inset
-
-ᏥᎭᏒᏂᎦ [hle¹sdi ji²hạ²svnh²ga] 
+ᏍᏓᏒᏂᎦ [sdạ²svnh²ga] 
 \begin_inset Quotes eld
 \end_inset
 
-Don't touch it.
+Touch it you two.
 \begin_inset Quotes erd
 \end_inset
 
@@ -13418,15 +13315,11 @@ Don't touch it.
 \end_layout
 
 \begin_layout Description
-ᏞᏍᏗ
-\begin_inset space ~
-\end_inset
-
-ᏥᎯᏙᎨᏍᏗ [hle¹sdi ji²hị²do³²ge³sdi] 
+ᏗᏍᏗᏙᎨᏍᏗ [dị²sdị²do³²ge³sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Don't stand.
+Stand you two.
 \begin_inset Quotes erd
 \end_inset
 
@@ -13434,31 +13327,11 @@ Don't stand.
 \end_layout
 
 \begin_layout Description
-ᏞᏍᏗ
-\begin_inset space ~
-\end_inset
-
-ᏥᎯᏯᏒᏂᎦ [hle¹sdi ji²hi²ya¹svnh²ga] 
+ᏗᏍᏙᏞᏍᏗ [dị²sdo²³hle³²sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Don't touch him.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏞᏍᏗ
-\begin_inset space ~
-\end_inset
-
-ᏥᏦᏞᏍᏗ [hle¹sdi ji²jo²³hle³²sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Don't sit.
+Sit you two.
 \begin_inset Quotes erd
 \end_inset
 
@@ -13641,6 +13514,133 @@ Don't stand you two.
 \end_inset
 
 Don't sit you two.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Commands to give to more than two people
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎡᏣᏒᏂᎦ [e²jạ²svnh²ga] 
+\begin_inset Quotes eld
+\end_inset
+
+Touch him you all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᏣᎢᏎᏍᏗ [i²ja³ɂi²se³sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+You all will be walking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᏣᎦᏔᎲᎾ [i²jạ²ktạ²hv²³na] 
+\begin_inset Quotes eld
+\end_inset
+
+Turn around you all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᏣᎴᏫᏍᏓ [i²jạ²le²hwị²sda] 
+\begin_inset Quotes eld
+\end_inset
+
+Stop you all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎢᏣᏒᏂᎦ [i²jạ²svnh²ga] 
+\begin_inset Quotes eld
+\end_inset
+
+Touch it you all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᏥᏙᎨᏍᏗ [di²ji²do³²ge³sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Stand you all.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏗᏦᏞᏍᏗ [di²jo²³hle³²sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Sit you all.
 \begin_inset Quotes erd
 \end_inset
 
