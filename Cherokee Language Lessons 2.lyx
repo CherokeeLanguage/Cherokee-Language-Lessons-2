@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.12 $
+$Revision: 1.13 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/30 05:26:59 $ UTC
+$Date: 2016/10/30 06:13:18 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.12 $
+$Revision: 1.13 $
 \noun default
 .
 \end_layout
@@ -10154,7 +10154,7 @@ Are you seeing more than one grouping of squirrels?
 \end_deeper
 \end_deeper
 \begin_layout Section
-ᏙᏪᎸᎦ
+ᏙᏪᎸᎦ 1
 \end_layout
 
 \begin_layout Standard
@@ -10384,6 +10384,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsection*
 Pictures
 \end_layout
@@ -10415,7 +10422,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/agiha_04.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10427,7 +10434,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/dagwaduliha_02.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10439,7 +10446,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/jaha_03.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10451,7 +10458,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/nasgi-gvgigowhtiha_01.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10463,7 +10470,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/junega-digohweli-dehigowhtiha.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10475,7 +10482,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/nasgi-nihi-jakaha.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10487,7 +10494,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/uha_01.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10499,7 +10506,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/digigage-digohweli-dejigowhtiha.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10511,7 +10518,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/uwodige-jisdu-jiigowhtiha.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10523,7 +10530,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/achuja-junodige-wahya-dagowhtiha.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10535,7 +10542,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/nasgi-ayv-agikaha_01.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10547,7 +10554,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/wesa-gahiyakaha.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10559,7 +10566,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/uniha_02.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10571,7 +10578,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/gosdi-dahalige-jigowhtiha.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10583,7 +10590,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/gihli-gajiyakaha.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10595,7 +10602,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/ajalagi-hiigowhtiha.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10607,7 +10614,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/uwakaha_03.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10619,7 +10626,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/uduliha_03.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10631,7 +10638,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/hiyakaha_02.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10643,7 +10650,7 @@ raggedcolumns
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/gejaduliha_01.png
 	lyxscale 50
-	width 70col%
+	width 85col%
 	groupId 4up
 
 \end_inset
@@ -10882,6 +10889,722 @@ raggedcolumns
 \begin_layout Enumerate
 ᏣᎭ.
  [3]
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᏙᏪᎸᎦ 2
+\end_layout
+
+\begin_layout Standard
+Write out each of the following Cherokee phrases with the number of its
+ matching picture.
+ When done, compare your answers to the answers at the end of this section.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+A clock represents time passing.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+A sun and moon combination represents a day's passing for 
+\begin_inset Quotes eld
+\end_inset
+
+a while ago
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+A question mark represents maybe or if.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+A 
+\emph default
+⦸ 
+\emph on
+mark indicates no or not.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+The left side represents the past.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+The middle represents the present.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+The right side represents the future.
+\end_layout
+
+\begin_layout Subsection*
+Challenges
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎨᎮᎢ
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎨᏎᏍᏗ
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎨᎮᎢ
+\end_layout
+
+\begin_layout Enumerate
+ᏱᎨᏎᏍᏗ
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎨᏐᎢ
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎨᏎᎢ
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎨᎲᎩ
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏒᎩ
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏎᎢ
+\end_layout
+
+\begin_layout Enumerate
+ᏱᎨᎮᎢ
+\end_layout
+
+\begin_layout Enumerate
+ᎢᎦ
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎩ
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎢᎩ
+\end_layout
+
+\begin_layout Enumerate
+ᏱᎩ
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏐᎢ
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏎᏍᏗ
+\end_layout
+
+\begin_layout Enumerate
+ᏱᎨᏐᎢ
+\end_layout
+
+\begin_layout Enumerate
+ᏱᎨᏎᎢ
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Pictures
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{4}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/igi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/iga_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/gesoi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/gesvgi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/gehvgi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/gesesdi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/yigi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/yigesoi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/yigesei_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/yigehei_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/yigesesdi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/hla-yigi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/hla-yigesoi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/hla-yigesei_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/hla-yigehei_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+\begin_inset Graphics
+	filename artwork/answer-pictures/02b/jpgs/hla-yigesesdi_01.jpg
+	lyxscale 50
+	width 85col%
+	groupId 4up
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection*
+Answers
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎨᎮᎢ [5]
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎨᏎᏍᏗ [16]
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎨᎮᎢ [15]
+\end_layout
+
+\begin_layout Enumerate
+ᏱᎨᏎᏍᏗ [11]
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎨᏐᎢ [13]
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎨᏎᎢ [14]
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎨᎲᎩ [5]
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏒᎩ [4]
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏎᎢ [4]
+\end_layout
+
+\begin_layout Enumerate
+ᏱᎨᎮᎢ [10]
+\end_layout
+
+\begin_layout Enumerate
+ᎢᎦ [2]
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᎩ [12]
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎢᎩ [1]
+\end_layout
+
+\begin_layout Enumerate
+ᏱᎩ [7]
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏐᎢ [3]
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏎᏍᏗ [6]
+\end_layout
+
+\begin_layout Enumerate
+ᏱᎨᏐᎢ [8]
+\end_layout
+
+\begin_layout Enumerate
+ᏱᎨᏎᎢ [9]
 \end_layout
 
 \begin_layout Standard
