@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.9 $
+$Revision: 1.10 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/29 21:27:35 $ UTC
+$Date: 2016/10/30 00:13:53 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.9 $
+$Revision: 1.10 $
 \noun default
 .
 \end_layout
@@ -8751,7 +8751,7 @@ them
 \begin_inset Quotes eld
 \end_inset
 
-ga-
+Ꭶ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -8759,12 +8759,20 @@ ga-
 \begin_inset Quotes eld
 \end_inset
 
-de-
+Ꮥ-
 \begin_inset Quotes erd
 \end_inset
 
  prefix.
- This lesson material expects you to use both prefixes.
+ This material expects you to use the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭶ-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix.
 \end_layout
 
 \begin_layout Description
