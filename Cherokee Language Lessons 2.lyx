@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.17 $
+$Revision: 1.18 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/31 03:10:55 $ UTC
+$Date: 2016/10/31 03:11:44 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.17 $
+$Revision: 1.18 $
 \noun default
 .
 \end_layout
@@ -7893,8 +7893,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-I \SpecialChar \ldots{}
- him
+I\SpecialChar \ldots{}
+him
 \end_layout
 
 \begin_deeper
@@ -7908,8 +7908,8 @@ Set B: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-)
 
 \end_deeper
 \begin_layout Itemize
-I \SpecialChar \ldots{}
- it.
+I\SpecialChar \ldots{}
+it.
 \end_layout
 
 \begin_deeper
@@ -7923,8 +7923,8 @@ Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
 
 \end_deeper
 \begin_layout Itemize
-I \SpecialChar \ldots{}
- them (animate).
+I\SpecialChar \ldots{}
+them (animate).
 \end_layout
 
 \begin_deeper
@@ -7938,8 +7938,8 @@ Set B: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²ji²y-)
 
 \end_deeper
 \begin_layout Itemize
-I \SpecialChar \ldots{}
- them (inanimate).
+I\SpecialChar \ldots{}
+them (inanimate).
 \end_layout
 
 \begin_deeper
@@ -7966,8 +7966,8 @@ Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
 \noun off
 \color none
 \lang english
-He \SpecialChar \ldots{}
- me.
+He\SpecialChar \ldots{}
+me.
 \end_layout
 
 \begin_deeper
@@ -8020,8 +8020,8 @@ Set B:
 \noun off
 \color none
 \lang english
-They \SpecialChar \ldots{}
- me.
+They\SpecialChar \ldots{}
+me.
 \end_layout
 
 \begin_deeper
@@ -8057,8 +8057,8 @@ They \SpecialChar \ldots{}
 \noun off
 \color none
 \lang english
-He \SpecialChar \ldots{}
- he or it.
+He\SpecialChar \ldots{}
+he or it.
 \end_layout
 
 \begin_deeper
@@ -8111,8 +8111,8 @@ Set B:
 \noun off
 \color none
 \lang english
-He \SpecialChar \ldots{}
- them.
+He\SpecialChar \ldots{}
+them.
 \end_layout
 
 \begin_deeper
@@ -8170,8 +8170,8 @@ columnbreak{}
 \end_layout
 
 \begin_layout Itemize
-You \SpecialChar \ldots{}
- him.
+You\SpecialChar \ldots{}
+him.
 \end_layout
 
 \begin_deeper
@@ -8185,8 +8185,8 @@ Set B: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-)
 
 \end_deeper
 \begin_layout Itemize
-You \SpecialChar \ldots{}
- it.
+You\SpecialChar \ldots{}
+it.
 \end_layout
 
 \begin_deeper
@@ -8200,8 +8200,8 @@ Set B: Ꮳ̣- (jạ-)
 
 \end_deeper
 \begin_layout Itemize
-You \SpecialChar \ldots{}
- them (animate).
+You\SpecialChar \ldots{}
+them (animate).
 \end_layout
 
 \begin_deeper
@@ -8215,8 +8215,8 @@ Set B: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-)
 
 \end_deeper
 \begin_layout Itemize
-You \SpecialChar \ldots{}
- them (inanimate).
+You\SpecialChar \ldots{}
+them (inanimate).
 \end_layout
 
 \begin_deeper
@@ -8243,8 +8243,8 @@ Set B: ᏕᏣ̣- (de²jạ-)
 \noun off
 \color none
 \lang english
-He \SpecialChar \ldots{}
- you.
+He\SpecialChar \ldots{}
+you.
 \end_layout
 
 \begin_deeper
@@ -8297,8 +8297,8 @@ Set B:
 \noun off
 \color none
 \lang english
-They \SpecialChar \ldots{}
- you.
+They\SpecialChar \ldots{}
+you.
 \end_layout
 
 \begin_deeper
@@ -8334,8 +8334,8 @@ They \SpecialChar \ldots{}
 \noun off
 \color none
 \lang english
-They \SpecialChar \ldots{}
- he or it.
+They\SpecialChar \ldots{}
+him or it.
 \end_layout
 
 \begin_deeper
@@ -8388,8 +8388,8 @@ Set B:
 \noun off
 \color none
 \lang english
-They \SpecialChar \ldots{}
- them.
+They\SpecialChar \ldots{}
+them.
 \end_layout
 
 \begin_deeper
@@ -8488,11 +8488,12 @@ them
 \begin_inset Quotes eld
 \end_inset
 
-them-animate
+\SpecialChar \ldots{}
+them (animate).
 \begin_inset Quotes erd
 \end_inset
 
-.
+
 \end_layout
 
 \begin_layout Standard
@@ -8513,8 +8514,8 @@ The following shows the bound pronouns you have used so far which are used
 \begin_inset Quotes eld
 \end_inset
 
-I \SpecialChar \ldots{}
- him or her.
+I\SpecialChar \ldots{}
+him or her.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8527,8 +8528,8 @@ I \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-I \SpecialChar \ldots{}
- them (animate).
+I\SpecialChar \ldots{}
+them (animate).
 \begin_inset Quotes erd
 \end_inset
 
@@ -8541,8 +8542,8 @@ I \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-You \SpecialChar \ldots{}
- him or her.
+You\SpecialChar \ldots{}
+him or her.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8555,8 +8556,8 @@ You \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-You \SpecialChar \ldots{}
- them (animate).
+You\SpecialChar \ldots{}
+them (animate).
 \begin_inset Quotes erd
 \end_inset
 
@@ -8592,8 +8593,8 @@ The
 \begin_inset Quotes eld
 \end_inset
 
-I \SpecialChar \ldots{}
- it
+I\SpecialChar \ldots{}
+it
 \begin_inset Quotes erd
 \end_inset
 
@@ -8633,8 +8634,8 @@ Adding
 \begin_inset Quotes eld
 \end_inset
 
-I \SpecialChar \ldots{}
- it.
+I\SpecialChar \ldots{}
+it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8642,8 +8643,8 @@ I \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-I \SpecialChar \ldots{}
- them.
+I\SpecialChar \ldots{}
+them.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8692,8 +8693,8 @@ The
 \begin_inset Quotes eld
 \end_inset
 
-You \SpecialChar \ldots{}
- it
+You\SpecialChar \ldots{}
+it
 \begin_inset Quotes erd
 \end_inset
 
@@ -8733,8 +8734,8 @@ Adding
 \begin_inset Quotes eld
 \end_inset
 
-You \SpecialChar \ldots{}
- it.
+You\SpecialChar \ldots{}
+it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8742,8 +8743,8 @@ You \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-You \SpecialChar \ldots{}
- them.
+You\SpecialChar \ldots{}
+them.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8804,7 +8805,7 @@ them
 \begin_inset Quotes eld
 \end_inset
 
-They \SpecialChar \ldots{}
+They\SpecialChar \ldots{}
 
 \begin_inset Quotes erd
 \end_inset
@@ -8843,8 +8844,8 @@ The following shows the bound pronouns you have used so far which are used
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- me.
+He\SpecialChar \ldots{}
+me.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8870,8 +8871,8 @@ He \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-They \SpecialChar \ldots{}
- me.
+They\SpecialChar \ldots{}
+me.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8897,8 +8898,8 @@ They \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- you.
+He\SpecialChar \ldots{}
+you.
 \begin_inset Quotes erd
 \end_inset
 
@@ -8924,8 +8925,8 @@ He \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-They \SpecialChar \ldots{}
- you.
+They\SpecialChar \ldots{}
+you.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9032,6 +9033,7 @@ The rabbits want you.
 \begin_inset Quotes eld
 \end_inset
 
+\SpecialChar \ldots{}
 them
 \begin_inset Quotes erd
 \end_inset
@@ -9112,8 +9114,8 @@ de-
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- me.
+He\SpecialChar \ldots{}
+me.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9139,8 +9141,8 @@ He \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- me, more than once.
+He\SpecialChar \ldots{}
+me, more than once.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9166,8 +9168,8 @@ He \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- you.
+He\SpecialChar \ldots{}
+you.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9193,8 +9195,8 @@ He \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- you, more than once.
+He\SpecialChar \ldots{}
+you, more than once.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9284,8 +9286,8 @@ de-
 \begin_inset Quotes eld
 \end_inset
 
-I \SpecialChar \ldots{}
- it.
+I\SpecialChar \ldots{}
+it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9298,8 +9300,8 @@ I \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-I \SpecialChar \ldots{}
- them (inanimate).
+I\SpecialChar \ldots{}
+them (inanimate).
 \begin_inset Quotes erd
 \end_inset
 
@@ -9312,8 +9314,8 @@ I \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-I \SpecialChar \ldots{}
- it.
+I\SpecialChar \ldots{}
+it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9326,8 +9328,8 @@ I \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-I \SpecialChar \ldots{}
- them (inanimate).
+I\SpecialChar \ldots{}
+them (inanimate).
 \begin_inset Quotes erd
 \end_inset
 
@@ -9353,8 +9355,8 @@ I \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- he or it.
+He\SpecialChar \ldots{}
+he or it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9380,8 +9382,8 @@ He \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- them.
+He\SpecialChar \ldots{}
+them.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9407,8 +9409,8 @@ He \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- he or it.
+He\SpecialChar \ldots{}
+he or it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9434,8 +9436,8 @@ He \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- them.
+He\SpecialChar \ldots{}
+them.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9448,8 +9450,8 @@ He \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-You \SpecialChar \ldots{}
- it.
+You\SpecialChar \ldots{}
+it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9462,8 +9464,8 @@ You \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-You \SpecialChar \ldots{}
- them (inanimate).
+You\SpecialChar \ldots{}
+them (inanimate).
 \begin_inset Quotes erd
 \end_inset
 
@@ -9476,8 +9478,8 @@ You \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-You \SpecialChar \ldots{}
- it.
+You\SpecialChar \ldots{}
+it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9490,8 +9492,8 @@ You \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-You \SpecialChar \ldots{}
- them (inanimate).
+You\SpecialChar \ldots{}
+them (inanimate).
 \begin_inset Quotes erd
 \end_inset
 
@@ -9517,8 +9519,8 @@ You \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-They \SpecialChar \ldots{}
- he or it.
+They\SpecialChar \ldots{}
+he or it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9544,8 +9546,8 @@ They \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-They \SpecialChar \ldots{}
- them.
+They\SpecialChar \ldots{}
+them.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9571,8 +9573,8 @@ They \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-They \SpecialChar \ldots{}
- he or it.
+They\SpecialChar \ldots{}
+he or it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -9598,8 +9600,8 @@ They \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-They \SpecialChar \ldots{}
- them.
+They\SpecialChar \ldots{}
+them.
 \begin_inset Quotes erd
 \end_inset
 
@@ -10089,7 +10091,8 @@ The use of the plural for the color white makes it clear that there are
 \begin_inset Quotes eld
 \end_inset
 
-them-animate (more than once).
+\SpecialChar \ldots{}
+them (animate), more than once.
 \begin_inset Quotes erd
 \end_inset
 
