@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.19 $
+$Revision: 1.20 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/10/31 03:16:56 $ UTC
+$Date: 2016/10/31 03:32:18 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.19 $
+$Revision: 1.20 $
 \noun default
 .
 \end_layout
@@ -11815,6 +11815,34 @@ They-slow.
 
 \end_deeper
 \begin_layout Description
+ᎤᏍᎧ [ụ²ska] (n) 
+\begin_inset Quotes eld
+\end_inset
+
+Head (detached).
+ Skull (detached).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏧᏍᎧ [jụ²ska] 
+\begin_inset Quotes eld
+\end_inset
+
+Heads.
+ Skulls.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
 ᎤᏍᏉᏟᎢ [u²sgwo²hli⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -12068,12 +12096,315 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-In the following exercise you will act out the commands as they are given.
- Use the challenge and response sets following these instructions.
+Create index cards similar to each of the following:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/asgoli.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/jisgoli.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/hisgoli.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/ayanuli.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/diniyanuli.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/ayodahlahvi.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/dayodahlahvi.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/usganoli.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/unisganoli.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/uska.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/juska.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/usgwohlii.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/agisgwohlii.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/jasgwohlii.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/galohisdii.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/digalohisdii.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/digohwelodi.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/hyatena.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/dihyatena.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/hyatena-digohwelodi.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/dihyatena-digohwelodi.jpg
+	lyxscale 50
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label each card on the reverse as follows:
+\end_layout
+
+\begin_layout Itemize
+ᎠᏍᎪᎵ, ᏥᏍᎪᎵ, ᎯᏍᎪᎵ, ᎠᏯᏄᎵ, ᏗᏂᏯᏄᎵ.
+\end_layout
+
+\begin_layout Itemize
+ᎠᏲᏓᏝᎲᎢ, ᏓᏲᏓᏝᎲᎢ, ᎤᏍᎦᏃᎵ, ᎤᏂᏍᎦᏃᎵ, ᎤᏍᎧ.
+\end_layout
+
+\begin_layout Itemize
+ᏧᏍᎧ, ᎤᏍᏉᏟᎢ, ᎠᎩᏍᏉᏟᎢ, ᏣᏍᏉᏟᎢ, ᎦᎶᎯᏍᏗᎢ.
+\end_layout
+
+\begin_layout Itemize
+ᏗᎦᎶᎯᏍᏗᎢ, ᏗᎪᏪᎶᏗ, ᏯᏖᎾ, ᏗᏯᏖᎾ, ᏯᏖᎾ
+\begin_inset space ~
+\end_inset
+
+ᏗᎪᏪᎶᏗ.
+\end_layout
+
+\begin_layout Itemize
+ᏗᏯᏖᎾ
+\begin_inset space ~
+\end_inset
+
+ᏗᎪᏪᎶᏗ.
+\end_layout
+
+\begin_layout Standard
+Divide up into groups of two to three.
 \end_layout
 
 \begin_layout Subsection*
-If you have eight or more in your study group:
+If you have two or more in your study group:
 \end_layout
 
 \begin_layout Standard
@@ -12083,369 +12414,11 @@ Split up into groups of four to seven.
 \end_layout
 
 \begin_layout Subsection*
-If you have four to seven in your study group:
-\end_layout
-
-\begin_layout Standard
-Select one person to speak the challenges.
- This person is the speaker (ᎦᏬᏂᏍᎩ).
- The remaining people are to act out the challenges.
- These are the doers (ᎾᎾᏛᏁᎯ).
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-ᏥᎭᏓ
-\begin_inset Quotes erd
-\end_inset
-
- [jị³hạ²da] (say it again) should be spoken to the ᎦᏬᏂᎯᏍᎩ if the challenge
- needs repeating.
-\end_layout
-
-\begin_layout Standard
-For each set of challenges, use someone different for the ᎦᏬᏂᎯᏍᎩ.
-\end_layout
-
-\begin_layout Standard
-Repeat until every person has been the ᎦᏬᏂᎯᏍᎩ.
-\end_layout
-
-\begin_layout Standard
-Things to keep in mind:
-\end_layout
-
-\begin_layout Itemize
-Some of the commands are for only one or two people to obey.
- It works easiest if you designate a first person to obey, a second person
- to obey, and so on, being sure to change who the first and second people
- obeying are for each set.
-\end_layout
-
-\begin_layout Itemize
-When told not to stand does not mean you have to sit.
- You can assume some other non-standing position.
-\end_layout
-
-\begin_layout Itemize
-When told not to sit does not mean you have to stand.
- You can assume some other non-sitting position.
-\end_layout
-
-\begin_layout Subsection*
-If you only have three in your study group:
-\end_layout
-
-\begin_layout Standard
-Select one person to speak the challenges.
- This person is the speaker (ᎦᏬᏂᏍᎩ).
- The remaining two people are to act out the challenges.
- These are the doers (ᎾᎾᏛᏁᎯ).
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-ᏥᎭᏓ
-\begin_inset Quotes erd
-\end_inset
-
- (say it again) should be spoken to the ᎦᏬᏂᎯᏍᎩ if the challenge needs repeating.
-\end_layout
-
-\begin_layout Standard
-For each set of challenges, use someone different for the ᎦᏬᏂᎯᏍᎩ.
-\end_layout
-
-\begin_layout Standard
-Repeat until every person has been the ᎦᏬᏂᎯᏍᎩ.
-\end_layout
-
-\begin_layout Standard
-Use a pillow or other object as a pretend fourth study partner.
- The ᎾᎾᏛᏁᎯ should be sure to move it into a 
-\begin_inset Quotes eld
-\end_inset
-
-sitting
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-standing
-\begin_inset Quotes erd
-\end_inset
-
-, or 
-\begin_inset Quotes eld
-\end_inset
-
-other
-\begin_inset Quotes erd
-\end_inset
-
- position as appropriate.
-\end_layout
-
-\begin_layout Standard
-Things to keep in mind:
-\end_layout
-
-\begin_layout Itemize
-Some of the commands are for only one or two people to obey.
- It works easiest if you designate the pretend study partner last to obey.
-\end_layout
-
-\begin_layout Itemize
-When told not to stand does not mean you have to sit.
- You and your pretend study partner can assume some other non-standing position.
-\end_layout
-
-\begin_layout Itemize
-When told not to sit does not mean you have to stand.
- You and your pretend study partner can assume some other non-sitting position.
-\end_layout
-
-\begin_layout Subsection*
-If you only have one study partner:
-\end_layout
-
-\begin_layout Standard
-Select one person to speak the challenges.
- This person is the speaker (ᎦᏬᏂᏍᎩ).
- The other person is to act out the challenges.
- This person is the doer (ᎾᏛᏁᎯ).
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-ᏥᎭᏓ
-\begin_inset Quotes erd
-\end_inset
-
- (say it again) should be spoken to the ᎦᏬᏂᎯᏍᎩ if the challenge needs repeating.
-\end_layout
-
-\begin_layout Standard
-Use two pillows or other objects as pretend third and fourth study partners.
- The ᎾᏛᏁᎯ should be sure to move them into a 
-\begin_inset Quotes eld
-\end_inset
-
-sitting
-\begin_inset Quotes erd
-\end_inset
-
-, 
-\begin_inset Quotes eld
-\end_inset
-
-standing
-\begin_inset Quotes erd
-\end_inset
-
-, or 
-\begin_inset Quotes eld
-\end_inset
-
-other
-\begin_inset Quotes erd
-\end_inset
-
- position as appropriate.
- Each time a set ends, the ᎦᏬᏂᎯᏍᎩ and ᎾᏛᏁᎯ should switch up.
-\end_layout
-
-\begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-ᏥᎭᏓ
-\begin_inset Quotes erd
-\end_inset
-
- (say it again) should be spoken to the caller if the challenge needs repeating.
-\end_layout
-
-\begin_layout Standard
-Things to keep in mind:
-\end_layout
-
-\begin_layout Itemize
-Some of the commands are for only one or two people to obey.
- It works easiest if you designate the pretend study partners last to obey.
-\end_layout
-
-\begin_layout Itemize
-When told not to stand does not mean you have to sit.
- You and your pretend study partners can assume some other non-standing
- position.
-\end_layout
-
-\begin_layout Itemize
-When told not to sit does not mean you have to stand.
- You and your pretend study partners can assume some other non-sitting position.
-\end_layout
-
-\begin_layout Subsection*
 If you only have yourself:
 \end_layout
 
 \begin_layout Standard
-You will have to be both the speaker (ᎦᏬᏂᏍᎩ) and the doer (ᎾᏛᏁᎯ).
-\end_layout
-
-\begin_layout Standard
-On index cards, or something similar, write out the commands on each of
- the front sides along with the symbolic notation for the command on the
- reverse side for the first set of challenges.
- Do this for each challenge as listed.
- There will be cards repeated.
- Keep the cards in order.
- Use three pillows or other objects as pretend second, third, and fourth
- study partners.
- The first pretend study partner is the ᎦᏬᏂᎯᏍᎩ.
-\end_layout
-
-\begin_layout Subsubsection*
-For 
-\begin_inset Quotes eld
-\end_inset
-
-Set 1
-\begin_inset Quotes erd
-\end_inset
-
-:
-\end_layout
-
-\begin_layout Standard
-Place the stack of index cards, challenge side up, notation side down, in
- front of the ᎦᏬᏂᎯᏍᎩ.
- Read aloud the challenge as if the pretend ᎦᏬᏂᎯᏍᎩ is giving you and your
- pretend study partners the challenge.
-\end_layout
-
-\begin_layout Standard
-Act out the challenge, adjusting your pretend study partners into sitting
- or standing positions appropriately.
-\end_layout
-
-\begin_layout Standard
-After acting the command out, flip the card over and compare your sitting
- and standing positions to the notation to ensure you acted out the command
- correctly.
- 
-\end_layout
-
-\begin_layout Subsubsection*
-For 
-\begin_inset Quotes eld
-\end_inset
-
-Set 2
-\begin_inset Quotes erd
-\end_inset
-
-:
-\end_layout
-
-\begin_layout Standard
-Adjust the index cards to match the new set, creating new ones as needed,
- and removing those not in the set.
- Switch places with the pretend ᎦᏬᏂᎯᏍᎩ and call out the challenges to the
- pretend ᎾᎾᏛᏁᎯ.
-\end_layout
-
-\begin_layout Standard
-Act out the challenge by positioning the pretend ᎾᎾᏛᏁᎯ to obey the command.
-\end_layout
-
-\begin_layout Standard
-After acting the command out, flip the card over and compare the sitting,
- standing, and other positions to the notation to ensure you acted out the
- command correctly.
-\end_layout
-
-\begin_layout Subsubsection*
-For 
-\begin_inset Quotes eld
-\end_inset
-
-Set 3
-\begin_inset Quotes erd
-\end_inset
-
-:
-\end_layout
-
-\begin_layout Standard
-Adjust the index cards to match the new set, creating new ones as needed,
- and removing those not in the set.
- Follow the instructions previously given for 
-\begin_inset Quotes eld
-\end_inset
-
-Set 1
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Subsubsection*
-For 
-\begin_inset Quotes eld
-\end_inset
-
-Set 4
-\begin_inset Quotes erd
-\end_inset
-
-:
-\end_layout
-
-\begin_layout Standard
-Adjust the index cards to match the new set, creating new ones as needed,
- and removing those not in the set.
- Follow the instructions previously given for 
-\begin_inset Quotes eld
-\end_inset
-
-Set 2
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-Things to keep in mind:
-\end_layout
-
-\begin_layout Itemize
-Some of the commands are for only one or two people to obey.
- It works easiest if you designate the pretend study partners as always
- the last people to obey.
-\end_layout
-
-\begin_layout Itemize
-When told not to stand does not mean you have to sit.
- You and your pretend study partners can assume some other non-standing
- position.
-\end_layout
-
-\begin_layout Itemize
-When told not to sit does not mean you have to stand.
- You and your pretend study partners can assume some other non-sitting position.
+zzz
 \end_layout
 
 \begin_layout Subsection*
