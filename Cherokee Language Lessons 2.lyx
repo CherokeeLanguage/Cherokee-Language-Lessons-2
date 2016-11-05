@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.26 $
+$Revision: 1.27 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/05 01:51:42 $ UTC
+$Date: 2016/11/05 14:00:04 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.26 $
+$Revision: 1.27 $
 \noun default
 .
 \end_layout
@@ -10447,8 +10447,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/agiha_04.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/agiha_04.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10459,8 +10459,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/dagwaduliha_02.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/dagwaduliha_02.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10471,8 +10471,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/jaha_03.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/jaha_03.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10483,8 +10483,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/nasgi-gvgigowhtiha_01.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/nasgi-gvgigowhtiha_01.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10495,8 +10495,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/junega-digohweli-dehigowhtiha.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/junega-digohweli-dehigowhtiha.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10507,8 +10507,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/nasgi-nihi-jakaha.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/nasgi-nihi-jakaha.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10519,8 +10519,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/uha_01.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/uha_01.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10531,8 +10531,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/digigage-digohweli-dejigowhtiha.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/digigage-digohweli-dejigowhtiha.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10543,8 +10543,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/uwodige-jisdu-jiigowhtiha.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/uwodige-jisdu-jiigowhtiha.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10555,8 +10555,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/achuja-junodige-wahya-dagowhtiha.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/achuja-junodige-wahya-dagowhtiha.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10567,8 +10567,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/nasgi-ayv-agikaha_01.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/nasgi-ayv-agikaha_01.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10579,8 +10579,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/wesa-gahiyakaha.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/wesa-gahiyakaha.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10591,8 +10591,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/uniha_02.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/uniha_02.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10603,8 +10603,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/gosdi-dahalige-jigowhtiha.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/gosdi-dahalige-jigowhtiha.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10615,8 +10615,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/gihli-gajiyakaha.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/gihli-gajiyakaha.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10627,8 +10627,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/ajalagi-hiigowhtiha.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/ajalagi-hiigowhtiha.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10639,8 +10639,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/uwakaha_03.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/uwakaha_03.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10651,8 +10651,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/uduliha_03.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/uduliha_03.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10663,8 +10663,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/hiyakaha_02.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/hiyakaha_02.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -10675,8 +10675,8 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/gejaduliha_01.png
-	lyxscale 50
+	filename artwork/answer-pictures/02/jpgs/gejaduliha_01.jpg
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11240,7 +11240,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/igi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11252,7 +11252,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/iga_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11264,7 +11264,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/gesoi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11276,7 +11276,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/gesvgi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11288,7 +11288,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/gehvgi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11300,7 +11300,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/gesesdi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11312,7 +11312,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/yigi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11324,7 +11324,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/yigesoi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11336,7 +11336,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/yigesei_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11348,7 +11348,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/yigehei_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11360,7 +11360,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/yigesesdi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11372,7 +11372,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/hla-yigi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11384,7 +11384,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/hla-yigesoi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11396,7 +11396,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/hla-yigesei_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11408,7 +11408,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/hla-yigehei_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -11420,7 +11420,7 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02b/jpgs/hla-yigesesdi_01.jpg
-	lyxscale 50
+	lyxscale 30
 	width 85col%
 	groupId 4up
 
@@ -12102,7 +12102,7 @@ Create index cards similar to each of the following:
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/asgoli.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12115,7 +12115,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/jisgoli.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12128,7 +12128,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/hisgoli.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12141,7 +12141,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/ayanuli.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12154,7 +12154,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/diniyanuli.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12166,7 +12166,7 @@ Create index cards similar to each of the following:
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/ayodahlahvi.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12179,7 +12179,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/dayodahlahvi.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12192,7 +12192,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/usganoli.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12205,7 +12205,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/unisganoli.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12218,7 +12218,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/uska.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12230,7 +12230,7 @@ Create index cards similar to each of the following:
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/juska.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12243,7 +12243,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/usgwohlii.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12256,7 +12256,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/agisgwohlii.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12269,7 +12269,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/jasgwohlii.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12282,7 +12282,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/galohisdii.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12294,7 +12294,7 @@ Create index cards similar to each of the following:
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/digalohisdii.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12307,7 +12307,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/digohwelodi.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12320,7 +12320,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/hyatena.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12333,7 +12333,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/dihyatena.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12346,7 +12346,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/hyatena-digohwelodi.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
@@ -12358,7 +12358,7 @@ Create index cards similar to each of the following:
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/dihyatena-digohwelodi.jpg
-	lyxscale 50
+	lyxscale 25
 	width 18col%
 	groupId 5across
 
