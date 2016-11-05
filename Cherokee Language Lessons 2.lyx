@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.23 $
+$Revision: 1.24 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/03 01:34:30 $ UTC
+$Date: 2016/11/04 20:46:33 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.23 $
+$Revision: 1.24 $
 \noun default
 .
 \end_layout
@@ -12404,7 +12404,7 @@ Split up into groups of two to four.
 \end_layout
 
 \begin_layout Subsection*
-If you have more than in your study group:
+If you have more than two in your study group:
 \end_layout
 
 \begin_layout Standard
@@ -12665,7 +12665,8 @@ Layout all the cards picture side up so they all can be seen.
  For each challenge in a set call out the challenge.
  Try to point at the correct picture.
  Flip the card over to verify if it was the correct choice.
- Flip the card picture side up and say its name as indicated on the reverse.
+ Flip the card picture side up and say its correct name as indicated on
+ the reverse.
 \end_layout
 
 \begin_layout Subsection*
@@ -15326,7 +15327,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ∅↓↓↓+
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ⦰↓↓↓+
 \end_layout
 
 \begin_layout Enumerate
@@ -15338,19 +15339,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ∅↓↓
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ⦰↓↓
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ∅↓↓↓+
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ⦰↓↓↓+
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ∅↓↓
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ⦰↓↓
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ∅↑↑
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ⦰↑↑
 \end_layout
 
 \begin_layout Standard
@@ -15397,15 +15398,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ∅↓
+ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ⦰↓
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ∅↑↑
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ⦰↑↑
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ∅↓
+ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ⦰↓
 \end_layout
 
 \begin_layout Enumerate
@@ -15480,11 +15481,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ∅↓↓↓+
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ⦰↓↓↓+
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ∅↓↓
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ⦰↓↓
 \end_layout
 
 \begin_layout Enumerate
@@ -15492,7 +15493,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ∅↑
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ⦰↑
 \end_layout
 
 \begin_layout Enumerate
@@ -15500,11 +15501,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ∅↑↑
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ⦰↑↑
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ∅↓
+ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ⦰↓
 \end_layout
 
 \begin_layout Enumerate
@@ -15555,11 +15556,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ∅↑
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ⦰↑
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ∅↑↑↑+
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ⦰↑↑↑+
 \end_layout
 
 \begin_layout Enumerate
@@ -15571,7 +15572,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ∅↑↑↑+
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ⦰↑↑↑+
 \end_layout
 
 \begin_layout Enumerate
@@ -15583,11 +15584,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ∅↑
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ⦰↑
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ∅↑↑↑+
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ⦰↑↑↑+
 \end_layout
 
 \begin_layout Standard
@@ -15646,7 +15647,7 @@ Where the command is for more than two people, use three arrows followed
 \end_layout
 
 \begin_layout Itemize
-For negative commands use the ∅ symbol followed by appropriate up or down
+For negative commands use the ⦰ symbol followed by appropriate up or down
  arrows indicating what not to do.
 \end_layout
 
@@ -15696,7 +15697,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ∅↓↓↓+
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ⦰↓↓↓+
 \end_layout
 
 \begin_layout Enumerate
@@ -76306,7 +76307,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ∅↑, ᏃᏊ Ꮭ ᏱᏙᎦ
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ⦰↑, ᏃᏊ Ꮭ ᏱᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -76322,11 +76323,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ∅↑, ᏃᏊ Ꮭ ᏱᏙᎦ
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ⦰↑, ᏃᏊ Ꮭ ᏱᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ∅↓, ᏃᏊ Ꮭ ᏱᏦᏝ
+ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ⦰↓, ᏃᏊ Ꮭ ᏱᏦᏝ
 \end_layout
 
 \begin_layout Enumerate
@@ -76381,7 +76382,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ∅↓, ᏃᏊ Ꮭ ᏱᏦᏝ
+ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ⦰↓, ᏃᏊ Ꮭ ᏱᏦᏝ
 \end_layout
 
 \begin_layout Enumerate
@@ -76393,7 +76394,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ∅↑↑, ᏃᏊ Ꮭ ᏱᏗᏍᏗᏙᎦ
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ⦰↑↑, ᏃᏊ Ꮭ ᏱᏗᏍᏗᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -76401,7 +76402,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ∅↑↑, ᏃᏊ Ꮭ ᏱᏗᏍᏗᏙᎦ
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ⦰↑↑, ᏃᏊ Ꮭ ᏱᏗᏍᏗᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -76460,11 +76461,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ∅↑, ᏃᏊ Ꮭ ᏱᏙᎦ
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ⦰↑, ᏃᏊ Ꮭ ᏱᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ∅↓↓, ᏃᏊ Ꮭ ᏱᏗᏍᏙᏝ
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ⦰↓↓, ᏃᏊ Ꮭ ᏱᏗᏍᏙᏝ
 \end_layout
 
 \begin_layout Enumerate
@@ -76472,7 +76473,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ∅↓, ᏃᏊ Ꮭ ᏱᏦᏝ
+ᏞᏍᏗ ᏥᏦᏞᏍᏗ: ⦰↓, ᏃᏊ Ꮭ ᏱᏦᏝ
 \end_layout
 
 \begin_layout Enumerate
@@ -76480,7 +76481,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ∅↓↓, ᏃᏊ Ꮭ ᏱᏗᏍᏙᏝ
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ⦰↓↓, ᏃᏊ Ꮭ ᏱᏗᏍᏙᏝ
 \end_layout
 
 \begin_layout Enumerate
@@ -76535,19 +76536,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ∅↑↑, ᏃᏊ Ꮭ ᏱᏗᏍᏗᏙᎦ
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ: ⦰↑↑, ᏃᏊ Ꮭ ᏱᏗᏍᏗᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ∅↑↑↑+, ᏃᏊ Ꮭ ᏱᏗᏥᏙᎦ
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ⦰↑↑↑+, ᏃᏊ Ꮭ ᏱᏗᏥᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ∅↓↓↓+, ᏃᏊ Ꮭ ᏱᏗᏦᏝ
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ⦰↓↓↓+, ᏃᏊ Ꮭ ᏱᏗᏦᏝ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ∅↑↑↑+, ᏃᏊ Ꮭ ᏱᏗᏥᏙᎦ
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ⦰↑↑↑+, ᏃᏊ Ꮭ ᏱᏗᏥᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -76555,19 +76556,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ∅↓↓↓+, ᏃᏊ Ꮭ ᏱᏗᏦᏝ
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ⦰↓↓↓+, ᏃᏊ Ꮭ ᏱᏗᏦᏝ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ∅↓↓, ᏃᏊ Ꮭ ᏱᏗᏍᏙᏝ
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ: ⦰↓↓, ᏃᏊ Ꮭ ᏱᏗᏍᏙᏝ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ∅↑↑↑+, ᏃᏊ Ꮭ ᏱᏗᏥᏙᎦ
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ: ⦰↑↑↑+, ᏃᏊ Ꮭ ᏱᏗᏥᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ∅↓↓↓+, ᏃᏊ Ꮭ ᏱᏗᏦᏝ
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ: ⦰↓↓↓+, ᏃᏊ Ꮭ ᏱᏗᏦᏝ
 \end_layout
 
 \begin_layout Standard
@@ -76651,7 +76652,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ∅↑, ᏃᏊ Ꮭ ᏱᏙᎦ
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ: ⦰↑, ᏃᏊ Ꮭ ᏱᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -77528,7 +77529,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ, ᎯᏙᎨᏍᏗ: ∅↑, ↑, ᎢᎬᏱ Ꮭ ᏱᏙᎬᎢ, ᏃᏊ ᎯᏙᎦ
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ, ᎯᏙᎨᏍᏗ: ⦰↑, ↑, ᎢᎬᏱ Ꮭ ᏱᏙᎬᎢ, ᏃᏊ ᎯᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -77536,7 +77537,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ, ᏦᏞᏍᏗ: ∅↓, ↓, ᎢᎬᏱ Ꮭ ᏱᏦᏢᎢ, ᏃᏊ ᏦᏝ
+ᏞᏍᏗ ᏥᏦᏞᏍᏗ, ᏦᏞᏍᏗ: ⦰↓, ↓, ᎢᎬᏱ Ꮭ ᏱᏦᏢᎢ, ᏃᏊ ᏦᏝ
 \end_layout
 
 \begin_layout Enumerate
@@ -77544,7 +77545,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ, ᎯᏙᎨᏍᏗ: ∅↑, ↑, ᎢᎬᏱ Ꮭ ᏱᏙᎬᎢ, ᏃᏊ ᎯᏙᎦ
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ, ᎯᏙᎨᏍᏗ: ⦰↑, ↑, ᎢᎬᏱ Ꮭ ᏱᏙᎬᎢ, ᏃᏊ ᎯᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -77560,7 +77561,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ, ᏦᏞᏍᏗ: ∅↓, ↓, ᎢᎬᏱ Ꮭ ᏱᏦᏢᎢ, ᏃᏊ ᏦᏝ
+ᏞᏍᏗ ᏥᏦᏞᏍᏗ, ᏦᏞᏍᏗ: ⦰↓, ↓, ᎢᎬᏱ Ꮭ ᏱᏦᏢᎢ, ᏃᏊ ᏦᏝ
 \end_layout
 
 \begin_layout Standard
@@ -77611,7 +77612,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ, ᏗᏍᏙᏞᏍᏗ: ∅↓↓, ↓↓, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏙᏢᎢ, ᏃᏊ ᏕᏍᏙᏝ
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ, ᏗᏍᏙᏞᏍᏗ: ⦰↓↓, ↓↓, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏙᏢᎢ, ᏃᏊ ᏕᏍᏙᏝ
 \end_layout
 
 \begin_layout Enumerate
@@ -77619,7 +77620,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ, ᏗᏍᏙᏞᏍᏗ: ∅↓↓, ↓↓, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏙᏢᎢ, ᏃᏊ ᏕᏍᏙᏝ
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ, ᏗᏍᏙᏞᏍᏗ: ⦰↓↓, ↓↓, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏙᏢᎢ, ᏃᏊ ᏕᏍᏙᏝ
 \end_layout
 
 \begin_layout Enumerate
@@ -77631,15 +77632,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ, ᏗᏦᏞᏍᏗ: ∅↓↓↓+, ↓↓↓+, ᎢᎬᏱ Ꮭ ᏱᏗᏦᏢᎢ, ᏃᏊ Ꮥ¹ᏦᏝ
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ, ᏗᏦᏞᏍᏗ: ⦰↓↓↓+, ↓↓↓+, ᎢᎬᏱ Ꮭ ᏱᏗᏦᏢᎢ, ᏃᏊ Ꮥ¹ᏦᏝ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ, ᏗᏍᏙᏞᏍᏗ: ∅↓↓, ↓↓, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏙᏢᎢ, ᏃᏊ ᏕᏍᏙᏝ
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ, ᏗᏍᏙᏞᏍᏗ: ⦰↓↓, ↓↓, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏙᏢᎢ, ᏃᏊ ᏕᏍᏙᏝ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ, ᏗᏥᏙᎨᏍᏗ: ∅↑↑↑+, ↑↑↑+, ᎢᎬᏱ Ꮭ ᏱᏗᏥᏙᎬᎢ, ᏃᏊ Ꮥ¹ᏥᏙᎦ
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ, ᏗᏥᏙᎨᏍᏗ: ⦰↑↑↑+, ↑↑↑+, ᎢᎬᏱ Ꮭ ᏱᏗᏥᏙᎬᎢ, ᏃᏊ Ꮥ¹ᏥᏙᎦ
 \end_layout
 
 \begin_layout Standard
@@ -77690,19 +77691,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ, ᏗᏥᏙᎨᏍᏗ: ∅↑↑↑+, ↑↑↑+, ᎢᎬᏱ Ꮭ ᏱᏗᏥᏙᎬᎢ, ᏃᏊ Ꮥ¹ᏥᏙᎦ
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ, ᏗᏥᏙᎨᏍᏗ: ⦰↑↑↑+, ↑↑↑+, ᎢᎬᏱ Ꮭ ᏱᏗᏥᏙᎬᎢ, ᏃᏊ Ꮥ¹ᏥᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ, ᏗᏍᏗᏙᎨᏍᏗ: ∅↑↑, ↑↑, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏗᎪᎬᎢ, ᏃᏊ ᏕᏍᏙᏙᎦ
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ, ᏗᏍᏗᏙᎨᏍᏗ: ⦰↑↑, ↑↑, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏗᎪᎬᎢ, ᏃᏊ ᏕᏍᏙᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ, ᏗᏦᏞᏍᏗ: ∅↓↓↓+, ↓↓↓+, ᎢᎬᏱ Ꮭ ᏱᏗᏦᏢᎢ, ᏃᏊ Ꮥ¹ᏦᏝ
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ, ᏗᏦᏞᏍᏗ: ⦰↓↓↓+, ↓↓↓+, ᎢᎬᏱ Ꮭ ᏱᏗᏦᏢᎢ, ᏃᏊ Ꮥ¹ᏦᏝ
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ, ᏗᏍᏗᏙᎨᏍᏗ: ∅↑↑, ↑↑, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏗᎪᎬᎢ, ᏃᏊ ᏕᏍᏙᏙᎦ
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ, ᏗᏍᏗᏙᎨᏍᏗ: ⦰↑↑, ↑↑, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏗᎪᎬᎢ, ᏃᏊ ᏕᏍᏙᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -77714,7 +77715,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ, ᏗᏥᏙᎨᏍᏗ: ∅↑↑↑+, ↑↑↑+, ᎢᎬᏱ Ꮭ ᏱᏗᏥᏙᎬᎢ, ᏃᏊ Ꮥ¹ᏥᏙᎦ
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ, ᏗᏥᏙᎨᏍᏗ: ⦰↑↑↑+, ↑↑↑+, ᎢᎬᏱ Ꮭ ᏱᏗᏥᏙᎬᎢ, ᏃᏊ Ꮥ¹ᏥᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -77769,7 +77770,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ, ᏗᏍᏗᏙᎨᏍᏗ: ∅↑↑, ↑↑, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏗᎪᎬᎢ, ᏃᏊ ᏕᏍᏙᏙᎦ
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ, ᏗᏍᏗᏙᎨᏍᏗ: ⦰↑↑, ↑↑, ᎢᎬᏱ Ꮭ ᏱᏗᏍᏗᎪᎬᎢ, ᏃᏊ ᏕᏍᏙᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -77781,7 +77782,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ, ᎯᏙᎨᏍᏗ: ∅↑, ↑, ᎢᎬᏱ Ꮭ ᏱᏙᎬᎢ, ᏃᏊ ᎯᏙᎦ
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ, ᎯᏙᎨᏍᏗ: ⦰↑, ↑, ᎢᎬᏱ Ꮭ ᏱᏙᎬᎢ, ᏃᏊ ᎯᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -77789,7 +77790,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ, ᏦᏞᏍᏗ: ∅↓, ↓, ᎢᎬᏱ Ꮭ ᏱᏦᏢᎢ, ᏃᏊ ᏦᏝ
+ᏞᏍᏗ ᏥᏦᏞᏍᏗ, ᏦᏞᏍᏗ: ⦰↓, ↓, ᎢᎬᏱ Ꮭ ᏱᏦᏢᎢ, ᏃᏊ ᏦᏝ
 \end_layout
 
 \begin_layout Enumerate
@@ -77797,7 +77798,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ, ᏗᏦᏞᏍᏗ: ∅↓↓↓+, ↓↓↓+, ᎢᎬᏱ Ꮭ ᏱᏗᏦᏢᎢ, ᏃᏊ Ꮥ¹ᏦᏝ
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ, ᏗᏦᏞᏍᏗ: ⦰↓↓↓+, ↓↓↓+, ᎢᎬᏱ Ꮭ ᏱᏗᏦᏢᎢ, ᏃᏊ Ꮥ¹ᏦᏝ
 \end_layout
 
 \begin_layout Standard
@@ -77900,7 +77901,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ, ᎯᏙᎨᏍᏗ: ∅↑, ↑, ᎢᎬᏱ Ꮭ ᏱᏙᎬᎢ, ᏃᏊ ᎯᏙᎦ
+ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ, ᎯᏙᎨᏍᏗ: ⦰↑, ↑, ᎢᎬᏱ Ꮭ ᏱᏙᎬᎢ, ᏃᏊ ᎯᏙᎦ
 \end_layout
 
 \begin_layout Enumerate
@@ -77908,7 +77909,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ, ᏦᏞᏍᏗ: ∅↓, ↓, ᎢᎬᏱ Ꮭ ᏱᏦᏢᎢ, ᏃᏊ ᏦᏝ
+ᏞᏍᏗ ᏥᏦᏞᏍᏗ, ᏦᏞᏍᏗ: ⦰↓, ↓, ᎢᎬᏱ Ꮭ ᏱᏦᏢᎢ, ᏃᏊ ᏦᏝ
 \end_layout
 
 \begin_layout Enumerate
