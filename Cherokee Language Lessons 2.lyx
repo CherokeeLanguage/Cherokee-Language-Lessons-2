@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.27 $
+$Revision: 1.28 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/05 14:00:04 $ UTC
+$Date: 2016/11/05 14:29:48 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.27 $
+$Revision: 1.28 $
 \noun default
 .
 \end_layout
@@ -12102,7 +12102,7 @@ Create index cards similar to each of the following:
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/asgoli.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12115,7 +12115,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/jisgoli.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12128,7 +12128,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/hisgoli.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12141,7 +12141,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/ayanuli.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12154,7 +12154,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/diniyanuli.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12166,7 +12166,7 @@ Create index cards similar to each of the following:
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/ayodahlahvi.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12179,7 +12179,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/dayodahlahvi.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12192,7 +12192,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/usganoli.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12205,7 +12205,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/unisganoli.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12218,7 +12218,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/uska.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12230,7 +12230,7 @@ Create index cards similar to each of the following:
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/juska.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12243,7 +12243,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/usgwohlii.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12256,7 +12256,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/agisgwohlii.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12269,7 +12269,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/jasgwohlii.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12282,7 +12282,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/galohisdii.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12294,7 +12294,7 @@ Create index cards similar to each of the following:
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/digalohisdii.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12307,7 +12307,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/digohwelodi.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12320,7 +12320,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/hyatena.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12333,7 +12333,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/dihyatena.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12346,7 +12346,7 @@ Create index cards similar to each of the following:
 
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/hyatena-digohwelodi.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -12358,7 +12358,7 @@ Create index cards similar to each of the following:
 \begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/03/jpgs/dihyatena-digohwelodi.jpg
-	lyxscale 25
+	lyxscale 33
 	width 18col%
 	groupId 5across
 
@@ -13742,7 +13742,525 @@ end{multicols}
 \end_layout
 
 \begin_layout Section
-ᏂᏔᏛᎦ
+ᏂᏔᏛᎦ 1
+\end_layout
+
+\begin_layout Standard
+Create index cards similar to each of the following:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/haisesdi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/haktahvna.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/halehwisda.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hasvnhga.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hidogesdi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hiyasvnhga.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/johlesdi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hlesdi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hla-hyaisesdi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hlesdi-jihaktahvna.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hlesdi-jihalehwisda.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hlesdi-jihasvnhga.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hlesdi-jihidogesdi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hlesdi-jihiyasvnhga.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/04/jpgs/hlesdi-jijohlesdi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label each card on the reverse as follows:
+\end_layout
+
+\begin_layout Itemize
+ᎭᎢᏎᏍᏗ, ᎭᎦᏔᎲᎾ, ᎭᎴᏫᏍᏓ, ᎭᏒᏂᎦ, ᎯᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Itemize
+ᎯᏯᏒᏂᎦ, ᏦᏞᏍᏗ, ᏞᏍᏗ/ᎮᏍᏗ, Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏯᎢᏎᏍᏗ, ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᎭᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Itemize
+ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᎭᎴᏫᏍᏓ, ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᎭᏒᏂᎦ, ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᎯᏙᎨᏍᏗ, ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᎯᏯᏒᏂᎦ, ᏞᏍᏗ
+\begin_inset space ~
+\end_inset
+
+ᏥᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+Split up into groups of two to four.
+\end_layout
+
+\begin_layout Subsection*
+If you have more than two in your study group:
+\end_layout
+
+\begin_layout Standard
+For each group the first person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The second person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Any remaining people are grouped together and are designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ After each set, rotate positions so that 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+, and one of the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+It is very important then any people in the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ group watch and listen.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Keep rotating until everyone has been in position 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, starting over with the first set of challenges as needed.
+\end_layout
+
+\begin_layout Standard
+Layout all the cards picture side up so they all can be seen.
+ For each challenge in a set the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should call out the challenge.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then repeat the challenge and try to point at the correct
+ picture.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then flip the card over to verify if it was the correct choice.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then flip the card picture side up and say its name as indicated
+ on the reverse.
+\end_layout
+
+\begin_layout Subsection*
+If you have only two in your study group:
+\end_layout
+
+\begin_layout Standard
+For each group the first person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The second person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ After each set, swap positions so that 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Layout all the cards picture side up so they all can be seen.
+ For each challenge in a set the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should call out the challenge.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then repeat the challenge and try to point at the correct
+ picture.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then flip the card over to verify if it was the correct choice.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then flip the card picture side up and say its name as indicated
+ on the reverse.
+\end_layout
+
+\begin_layout Subsection*
+If you only have yourself:
+\end_layout
+
+\begin_layout Standard
+Layout all the cards picture side up so they all can be seen.
+ For each challenge in a set call out the challenge.
+ Try and select the correct picture.
+ Flip the card over to verify if it was the correct choice.
+ Flip the card picture side up and say its correct name as indicated on
+ the reverse.
+\end_layout
+
+\begin_layout Subsection*
+Challenges
+\end_layout
+
+\begin_layout Section
+ᏂᏔᏛᎦ 2
 \end_layout
 
 \begin_layout Standard
