@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.34 $
+$Revision: 1.35 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/06 15:23:29 $ UTC
+$Date: 2016/11/06 17:47:23 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.34 $
+$Revision: 1.35 $
 \noun default
 .
 \end_layout
@@ -17431,6 +17431,811 @@ Layout all the cards picture side up so they all can be seen.
 
 \begin_layout Subsection*
 Challenges
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏍᏓᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏍᏓᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏍᏙᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏍᏓᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏍᏙᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏍᏗᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎡᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏍᏗᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎡᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᏣᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᏣᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏍᏙᏞᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏍᏗᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᎡᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᏣᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏥᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏥᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 7
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎡᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎡᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 8
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏥᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎡᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 9
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎢᏣᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 10
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 11
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
