@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.41 $
+$Revision: 1.42 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/06 23:10:13 $ UTC
+$Date: 2016/11/06 23:42:50 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.41 $
+$Revision: 1.42 $
 \noun default
 .
 \end_layout
@@ -21877,7 +21877,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-xxx ᎠᏕᎶᏆᏍᏗ
+ᎦᎵᏉᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -21905,11 +21905,107 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎦᏬᏂᎭ 
+ᎠᏓᎾᏅᎢ [a¹da²nạɂ³nv⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
-He is speaking.
+A store.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏓᏓᎾᏅᎢ [da¹da²nạɂ³nv⁴ɂi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᎦᎾᏍᏓ [u²gạ²na⁴sda] 
+\begin_inset Quotes eld
+\end_inset
+
+Sweet.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᏂᎦᎾᏍᏓ [u²ni²gạ²na⁴sda]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏁᎩᎸᏗ [u²ne³gihl²di] 
+\begin_inset Quotes eld
+\end_inset
+
+Ugly.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎤᏂᏁᎩᎸᏗ,
+\begin_inset space ~
+\end_inset
+
+ᏧᏁᎩᎸᏗ [u²ni²ne³gihl²di, ju²ne³gihl²di]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏬᏚᎯ [ụ²wo²du⁴hi] 
+\begin_inset Quotes eld
+\end_inset
+
+Pretty.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏧᏃᏚᎯ,
+\begin_inset space ~
+\end_inset
+
+ᏧᏬᏚᎯ [ju²no²du⁴hi
+\emph on
+, 
+\emph default
+jụ²wo²du⁴hi]
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏚ [ga⁴du] 
+\begin_inset Quotes eld
+\end_inset
+
+Bread.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\end_layout
+
+\begin_layout Description
+ᎦᏚ [gạ²du³] 
+\begin_inset Quotes eld
+\end_inset
+
+On top.
 \begin_inset Quotes erd
 \end_inset
 
@@ -21917,11 +22013,30 @@ He is speaking.
 \end_layout
 
 \begin_layout Description
-ᏥᎭᏓ [jị³hạ²da] 
+ᎦᏚ
+\begin_inset space ~
+\end_inset
+
+ᎤᎦᎾᏍᏓ [ga³du² u²gạ²na⁴sda] 
 \begin_inset Quotes eld
 \end_inset
 
-Say it again.
+Cake.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+Literally: Bread, Sweet.
+\end_layout
+
+\begin_layout Description
+ᎦᏘᏲᎢ [ga²³ti³yo⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Stompground.
+ Stompgrounds.
 \begin_inset Quotes erd
 \end_inset
 
@@ -21929,11 +22044,11 @@ Say it again.
 \end_layout
 
 \begin_layout Description
-ᏥᏍᏓᏓ [jị³sdạ²da] 
+ᎭᏫᏯ [hạ²wi²ya] 
 \begin_inset Quotes eld
 \end_inset
 
-You two, say it again.
+Meat.
 \begin_inset Quotes erd
 \end_inset
 
@@ -21941,11 +22056,12 @@ You two, say it again.
 \end_layout
 
 \begin_layout Description
-ᏥᎢᏣᏓ [jị³ɂi²jạ²da] 
+ᎫᎫ [gu¹gu] 
 \begin_inset Quotes eld
 \end_inset
 
-You all, say it again.
+A bottle.
+ Bottles
 \begin_inset Quotes erd
 \end_inset
 
@@ -21953,35 +22069,11 @@ You all, say it again.
 \end_layout
 
 \begin_layout Description
-ᎠᎪᎵᏰᎠ 
+ᏎᎷ [se²³lu] 
 \begin_inset Quotes eld
 \end_inset
 
-He is reading it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᏛᏁᎭ 
-\begin_inset Quotes eld
-\end_inset
-
-He is doing it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᎵᏍᏓᏁᎭ 
-\begin_inset Quotes eld
-\end_inset
-
-It is happening to him.
+Corn.
 \begin_inset Quotes erd
 \end_inset
 
@@ -22005,24 +22097,12 @@ Tomorrow.
 \end_layout
 
 \begin_layout Description
-ᏒᎯ 
+ᏏᏆ [sih²gwa] 
 \begin_inset Quotes eld
 \end_inset
 
-Yesterday.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎫᎫ [gu¹gu] 
-\begin_inset Quotes eld
-\end_inset
-
-A bottle.
- Bottles
+A pig.
+ Pigs.
 \begin_inset Quotes erd
 \end_inset
 
@@ -22045,18 +22125,10 @@ Another.
 
 \begin_deeper
 \begin_layout Description
-ᏗᏐᎢ [di²³sọ²i] 
-\begin_inset Quotes eld
-\end_inset
-
-Others.
- Additional ones.
-\begin_inset Quotes erd
-\end_inset
-
-
+ᏗᏐᎢ [di²³sọ²i]
 \end_layout
 
+\end_deeper
 \begin_layout Description
 ᏐᎢᏱ [sọ²ɂi²³yi] 
 \begin_inset Quotes eld
@@ -22072,21 +22144,7 @@ Literally:
 \begin_inset Quotes eld
 \end_inset
 
-In the other.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎦᏘᏲᎢ [ga²³ti³yo⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Stompground.
- Stompgrounds.
+The next place.
 \begin_inset Quotes erd
 \end_inset
 
@@ -22094,207 +22152,17 @@ Stompground.
 \end_layout
 
 \begin_layout Description
-ᎤᏬᏚᎯ [ụ²wo²du⁴hi] 
+ᏒᎯ 
 \begin_inset Quotes eld
 \end_inset
 
-Pretty.
+Yesterday.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_deeper
-\begin_layout Description
-ᏧᏃᏚᎯ [ju²no²du⁴hi] 
-\begin_inset Quotes eld
-\end_inset
-
-Pretty.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
- Animate.
-\end_layout
-
-\begin_layout Description
-ᏧᏬᏚᎯ [jụ²wo²du⁴hi] 
-\begin_inset Quotes eld
-\end_inset
-
-Pretty.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
- Inanimate.
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎤᏁᎩᎸᏗ [u²ne³gihl²di] 
-\begin_inset Quotes eld
-\end_inset
-
-Ugly.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎤᏂᏁᎩᎸᏗ [u²ni²ne³gihl²di] 
-\begin_inset Quotes eld
-\end_inset
-
-Ugly.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
- Animate.
-\end_layout
-
-\begin_layout Description
-ᏧᏁᎩᎸᏗ [ju²ne³gihl²di] 
-\begin_inset Quotes eld
-\end_inset
-
-Ugly.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
- Inanimate.
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᏗᎭ [a¹dị²ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is saying it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎦᏗᎠ [ga²dị³a] 
-\begin_inset Quotes eld
-\end_inset
-
-I am saying it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎤᏅᏔ [unh¹ta] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she knows it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏆᏅᏔ [a¹gwanh²ta] 
-\begin_inset Quotes eld
-\end_inset
-
-I know it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎦᏩᏂᎯᎠ [gạ²wo¹nị²³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is speaking.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏥᏬᏂᎭ [jị²wo³nị²ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I am speaking.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -22312,11 +22180,111 @@ end{multicols}
 \end_layout
 
 \begin_layout Section
-ᏂᏔᏛᎦ (Do them)
+ᏂᏔᏛᎦ
 \end_layout
 
-\begin_layout Subsection
-Groups
+\begin_layout Standard
+Create index cards similar to the following:
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/asgoli.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/jisgoli.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/hisgoli.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/ayanuli.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/03/jpgs/diniyanuli.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Label each card on the reverse as follows:
+\end_layout
+
+\begin_layout Itemize
+ᎠᏓᎾᏅᎢ, ᏓᏓᎾᏅᎢ, ᎤᎦᎾᏍᏓ, ᎤᏂᎦᎾᏍᏓ, ᎤᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Itemize
+ᎤᏂᏁᎩᎸᏗ, ᏧᏁᎩᎸᏗ, ᎤᏬᏚᎯ, ᏧᏃᏚᎯ, ᏧᏬᏚᎯ.
+\end_layout
+
+\begin_layout Itemize
+Ꭶ⁴Ꮪ, ᎦᏚ, ᎦᏚ ᎤᎦᎾᏍᏓ, ᎦᏚ ᎤᎦᎾᏍᏓ, ᎦᏘᏲᎢ.
+\end_layout
+
+\begin_layout Itemize
+ᎭᏫᏯ, ᎫᎫ, ᏎᎷ, ᏏᎾᎴᎢ/ᏑᎾᎴᎢ, ᏏᏆ.
+\end_layout
+
+\begin_layout Itemize
+ᏐᎢ, ᏗᏐᎢ, ᏐᎢᏱ
+\emph on
+, 
+\emph default
+ᏒᎯ.
+\end_layout
+
+\begin_layout Standard
+Split up into groups of two to four.
+\end_layout
+
+\begin_layout Subsection*
+If you have more than two in your study group:
 \end_layout
 
 \begin_layout Standard
@@ -22338,20 +22306,11 @@ For each group the first person is designated
 \end_inset
 
 .
- The third person is designated 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭲ
-\begin_inset Quotes erd
-\end_inset
-
-.
  Any remaining people are grouped together and are designated 
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ
+Ꭲ
 \begin_inset Quotes erd
 \end_inset
 
@@ -22380,35 +22339,19 @@ For each group the first person is designated
 \begin_inset Quotes erd
 \end_inset
 
- becomes the 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭲ
-\begin_inset Quotes erd
-\end_inset
-
-, the 
-\begin_inset Quotes eld
-\end_inset
-
-Ꭲ
-\begin_inset Quotes erd
-\end_inset
-
  becomes one of the 
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ
+Ꭲ
 \begin_inset Quotes erd
 \end_inset
 
- and one of the 
+, and one of the 
 \begin_inset Quotes eld
 \end_inset
 
-Ꭳ
+Ꭲ
 \begin_inset Quotes erd
 \end_inset
 
@@ -22423,22 +22366,195 @@ For each group the first person is designated
 .
 \end_layout
 
-\begin_layout Subsection
-Someone Alone
-\end_layout
-
 \begin_layout Standard
-Add three pretend study partners and follow the instructions for Groups.
-\end_layout
+☞ 
+\emph on
+It is very important then any people in the 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Subsection*
-Sets
+Ꭲ
+\begin_inset Quotes erd
+\end_inset
+
+ group watch and listen.
 \end_layout
 
 \begin_layout Standard
 ☞ 
 \emph on
-Take a short break if needed after every two to three sets.
+Keep rotating until everyone has been in position 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, starting over with the first set of challenges as needed.
+\end_layout
+
+\begin_layout Standard
+Layout all the cards picture side up so they all can be seen.
+ For each challenge in a set the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should call out the challenge.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then repeat the challenge and try to point at the correct
+ picture.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then flip the card over to verify it was the correct choice.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then flip the card picture side up and say its name as indicated
+ on the reverse.
+\end_layout
+
+\begin_layout Subsection*
+If you have only two in your study group:
+\end_layout
+
+\begin_layout Standard
+For each group the first person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ The second person is designated 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+.
+ After each set, swap positions so that 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Layout all the cards picture side up so they all can be seen.
+ For each challenge in a set the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should call out the challenge.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭱ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then repeat the challenge and try to point at the correct
+ picture.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then flip the card over to verify it was the correct choice.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꭰ
+\begin_inset Quotes erd
+\end_inset
+
+ person should then flip the card picture side up and say its name as indicated
+ on the reverse.
+\end_layout
+
+\begin_layout Subsection*
+If you only have yourself:
+\end_layout
+
+\begin_layout Standard
+Layout all the cards picture side up so they all can be seen.
+ For each challenge in a set call out the challenge.
+ Try and select the correct picture.
+ Flip the card over to verify it was the correct choice.
+ Flip the card picture side up and say its correct name as indicated on
+ the reverse.
+\end_layout
+
+\begin_layout Subsection*
+Challenges
+\end_layout
+
+\begin_layout Chapter
+xxx ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -22451,50 +22567,6 @@ Take a short break if needed after every two to three sets.
 Remember that it is through the exercises in the lesson material that you
  learn how to understand and speak Cherokee, not by memorizing rules and
  word parts.
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Chapter
-xxx ᎠᏕᎶᏆᏍᏗ
-\end_layout
-
-\begin_layout Section
-Grammar
 \end_layout
 
 \begin_layout Subsection*
@@ -25636,7 +25708,205 @@ reportedly
 \end_layout
 
 \begin_layout Section
-Vocabulary
+ᏘᎪᎵᏯ
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏬᏂᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+He is speaking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᎭᏓ [jị³hạ²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Say it again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᏍᏓᏓ [jị³sdạ²da] 
+\begin_inset Quotes eld
+\end_inset
+
+You two, say it again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᎢᏣᏓ [jị³ɂi²jạ²da] 
+\begin_inset Quotes eld
+\end_inset
+
+You all, say it again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎪᎵᏰᎠ 
+\begin_inset Quotes eld
+\end_inset
+
+He is reading it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏛᏁᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+He is doing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏍᏓᏁᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+It is happening to him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏗᎭ [a¹dị²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is saying it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏗᎠ [ga²dị³a] 
+\begin_inset Quotes eld
+\end_inset
+
+I am saying it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏅᏔ [unh¹ta] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she knows it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᏅᏔ [a¹gwanh²ta] 
+\begin_inset Quotes eld
+\end_inset
+
+I know it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏩᏂᎯᎠ [gạ²wo¹nị²³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is speaking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏬᏂᎭ [jị²wo³nị²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I am speaking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -26415,143 +26685,6 @@ Let you know it.
 \end_layout
 
 \end_deeper
-\begin_layout Subsection*
-Other
-\end_layout
-
-\begin_layout Description
-ᎠᏓᎾᏅᎢ [a¹da²nạɂ³nv⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-A store.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏓᏓᎾᏅᎢ [da¹da²nạɂ³nv⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Stores.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎦᏚ [gạ²du³] 
-\begin_inset Quotes eld
-\end_inset
-
-On top.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎦᏚ [ga⁴du] 
-\begin_inset Quotes eld
-\end_inset
-
-Bread.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\end_layout
-
-\begin_layout Description
-ᎤᎦᎾᏍᏓ [u²gạ²na⁴sda] 
-\begin_inset Quotes eld
-\end_inset
-
-Sweet.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎤᏂᎦᎾᏍᏓ [u²ni²gạ²na⁴sda] 
-\begin_inset Quotes eld
-\end_inset
-
-Sweet.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Plural.
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎦᏚ
-\begin_inset space ~
-\end_inset
-
-ᎤᎦᎾᏍᏓ [ga³du² u²gạ²na⁴sda] 
-\begin_inset Quotes eld
-\end_inset
-
-Cake.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-Literally: Bread, Sweet.
-\end_layout
-
-\begin_layout Description
-ᎭᏫᏯ [hạ²wi²ya] 
-\begin_inset Quotes eld
-\end_inset
-
-Meat.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏎᎷ [se²³lu] 
-\begin_inset Quotes eld
-\end_inset
-
-Corn.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏏᏆ [sih²gwa] 
-\begin_inset Quotes eld
-\end_inset
-
-Pig.
- Pigs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
