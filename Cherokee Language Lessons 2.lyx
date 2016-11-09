@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.48 $
+$Revision: 1.49 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/09 02:48:08 $ UTC
+$Date: 2016/11/09 03:10:50 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.48 $
+$Revision: 1.49 $
 \noun default
 .
 \end_layout
@@ -24217,7 +24217,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-xxx ᎠᏕᎶᏆᏍᏗ
+ᏣᏁᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -24234,13 +24234,6 @@ Remember that it is through the exercises in the lesson material that you
 
 \begin_layout Subsection*
 Verb Core Forms
-\begin_inset CommandInset label
-LatexCommand label
-name "sec:Verb-Core-Forms"
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -24249,15 +24242,38 @@ Each Cherokee verb has five core forms that are used to build new words.
 \begin_inset Quotes eld
 \end_inset
 
-agowhtiha
+ᎠᎪᏩᏘᎭ
 \begin_inset Quotes erd
 \end_inset
 
  along with their meanings:
 \end_layout
 
+\begin_layout Standard
+☞ 
+\emph on
+This material closely follows the dictionary entry formats as found in the
+ official 
+\begin_inset Quotes eld
+\end_inset
+
+Cherokee-English Dictionary
+\begin_inset Quotes erd
+\end_inset
+
+ and the 
+\begin_inset Quotes eld
+\end_inset
+
+Raven Rock Dictionary
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
 \begin_layout Paragraph*
-Vocabulary entries for agowhtiha.
+Vocabulary entries for ᎠᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Description
@@ -24265,7 +24281,7 @@ Vocabulary entries for agowhtiha.
 \begin_inset Quotes eld
 \end_inset
 
-He/she sees him/her/it.
+He is seeing it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -24275,10 +24291,13 @@ He/she sees him/her/it.
 \begin_deeper
 \begin_layout Description
 ᏥᎪᏩᏘᎭ [ji²gowh¹tị³ha] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-I see him/her/it.
+I am\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -24287,10 +24306,13 @@ I see him/her/it.
 
 \begin_layout Description
 ᎤᎪᎲᎢ [u¹go²hv²³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she saw him/her/it.
+He did\SpecialChar \ldots{}
+a while ago.
 \begin_inset Quotes erd
 \end_inset
 
@@ -24299,10 +24321,13 @@ He/she saw him/her/it.
 
 \begin_layout Description
 ᎠᎪᏩᏘᏍᎪᎢ [a¹gowh²ti²³sgọ³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she is often seeing him/her/it.
+He often\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -24311,10 +24336,13 @@ He/she is often seeing him/her/it.
 
 \begin_layout Description
 ᎯᎪᏩᏔ [hi²go¹wah²ta] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-Let you (one) see him/her/it.
+Let you\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -24323,16 +24351,17 @@ Let you (one) see him/her/it.
 
 \begin_layout Description
 ᎤᎪᏩᏛᏗ [u²gowh²tvh³di] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she to see him/her/it.
+For him\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-This bad English will make more sense later.
+
 \end_layout
 
 \end_deeper
@@ -24341,7 +24370,7 @@ The first two entries of
 \begin_inset Quotes eld
 \end_inset
 
-agowhtiha
+ᎠᎪᏩᏘᎭ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24349,7 +24378,7 @@ agowhtiha
 \begin_inset Quotes eld
 \end_inset
 
-jigowhtiha
+ᏥᎪᏩᏘᎭ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24359,6 +24388,10 @@ jigowhtiha
  These two entries are for the 
 \bar under
 Present Tense
+\bar default
+ or 
+\bar under
+Present Continous
 \bar default
  form.
 \noun default
@@ -24375,7 +24408,7 @@ name "form_present"
 \emph default
 ⚠
 \emph on
- You will encounter this important term later in the lesson material.
+ You will encounter these important terms later in the lesson material.
 \end_layout
 
 \begin_layout Standard
@@ -24398,12 +24431,12 @@ This form is normally used for non-recent events.
 \begin_inset Quotes eld
 \end_inset
 
-u-
+Ꭴ-
 \begin_inset Quotes erd
 \end_inset
 
  prefix.
- This indicates that when talking about past events you should use the 
+ This indicates that when talking about past events you should use 
 \begin_inset Quotes eld
 \end_inset
 
@@ -24436,11 +24469,27 @@ You will encounter this important term later in the lesson material.
 \end_layout
 
 \begin_layout Standard
+☞ 
+\emph on
+The dialect being used in this material will use the -ᎥᎩ ending and not
+ the -ᎥᎢ ending as listed in the dictionary entries to indicate an experienced
+ event from 
+\begin_inset Quotes eld
+\end_inset
+
+a while ago
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
 Examples:
 \end_layout
 
 \begin_layout Itemize
-ᎠᎩᎪᎲᎢ.
+ᎠᎩᎪᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -24449,11 +24498,19 @@ I saw it (a while ago).
 \begin_inset Quotes erd
 \end_inset
 
+, 
+\begin_inset Quotes eld
+\end_inset
+
+He saw me (a while ago).
+\begin_inset Quotes erd
+\end_inset
+
 
 \end_layout
 
 \begin_layout Itemize
-Wahya doya ᎤᎪᎲᎢ.
+ᏩᎭᏯ ᏙᏯ ᎤᎪᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -24466,7 +24523,7 @@ The wolf saw the beaver (a while ago).
 \end_layout
 
 \begin_layout Itemize
-Aniyvwi ᎦᏍᎩᎶ ᎤᏂᎪᎲᎢ.
+ᎠᏂᏴᏫ ᎦᏍᎩᎶ ᎤᏂᎪᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -24479,11 +24536,11 @@ The people saw a chair (a while ago).
 \end_layout
 
 \begin_layout Standard
-Remember, the 
+The 
 \begin_inset Quotes eld
 \end_inset
 
--vɂi
+-ᎥᎩ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24496,7 +24553,7 @@ directly experienced or witnessed
 \begin_inset Quotes eld
 \end_inset
 
-ᎨᎲᎢ
+ᎨᎲᎩ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24504,7 +24561,7 @@ directly experienced or witnessed
 \begin_inset Quotes eld
 \end_inset
 
-ᎨᏒᎢ
+ᎨᏒᎩ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24516,7 +24573,7 @@ The
 \begin_inset Quotes eld
 \end_inset
 
--vɂi
+-ᎥᎩ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24524,7 +24581,7 @@ The
 \begin_inset Quotes eld
 \end_inset
 
--eɂi
+-ᎡᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24557,7 +24614,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Wahya doya ᎤᎪᎮᎢ.
+ᏩᎭᏯ ᏙᏯ ᎤᎪᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -24570,7 +24627,7 @@ I was told the wolf saw the beaver (a while ago).
 \end_layout
 
 \begin_layout Itemize
-Aniyvwi ᎦᏍᎩᎶ ᎤᏂᎪᎮᎢ.
+ᎠᏂᏴᏫ ᎦᏍᎩᎶ ᎤᏂᎪᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -24587,7 +24644,7 @@ The next form
 \begin_inset Quotes eld
 \end_inset
 
-agowhtisgoi
+ᎠᎪᏩᏘᏍᎪᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24595,7 +24652,7 @@ agowhtisgoi
 \begin_inset Quotes eld
 \end_inset
 
--oi
+-ᎣᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24630,7 +24687,7 @@ usually
 \begin_inset Quotes eld
 \end_inset
 
--oi
+-ᎣᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24668,7 +24725,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Wahya doya agowhtisgoi.
+ᏩᎭᏯ ᏙᏯ ᎠᎪᏩᏘᏍᎪᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -24681,7 +24738,7 @@ The wolf often sees a beaver.
 \end_layout
 
 \begin_layout Itemize
-Aniyvwi ᎦᏍᎩᎶ anigowhtisgoi.
+ᎠᏂᏴᏫ ᎦᏍᎩᎶ ᎠᏂᎪᏩᏘᏍᎪᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -24698,7 +24755,7 @@ Another new form is
 \begin_inset Quotes eld
 \end_inset
 
-higowahta
+ᎯᎪᏩᏔ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24708,7 +24765,7 @@ higowahta
 \begin_inset Quotes eld
 \end_inset
 
-higowahta
+ᎯᎪᏩᏔ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24720,28 +24777,12 @@ Look at it.
 \begin_inset Quotes erd
 \end_inset
 
- The 
-\begin_inset Quotes eld
-\end_inset
-
-(one)
-\begin_inset Quotes erd
-\end_inset
-
- following 
-\begin_inset Quotes eld
-\end_inset
-
-you
-\begin_inset Quotes erd
-\end_inset
-
- indicates this form is only valid when talking to one person.
+ This form is only valid when talking to one person.
  You have to change the bound pronoun 
 \begin_inset Quotes eld
 \end_inset
 
-hi-
+Ꭿ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -24752,12 +24793,16 @@ This is referred to as the
 \bar under
 Imperative
 \bar default
+ or 
+\bar under
+Immediate
+\bar default
  form.
 \noun default
 
 \begin_inset CommandInset label
 LatexCommand label
-name "form_imperative"
+name "form_immediate"
 
 \end_inset
 
@@ -24767,7 +24812,7 @@ name "form_imperative"
 \emph default
 ⚠
 \emph on
- You will encounter this important term later in the lesson material.
+ You will encounter these important terms later in the lesson material.
 \end_layout
 
 \begin_layout Standard
@@ -24775,7 +24820,7 @@ This form requires the addition of the special prefix
 \begin_inset Quotes eld
 \end_inset
 
-wị-
+Ꮻ̣-
 \begin_inset Quotes erd
 \end_inset
 
@@ -24822,7 +24867,7 @@ Take note that when
 \begin_inset Quotes eld
 \end_inset
 
-wị-
+Ꮻ̣-
 \begin_inset Quotes erd
 \end_inset
 
@@ -24850,7 +24895,7 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
-Wahya higowahta.
+ᏩᎭᏯ ᎯᎪᏩᏔ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -24863,7 +24908,7 @@ Look at the wolf.
 \end_layout
 
 \begin_layout Itemize
-Wahya jigowahta.
+ᏩᎭᏯ ᏥᎪᏩᏔ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -24876,7 +24921,7 @@ Let me see the wolf.
 \end_layout
 
 \begin_layout Itemize
-Aniyvwi ᎦᏍᎩᎶ wanigowahta.
+ᎠᏂᏴᏫ ᎦᏍᎩᎶ ᏩᏂᎪᏩᏔ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -24893,7 +24938,7 @@ Finally there is the form
 \begin_inset Quotes eld
 \end_inset
 
-ugowhtvhdi
+ᎤᎪᏩᏛᏗ
 \begin_inset Quotes erd
 \end_inset
 
@@ -24903,7 +24948,7 @@ ugowhtvhdi
 \begin_inset Quotes eld
 \end_inset
 
-to do \SpecialChar \ldots{}
+to do\SpecialChar \ldots{}
 
 \begin_inset Quotes erd
 \end_inset
@@ -24916,22 +24961,26 @@ This is referred to as the
 \bar under
 Infinitive
 \bar default
+ or 
+\bar under
+Deverbal
+\bar default
  form.
 \noun default
 
 \begin_inset CommandInset label
 LatexCommand label
-name "form_infinitive"
+name "form_deverbal"
 
 \end_inset
 
  ⚠
 \emph on
- You will encounter this important term later in the lesson material.
+ You will encounter these important terms later in the lesson material.
 \end_layout
 
 \begin_layout Paragraph*
-Vocabulary entries for uduliha.
+Vocabulary entries for ᎤᏚᎵᎭ.
 \end_layout
 
 \begin_layout Description
@@ -24939,7 +24988,7 @@ Vocabulary entries for uduliha.
 \begin_inset Quotes eld
 \end_inset
 
-He/she wants him/her/it.
+He wants it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -24949,10 +24998,13 @@ He/she wants him/her/it.
 \begin_deeper
 \begin_layout Description
 ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-I want him/her/it.
+I am\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -24961,10 +25013,13 @@ I want him/her/it.
 
 \begin_layout Description
 ᎤᏚᎸᎲᎢ [u¹du²lv²hv²³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she wanted him/her/it.
+He did\SpecialChar \ldots{}
+a while ago.
 \begin_inset Quotes erd
 \end_inset
 
@@ -24973,10 +25028,13 @@ He/she wanted him/her/it.
 
 \begin_layout Description
 ᎤᏚᎵᏍᎪᎢ [u¹du²li²³sgọ³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she is often wanting him/her/it.
+He often\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -24985,10 +25043,13 @@ He/she is often wanting him/her/it.
 
 \begin_layout Description
 ᏣᏚᎳ [jạ²du²³la] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-Let you (one) want him/her/it.
+Let you\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -24997,16 +25058,17 @@ Let you (one) want him/her/it.
 
 \begin_layout Description
 ᎤᏚᎸᏗ [u²duhl²di] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she to want him/her/it.
+For him\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
- 
-\emph on
-This bad English will make more sense later.
+
 \end_layout
 
 \end_deeper
@@ -25015,7 +25077,7 @@ The first two on the list are
 \begin_inset Quotes eld
 \end_inset
 
-uduliha
+ᎤᏚᎵᎭ
 \begin_inset Quotes erd
 \end_inset
 
@@ -25023,7 +25085,7 @@ uduliha
 \begin_inset Quotes eld
 \end_inset
 
-agwaduliha
+ᎠᏆᏚᎵᎭ
 \begin_inset Quotes erd
 \end_inset
 
@@ -25036,7 +25098,7 @@ Examples using
 \begin_inset Quotes eld
 \end_inset
 
-udulvhvi
+ᎤᏚᎸᎲᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -25044,7 +25106,7 @@ udulvhvi
 \end_layout
 
 \begin_layout Itemize
-Agwadulvhvi.
+ᎠᏆᏚᎸᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25057,7 +25119,7 @@ I wanted it (a while ago).
 \end_layout
 
 \begin_layout Itemize
-Wahya doya udulvhvi.
+ᏩᎭᏯ ᏙᏯ ᎤᏚᎸᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25070,7 +25132,7 @@ The wolf wanted the beaver (a while ago).
 \end_layout
 
 \begin_layout Itemize
-Aniyvwi ᎦᏍᎩᎶ unadulvhvi.
+ᎠᏂᏴᏫ ᎦᏍᎩᎶ ᎤᎾᏚᎸᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25087,7 +25149,7 @@ Examples using
 \begin_inset Quotes eld
 \end_inset
 
-udulvhei
+ᎤᏚᎸᎮᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -25095,7 +25157,7 @@ udulvhei
 \end_layout
 
 \begin_layout Itemize
-Jadulvhei.
+ᏣᏚᎸᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25108,7 +25170,7 @@ I was told you wanted it (a while ago).
 \end_layout
 
 \begin_layout Itemize
-Wahya doya udulvhei.
+ᏩᎭᏯ ᏙᏯ ᎤᏚᎸᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25121,7 +25183,7 @@ It was reported that the wolf wanted the beaver (a while ago).
 \end_layout
 
 \begin_layout Itemize
-Aniyvwi ᎦᏍᎩᎶ unadulvhei.
+ᎠᏂᏴᏫ ᎦᏍᎩᎶ ᎤᎾᏚᎸᎮᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25138,7 +25200,7 @@ Examples using
 \begin_inset Quotes eld
 \end_inset
 
-udulisgoi
+ᎤᏚᎵᏍᎪᎢ
 \begin_inset Quotes erd
 \end_inset
 
@@ -25146,7 +25208,7 @@ udulisgoi
 \end_layout
 
 \begin_layout Itemize
-Wahya doya udulisgoi.
+ᏩᎭᏯ ᏙᏯ ᎤᏚᎵᏍᎪᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25159,8 +25221,7 @@ A wolf often wants a beaver.
 \end_layout
 
 \begin_layout Itemize
-Gasgiloju jadulisgoi.
- 
+ᎦᏍᎩᎶᏧ ᏣᏚᎵᏍᎪᎢ? 
 \begin_inset Quotes eld
 \end_inset
 
@@ -25172,11 +25233,11 @@ Don't you often want a chair?
 \end_layout
 
 \begin_layout Standard
-Examples using the infinitive forms 
+Examples using the deverbal forms 
 \begin_inset Quotes eld
 \end_inset
 
-uduhldi
+ᎤᏚᎸᏗ
 \begin_inset Quotes erd
 \end_inset
 
@@ -25184,7 +25245,7 @@ uduhldi
 \begin_inset Quotes eld
 \end_inset
 
-ugowhtvhdi
+ᎤᎪᏩᏛᏗ
 \begin_inset Quotes erd
 \end_inset
 
@@ -25192,13 +25253,13 @@ ugowhtvhdi
 \end_layout
 
 \begin_layout Standard
-
+☞ 
 \emph on
-Please note that the infinitive forms start with the 
+The deverbal forms start with the 
 \begin_inset Quotes eld
 \end_inset
 
-u-
+Ꭴ-
 \begin_inset Quotes erd
 \end_inset
 
@@ -25214,123 +25275,163 @@ Set B
 \end_layout
 
 \begin_layout Itemize
-Agigowhtvhdi agwaduliha.
+ᎠᎩᎪᏩᏛᏗ ᎠᏆᏚᎵᎭ.
  
 \begin_inset Quotes eld
 \end_inset
 
 I want to see it.
- (I to see it I am wanting.)
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
-Agwaduhldi agwaduliha.
+For me to see it I am wanting.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎠᏆᏚᎸᏗ ᎠᏆᏚᎵᎭ.
  
 \begin_inset Quotes eld
 \end_inset
 
 I want to want it.
- (I to want it I am wanting.)
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
-Jagowhtvhdi agwaduliha.
+For me to want it I am wanting.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏣᎪᏩᏛᏗ ᎠᏆᏚᎵᎭ.
  
 \begin_inset Quotes eld
 \end_inset
 
 I want you to see it.
- (You to see it I am wanting.)
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
-Jagowhtvhdi uduliha.
+For you to see it I am wanting.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏣᎪᏩᏛᏗ ᎤᏚᎵᎭ.
  
 \begin_inset Quotes eld
 \end_inset
 
-He/she wants you to see it.
- (You to see it he is wanting.)
+He wants you to see it.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
-Jagowhtvhdi udulvhvi.
+For you to see it he is wanting.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏣᎪᏩᏛᏗ ᎤᏚᎸᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
 
-He/she wanted you to see it.
- (You to see he wanted.)
+He wanted you to see it.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
-Ugowhtvhdi agwadulvhvi.
+For you to see he wanted.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎤᎪᏩᏛᏗ ᎠᏆᏚᎸᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
 
 I wanted him to see it.
- (Him to see it I wanted.)
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
-Jagowhtvhdi udulisgoi.
+For him to see it I wanted.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏣᎪᏩᏛᏗ ᎤᏚᎵᏍᎪᎢ.
  
 \begin_inset Quotes eld
 \end_inset
 
-He/she often wants you to see it.
- (You to see it he often wants.)
+He often wants you to see it.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
-Wahya ugowhtvhdi agwaduhldi uduliha.
+For you to see it he often wants.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏩᎭᏯ ᎤᎪᏩᏛᏗ ᎠᏆᏚᎸᏗ ᎤᏚᎵᎭ.
  
 \begin_inset Quotes eld
 \end_inset
 
-He/she wants me to want him to see a wolf.
- (A wolf - he to see - I to want - he is wanting.)
+He wants me to want him to see a wolf.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_deeper
+\begin_layout Itemize
+A wolf - for him to see - for me to want - he is wanting.
+\end_layout
+
+\end_deeper
 \begin_layout Subsection
 Set A vs Set B revisited
 \end_layout
 
 \begin_layout Standard
-Remember that a verb is classified as either a 
+Words are classified as either 
 \begin_inset Quotes eld
 \end_inset
 
@@ -25338,7 +25439,7 @@ Set A
 \begin_inset Quotes erd
 \end_inset
 
- word or a 
+ or 
 \begin_inset Quotes eld
 \end_inset
 
@@ -25360,10 +25461,10 @@ Present Habitual
 \noun default
 , and 
 \noun on
-Imperative
+Immediate
 \noun default
  forms use either "Set A" or "Set B" bound pronouns as indicated by that
- form's classification.
+ word's classification.
 \end_layout
 
 \begin_layout Standard
@@ -25373,9 +25474,9 @@ Remote Past
 \noun default
  and the 
 \noun on
-Infinitive
+Deverbal
 \noun default
- forms use "Set B" pronouns without regard to the verbs classification.
+ forms use "Set B" pronouns without regard to the word's classification.
 \end_layout
 
 \begin_layout Standard
@@ -25387,7 +25488,7 @@ Set A verb
 \begin_inset Quotes eld
 \end_inset
 
-agowhtiha
+ᎠᎪᏩᏘᎭ
 \begin_inset Quotes erd
 \end_inset
 
@@ -25395,7 +25496,7 @@ agowhtiha
 \end_layout
 
 \begin_layout Itemize
-Jịgowhtiha.
+Ꮵ̣ᎪᏩᏘᎭ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25407,14 +25508,8 @@ I see it.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
-Jị- + -gowhtiha.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Agigowhtiha.
+ᎠᎩᎪᏩᏘᎭ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25426,14 +25521,8 @@ He/she sees me.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
-Agi- + -gowhtiha.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Jigowhtiha.
+ᏥᎪᏩᏘᎭ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25445,14 +25534,8 @@ I see him.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
-Ji- + -gowhtiha.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Agigohvi.
+ᎠᎩᎪᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25465,18 +25548,12 @@ I saw it.
 
 \end_layout
 
-\begin_deeper
-\begin_layout Itemize
-Agi- + -gohvi.
-\end_layout
-
-\end_deeper
 \begin_layout Standard
 Set B verb 
 \begin_inset Quotes eld
 \end_inset
 
-uduliha
+ᎤᏚᎵᎭ
 \begin_inset Quotes erd
 \end_inset
 
@@ -25484,7 +25561,7 @@ uduliha
 \end_layout
 
 \begin_layout Itemize
-Agwaduliha.
+ᎠᏆᏚᎵᎭ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25497,14 +25574,8 @@ I want it.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
-Agi- + -aduliha.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Jiyaduliha.
+ᏥᏯᏚᎵᎭ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25516,14 +25587,8 @@ I want him/her.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
-Jiy- + -aduliha.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Agwadulvhvi.
+ᎠᏆᏚᎸᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25536,14 +25601,8 @@ I wanted it.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
-Agi- + -adulvhvi.
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Jiyadulvhvi.
+ᏥᏯᏚᎸᎲᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -25555,12 +25614,224 @@ I wanted him/her.
 
 \end_layout
 
+\begin_layout Section
+ᏘᎪᎵᏯ
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏬᏂᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+He is speaking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᎭᏓ [jị³hạ²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Say it again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᏍᏓᏓ [jị³sdạ²da] 
+\begin_inset Quotes eld
+\end_inset
+
+You two, say it again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏥᎢᏣᏓ [jị³ɂi²jạ²da] 
+\begin_inset Quotes eld
+\end_inset
+
+You all, say it again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎪᎵᏰᎠ 
+\begin_inset Quotes eld
+\end_inset
+
+He is reading it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏛᏁᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+He is doing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏍᏓᏁᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+It is happening to him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏗᎭ [a¹dị²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is saying it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_deeper
-\begin_layout Itemize
-Jiy- + -adulvhvi.
+\begin_layout Description
+ᎦᏗᎠ [ga²dị³a] 
+\begin_inset Quotes eld
+\end_inset
+
+I am saying it.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_deeper
+\begin_layout Description
+ᎤᏅᏔ [unh¹ta] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she knows it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᏅᏔ [a¹gwanh²ta] 
+\begin_inset Quotes eld
+\end_inset
+
+I know it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏩᏂᎯᎠ [gạ²wo¹nị²³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is speaking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏬᏂᎭ [jị²wo³nị²ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I am speaking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+xxx ᎠᏕᎶᏆᏍᏗ
+\end_layout
+
+\begin_layout Section
+ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Remember that it is through the exercises in the lesson material that you
+ learn how to understand and speak Cherokee, not by memorizing rules and
+ word parts.
+\end_layout
+
 \begin_layout Subsection
 Recent Past, Immediate Future, and Potential Future
 \end_layout
@@ -25568,7 +25839,7 @@ Recent Past, Immediate Future, and Potential Future
 \begin_layout Standard
 There are three simple changes you can make to the 
 \emph on
-Imperative Form
+Immediate Form
 \emph default
  to express any one of 
 \begin_inset Quotes eld
@@ -25709,7 +25980,7 @@ Some speakers will use an ending
 \begin_inset Quotes erd
 \end_inset
 
- with a high fall tone for Imperatives.
+ with a high fall tone for Immediates.
 \end_layout
 
 \begin_layout Itemize
@@ -25805,7 +26076,7 @@ Some speakers will not change the ending
 \begin_layout Standard
 
 \emph on
-Many times this form will appear identical to the Imperative Form when written.
+Many times this form will appear identical to the Immediate Form when written.
  You will have to use context to tell them apart when this occurs.
 \end_layout
 
@@ -26096,7 +26367,7 @@ de-
 \end_inset
 
  combined bound pronouns have a pronunciation change when used with the
- imperative 
+ immediate 
 \begin_inset Quotes eld
 \end_inset
 
@@ -26104,7 +26375,7 @@ Let
 \begin_inset Quotes erd
 \end_inset
 
- and infinitive 
+ and deverbal 
 \begin_inset Quotes eld
 \end_inset
 
@@ -27372,204 +27643,6 @@ reportedly
 
 \begin_layout Section
 ᏘᎪᎵᏯ
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎦᏬᏂᎭ 
-\begin_inset Quotes eld
-\end_inset
-
-He is speaking.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏥᎭᏓ [jị³hạ²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Say it again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏥᏍᏓᏓ [jị³sdạ²da] 
-\begin_inset Quotes eld
-\end_inset
-
-You two, say it again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏥᎢᏣᏓ [jị³ɂi²jạ²da] 
-\begin_inset Quotes eld
-\end_inset
-
-You all, say it again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᎪᎵᏰᎠ 
-\begin_inset Quotes eld
-\end_inset
-
-He is reading it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᏛᏁᎭ 
-\begin_inset Quotes eld
-\end_inset
-
-He is doing it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᎵᏍᏓᏁᎭ 
-\begin_inset Quotes eld
-\end_inset
-
-It is happening to him.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᏗᎭ [a¹dị²ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is saying it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎦᏗᎠ [ga²dị³a] 
-\begin_inset Quotes eld
-\end_inset
-
-I am saying it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎤᏅᏔ [unh¹ta] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she knows it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏆᏅᏔ [a¹gwanh²ta] 
-\begin_inset Quotes eld
-\end_inset
-
-I know it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎦᏩᏂᎯᎠ [gạ²wo¹nị²³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is speaking.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏥᏬᏂᎭ [jị²wo³nị²ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I am speaking.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -36518,7 +36591,7 @@ is doing
 \begin_inset Quotes erd
 \end_inset
 
- form and combine that with the infinitive 
+ form and combine that with the deverbal 
 \begin_inset Quotes eld
 \end_inset
 
@@ -36565,7 +36638,7 @@ He/she to shop.
 
  
 \emph on
-The infinitive 
+The deverbal 
 \begin_inset Quotes eld
 \end_inset
 
@@ -36641,7 +36714,7 @@ Him to see him/her/it.
 
  
 \emph on
-The infinitive 
+The deverbal 
 \begin_inset Quotes eld
 \end_inset
 
@@ -36717,7 +36790,7 @@ Him to speak.
 
  
 \emph on
-The infinitive 
+The deverbal 
 \begin_inset Quotes eld
 \end_inset
 
@@ -36795,7 +36868,7 @@ Him to want him/her/it.
 
  
 \emph on
-The infinitive 
+The deverbal 
 \begin_inset Quotes eld
 \end_inset
 
@@ -40713,7 +40786,7 @@ nị-
 \begin_inset Quotes erd
 \end_inset
 
- is used on the infinitive 
+ is used on the deverbal 
 \begin_inset Quotes eld
 \end_inset
 
@@ -40721,7 +40794,7 @@ to be
 \begin_inset Quotes erd
 \end_inset
 
- form or on any word created out of the infinitive, such as the 
+ form or on any word created out of the deverbal, such as the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -49140,7 +49213,7 @@ Ability.
 \begin_layout Standard
 If you take the 
 \emph on
-Infinitive Form
+Deverbal Form
 \emph default
  and use it alone you indicate an 
 \begin_inset Quotes eld
@@ -49386,7 +49459,7 @@ Needs to
 \begin_inset Quotes erd
 \end_inset
 
- (discussed next) and Infinitive forms when written.
+ (discussed next) and Deverbal forms when written.
  Context is required to determine correct meaning.
 \end_layout
 
@@ -49402,7 +49475,7 @@ Needs to do.
 \end_layout
 
 \begin_layout Standard
-If you take the Infinitive form and add a high falling tone on its rightmost
+If you take the Deverbal form and add a high falling tone on its rightmost
  long vowel you imply a 
 \begin_inset Quotes eld
 \end_inset
@@ -49572,7 +49645,7 @@ He/she must do it.
 \begin_layout Standard
 
 \emph on
-This form appears identical to the Facility and Infinitive forms when written.
+This form appears identical to the Facility and Deverbal forms when written.
  Context is required to determine correct meaning.
 \end_layout
 
