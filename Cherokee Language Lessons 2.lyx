@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.44 $
+$Revision: 1.45 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/09 02:22:13 $ UTC
+$Date: 2016/11/09 02:23:15 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.44 $
+$Revision: 1.45 $
 \noun default
 .
 \end_layout
@@ -22860,14 +22860,6 @@ raggedcolumns
 ᎫᎫ.
 \end_layout
 
-\begin_layout Enumerate
-ᏎᎷ.
-\end_layout
-
-\begin_layout Enumerate
-ᏏᏆ.
-\end_layout
-
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -22912,6 +22904,14 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᏎᎷ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᏆ.
+\end_layout
+
+\begin_layout Enumerate
 ᏐᎢ.
 \end_layout
 
@@ -22925,22 +22925,6 @@ raggedcolumns
 
 \begin_layout Enumerate
 ᏐᎢᏱ.
-\end_layout
-
-\begin_layout Enumerate
-ᏗᏐᎢ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏬᏚᎯ.
-\end_layout
-
-\begin_layout Enumerate
-Ꭶ̣²Ꮪ.
-\end_layout
-
-\begin_layout Enumerate
-ᎭᏫᏯ.
 \end_layout
 
 \begin_layout Standard
@@ -22987,10 +22971,6 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏐᎢᏱ.
-\end_layout
-
-\begin_layout Enumerate
 ᏗᏐᎢ.
 \end_layout
 
@@ -23003,19 +22983,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎦᏘᏲᎢ.
+ᎭᏫᏯ.
 \end_layout
 
 \begin_layout Enumerate
-Ꭶ⁴Ꮪ³.
+ᏐᎢᏱ.
 \end_layout
 
 \begin_layout Enumerate
-ᏏᎾᎴᎢ.
-\end_layout
-
-\begin_layout Enumerate
-ᏑᎾᎴᎢ.
+ᏗᏐᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -23062,7 +23038,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏧᏃᏚᎯ.
+ᎤᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ̣²Ꮪ.
 \end_layout
 
 \begin_layout Enumerate
@@ -23079,18 +23059,6 @@ raggedcolumns
 
 \begin_layout Enumerate
 ᏑᎾᎴᎢ.
-\end_layout
-
-\begin_layout Enumerate
-ᏧᏃᏚᎯ.
-\end_layout
-
-\begin_layout Enumerate
-ᎫᎫ.
-\end_layout
-
-\begin_layout Enumerate
-ᏎᎷ.
 \end_layout
 
 \begin_layout Standard
@@ -23137,35 +23105,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏏᏆ.
+ᏧᏃᏚᎯ.
 \end_layout
 
 \begin_layout Enumerate
-ᏐᎢ.
+ᎦᏘᏲᎢ.
 \end_layout
 
 \begin_layout Enumerate
-ᏒᎯ.
+Ꭶ⁴Ꮪ³.
 \end_layout
 
 \begin_layout Enumerate
-ᏧᏬᏚᎯ.
+ᏏᎾᎴᎢ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏓᎾᏅᎢ.
+ᏑᎾᎴᎢ.
 \end_layout
 
 \begin_layout Enumerate
-ᎤᎦᎾᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᎭᏫᏯ.
-\end_layout
-
-\begin_layout Enumerate
-ᏐᎢᏱ.
+ᏧᏃᏚᎯ.
 \end_layout
 
 \begin_layout Standard
@@ -23212,11 +23172,137 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎫᎫ.
+\end_layout
+
+\begin_layout Enumerate
+ᏎᎷ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᏆ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏒᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏬᏚᎯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 7
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎭᏫᏯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢᏱ.
+\end_layout
+
+\begin_layout Enumerate
 ᏗᏐᎢ.
 \end_layout
 
 \begin_layout Enumerate
 ᎤᏬᏚᎯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 8
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Enumerate
@@ -23260,7 +23346,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Subsubsection*
-Set 7
+Set 9
 \end_layout
 
 \begin_layout Standard
@@ -23310,164 +23396,6 @@ raggedcolumns
 ᎤᏁᎩᎸᏗ.
 \end_layout
 
-\begin_layout Enumerate
-ᏓᏓᎾᏅᎢ.
-\end_layout
-
-\begin_layout Enumerate
-ᏧᏁᎩᎸᏗ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection*
-Set 8
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏂᎦᎾᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏂᏁᎩᎸᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᏧᏬᏚᎯ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏓᎾᏅᎢ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎦᎾᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᏧᏁᎩᎸᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏂᎦᎾᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏂᏁᎩᎸᏗ.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Subsubsection*
-Set 9
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\end_layout
-
-\begin_layout Plain Layout
-
-
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-ᎦᏚ ᎤᎦᎾᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏁᎩᎸᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᏓᏓᎾᏅᎢ.
-\end_layout
-
-\begin_layout Enumerate
-ᎦᏚ ᎤᎦᎾᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᏧᏁᎩᎸᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏂᎦᎾᏍᏓ.
-\end_layout
-
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -23512,6 +23440,85 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᏓᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 11
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
 ᎤᏂᏁᎩᎸᏗ.
 \end_layout
 
@@ -23521,6 +23528,73 @@ raggedcolumns
 
 \begin_layout Enumerate
 ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 12
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎦᎾᏍᏓ.
 \end_layout
 
 \begin_layout Standard
