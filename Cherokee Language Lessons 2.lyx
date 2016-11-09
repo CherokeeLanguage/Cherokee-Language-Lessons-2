@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.50 $
+$Revision: 1.51 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/09 04:21:45 $ UTC
+$Date: 2016/11/09 04:26:53 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.50 $
+$Revision: 1.51 $
 \noun default
 .
 \end_layout
@@ -25451,11 +25451,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎦᏬᏂᎭ 
+ᎠᏗᎭ [a¹dị²ha] 
 \begin_inset Quotes eld
 \end_inset
 
-He is speaking.
+He is saying it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏗᎠ [gạ²di³ɂa] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+I am\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -25463,11 +25479,14 @@ He is speaking.
 \end_layout
 
 \begin_layout Description
-ᏥᎭᏓ [jị³hạ²da] 
+ᎤᏛᏅᎢ [u¹dv²hnv²³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-Say it again.
+He did\SpecialChar \ldots{}
+a while ago.
 \begin_inset Quotes erd
 \end_inset
 
@@ -25475,11 +25494,14 @@ Say it again.
 \end_layout
 
 \begin_layout Description
-ᏥᏍᏓᏓ [jị³sdạ²da] 
+ᎠᏗᏍᎪᎢ [a¹di²³sgo³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-You two, say it again.
+He often\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -25487,11 +25509,14 @@ You two, say it again.
 \end_layout
 
 \begin_layout Description
-ᏥᎢᏣᏓ [jị³ɂi²jạ²da] 
+ᎭᏓ [hạ²da] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-You all, say it again.
+Let you\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -25499,11 +25524,43 @@ You all, say it again.
 \end_layout
 
 \begin_layout Description
-ᎠᎪᎵᏰᎠ 
+ᎤᏘᏗ [ut²di] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He is reading it.
+For him\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He sees him, it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎪᏩᏘᎭ [ji²gowh¹tị³ha] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+I am\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -25511,11 +25568,14 @@ He is reading it.
 \end_layout
 
 \begin_layout Description
-ᎠᏛᏁᎭ 
+ᎤᎪᎲᎢ [u¹go²hv²³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He is doing it.
+He did\SpecialChar \ldots{}
+a while ago.
 \begin_inset Quotes erd
 \end_inset
 
@@ -25523,17 +25583,258 @@ He is doing it.
 \end_layout
 
 \begin_layout Description
-ᎤᎵᏍᏓᏁᎭ 
+ᎠᎪᏩᏘᏍᎪᎢ [a¹gowh²ti²³sgọ³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-It is happening to him.
+He often\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_layout Description
+ᎯᎪᏩᏔ [hi²go¹wah²ta] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Let you\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎪᏩᏛᏗ [u²gowh²tvh³di] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+For him\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏚᎵᎭ [u¹du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He wants it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+I am\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏚᎸᎲᎢ [u¹du²lv²hv²³ɂi] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+He did\SpecialChar \ldots{}
+a while ago.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏚᎵᏍᎪᎢ [u¹du²li²³sgọ³ɂi] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+He often\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏣᏚᎳ [jạ²du²³la] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Let you\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏚᎸᏗ [u²duhl²di] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+For him\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+ᏐᏁᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+\end_layout
+
+\begin_layout Section
+ᏘᎪᎵᏯ
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏓᎾᏁᏒᎲᏍᎦ [a¹da²nạ²ne³sv²hṿ³sga] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is shopping.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏓᎾᏁᏒᎲᏍᎦ [gạ²da²nạ²ne³sv²hṿ³sga] 
+\begin_inset Quotes eld
+\end_inset
+
+I am shopping.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏓᎾᏁᏒᏅᎢ [u¹da²nạ²ne³sv²hnv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she shopped.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏓᎾᏁᏒᎲᏍᎪᎢ [a¹da²nạ²ne³sv²hṿ³sgo³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is often shopping.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎭᏓᎾᏁᏒᎲᎦ [hạ²da²nạ²ne¹sv²hv¹ga] 
+\begin_inset Quotes eld
+\end_inset
+
+Let you shop.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏓᎾᏁᏒᎲᏍᏗ [u²da²nạ²ne¹sv²³hṿ³sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she to shop.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
 \begin_layout Description
 ᎠᏗᎭ [a¹dị²ha] 
 \begin_inset Quotes eld
@@ -25548,7 +25849,7 @@ He/she is saying it.
 
 \begin_deeper
 \begin_layout Description
-ᎦᏗᎠ [ga²dị³a] 
+ᎦᏗᎠ [gạ²di³ɂa] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -25559,13 +25860,137 @@ I am saying it.
 
 \end_layout
 
-\end_deeper
 \begin_layout Description
-ᎤᏅᏔ [unh¹ta] 
+ᎤᏛᏅᎢ [u¹dv²hnv²³ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
-He/she knows it.
+He/she said it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏗᏍᎪᎢ [a¹di²³sgo³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is often saying it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎭᏓ [hạ²da] 
+\begin_inset Quotes eld
+\end_inset
+
+Let you say it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏘᏗ [ut²di] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she to say it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎩᎠ [a¹gị³ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is eating a solid food.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+This is only used when talking about a single piece of solid food.
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᎩᎠ [jị²gị³ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+I am eating a solid food.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎬᎢ [u¹gv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she ate a solid food.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎩᏍᎪᎢ [a¹gi³sgo³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is often eating a solid food.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎯᎦ [hị²ga] 
+\begin_inset Quotes eld
+\end_inset
+
+Let you eat a solid food.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎩᏍᏗ [u²gi¹sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she to eat a solid food.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she sees him/her/it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -25574,11 +25999,59 @@ He/she knows it.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏆᏅᏔ [a¹gwanh²ta] 
+ᏥᎪᏩᏘᎭ [ji²gowh¹tị³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-I know it.
+I see him/her/it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎪᎲᎢ [u¹go²hv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she saw him/her/it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᎪᏩᏘᏍᎪᎢ [a¹gowh²ti²³sgọ³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is often seeing him/her/it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎯᎪᏩᏔ [hi²go¹wah²ta] 
+\begin_inset Quotes eld
+\end_inset
+
+Let you see him/her/it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎪᏩᏛᏗ [u²gowh²tvh³di] 
+\begin_inset Quotes eld
+\end_inset
+
+Him to see him/her/it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -25587,7 +26060,81 @@ I know it.
 
 \end_deeper
 \begin_layout Description
-ᎦᏩᏂᎯᎠ [gạ²wo¹nị²³ha] 
+ᎦᏚᎲᏍᎦ [ga³du²hṿ³sga] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is baking it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏚᎲᏍᎦ [ji³du²hṿ³sga] 
+\begin_inset Quotes eld
+\end_inset
+
+I am baking it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏩᏚᏅᎢ [u¹wa³du²hnv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she baked it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏚᎲᏍᎪᎢ [ga³du²hṿ²sgo³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is often baking it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎯᏚᎲᎦ [hi¹du²hv¹ga] 
+\begin_inset Quotes eld
+\end_inset
+
+Let you bake it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏩᏘᏗ [u²wa¹tdi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she to bake it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎦᏬᏂᎭ [gạ²wo³nị²ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -25605,6 +26152,259 @@ He/she is speaking.
 \end_inset
 
 I am speaking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏬᏂᏒᎢ [u¹wo³ni²sv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she spoke.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎦᏬᏂᏍᎪᎢ [gạ²wo³ni²sgo³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is often speaking.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎯᏬᏂᎯ [hị²wo¹ni²³hi] 
+\begin_inset Quotes eld
+\end_inset
+
+Let you speak.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏬᏂᎯᏍᏗ [u²wo¹ni²³hị³sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Him to speak.
+\begin_inset Quotes erd
+\end_inset
+
+ ☞
+\emph on
+ In some communities the combination sound of 
+\begin_inset Quotes eld
+\end_inset
+
+-nihi-
+\begin_inset Quotes erd
+\end_inset
+
+, when in the middle of a word, is pronounced as 
+\begin_inset Quotes eld
+\end_inset
+
+-hni-
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏚᎵᎭ [u¹du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she wants him/her/it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᏥᏯᏚᎵᎭ [ji¹yạ²du²lị³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+I want him/her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏚᎸᎲᎢ [u¹du²lv²hv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she wanted him/her/it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏚᎵᏍᎪᎢ [u¹du²li²³sgọ³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she is often wanting him/her/it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏣᏚᎳ [jạ²du²³la] 
+\begin_inset Quotes eld
+\end_inset
+
+Let you want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎯᏯᏚᎳ [hi²yạ²du²³la] 
+\begin_inset Quotes eld
+\end_inset
+
+Let you want him/her.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏚᎸᏗ [u²duhl²di] 
+\begin_inset Quotes eld
+\end_inset
+
+Him to want him/her/it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏅᏔ [unh¹ta] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she knows it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph on
+ 
+\emph default
+☞
+\emph on
+ The Cherokee for 
+\begin_inset Quotes eld
+\end_inset
+
+knows it
+\begin_inset Quotes erd
+\end_inset
+
+ only refers to facts or information, not about 
+\begin_inset Quotes eld
+\end_inset
+
+knowing
+\begin_inset Quotes erd
+\end_inset
+
+ a person.
+ In Cherokee you recognize people, not know them.
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᏅᏔ [a¹gwanh²ta] 
+\begin_inset Quotes eld
+\end_inset
+
+I know it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏅᏛᎢ [unh¹tv²³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she knew it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏅᏙᎢ [unh¹to³ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+He/she often knows it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏣᏅᏖᏍᏗ [janh²te³sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Let you know it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -27583,24 +28383,11 @@ Verbs
 \end_layout
 
 \begin_layout Description
-ᎠᏓᎾᏁᏒᎲᏍᎦ [a¹da²nạ²ne³sv²hṿ³sga] 
+ᎦᏬᏂᎭ 
 \begin_inset Quotes eld
 \end_inset
 
-He/she is shopping.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎦᏓᎾᏁᏒᎲᏍᎦ [gạ²da²nạ²ne³sv²hṿ³sga] 
-\begin_inset Quotes eld
-\end_inset
-
-I am shopping.
+He is speaking.
 \begin_inset Quotes erd
 \end_inset
 
@@ -27608,11 +28395,11 @@ I am shopping.
 \end_layout
 
 \begin_layout Description
-ᎤᏓᎾᏁᏒᏅᎢ [u¹da²nạ²ne³sv²hnv²³ɂi] 
+ᏥᎭᏓ [jị³hạ²da] 
 \begin_inset Quotes eld
 \end_inset
 
-He/she shopped.
+Say it again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -27620,11 +28407,11 @@ He/she shopped.
 \end_layout
 
 \begin_layout Description
-ᎠᏓᎾᏁᏒᎲᏍᎪᎢ [a¹da²nạ²ne³sv²hṿ³sgo³ɂi] 
+ᏥᏍᏓᏓ [jị³sdạ²da] 
 \begin_inset Quotes eld
 \end_inset
 
-He/she is often shopping.
+You two, say it again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -27632,11 +28419,11 @@ He/she is often shopping.
 \end_layout
 
 \begin_layout Description
-ᎭᏓᎾᏁᏒᎲᎦ [hạ²da²nạ²ne¹sv²hv¹ga] 
+ᏥᎢᏣᏓ [jị³ɂi²jạ²da] 
 \begin_inset Quotes eld
 \end_inset
 
-Let you shop.
+You all, say it again.
 \begin_inset Quotes erd
 \end_inset
 
@@ -27644,18 +28431,41 @@ Let you shop.
 \end_layout
 
 \begin_layout Description
-ᎤᏓᎾᏁᏒᎲᏍᏗ [u²da²nạ²ne¹sv²³hṿ³sdi] 
+ᎠᎪᎵᏰᎠ 
 \begin_inset Quotes eld
 \end_inset
 
-He/she to shop.
+He is reading it.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\end_deeper
+\begin_layout Description
+ᎠᏛᏁᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+He is doing it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᎵᏍᏓᏁᎭ 
+\begin_inset Quotes eld
+\end_inset
+
+It is happening to him.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Description
 ᎠᏗᎭ [a¹dị²ha] 
 \begin_inset Quotes eld
@@ -27670,477 +28480,11 @@ He/she is saying it.
 
 \begin_deeper
 \begin_layout Description
-ᎦᏗᎠ [gạ²di³ɂa] 
+ᎦᏗᎠ [ga²dị³a] 
 \begin_inset Quotes eld
 \end_inset
 
 I am saying it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏛᏅᎢ [u¹dv²hnv²³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she said it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᏗᏍᎪᎢ [a¹di²³sgo³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is often saying it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎭᏓ [hạ²da] 
-\begin_inset Quotes eld
-\end_inset
-
-Let you say it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏘᏗ [ut²di] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she to say it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᎩᎠ [a¹gị³ɂa] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is eating a solid food.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\emph on
-This is only used when talking about a single piece of solid food.
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏥᎩᎠ [jị²gị³ɂa] 
-\begin_inset Quotes eld
-\end_inset
-
-I am eating a solid food.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᎬᎢ [u¹gv²³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she ate a solid food.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᎩᏍᎪᎢ [a¹gi³sgo³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is often eating a solid food.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎯᎦ [hị²ga] 
-\begin_inset Quotes eld
-\end_inset
-
-Let you eat a solid food.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᎩᏍᏗ [u²gi¹sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she to eat a solid food.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she sees him/her/it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏥᎪᏩᏘᎭ [ji²gowh¹tị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I see him/her/it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᎪᎲᎢ [u¹go²hv²³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she saw him/her/it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᎪᏩᏘᏍᎪᎢ [a¹gowh²ti²³sgọ³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is often seeing him/her/it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎯᎪᏩᏔ [hi²go¹wah²ta] 
-\begin_inset Quotes eld
-\end_inset
-
-Let you see him/her/it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᎪᏩᏛᏗ [u²gowh²tvh³di] 
-\begin_inset Quotes eld
-\end_inset
-
-Him to see him/her/it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎦᏚᎲᏍᎦ [ga³du²hṿ³sga] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is baking it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏥᏚᎲᏍᎦ [ji³du²hṿ³sga] 
-\begin_inset Quotes eld
-\end_inset
-
-I am baking it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏩᏚᏅᎢ [u¹wa³du²hnv²³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she baked it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎦᏚᎲᏍᎪᎢ [ga³du²hṿ²sgo³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is often baking it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎯᏚᎲᎦ [hi¹du²hv¹ga] 
-\begin_inset Quotes eld
-\end_inset
-
-Let you bake it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏩᏘᏗ [u²wa¹tdi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she to bake it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎦᏬᏂᎭ [gạ²wo³nị²ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is speaking.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏥᏬᏂᎭ [jị²wo³nị²ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I am speaking.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏬᏂᏒᎢ [u¹wo³ni²sv²³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she spoke.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎦᏬᏂᏍᎪᎢ [gạ²wo³ni²sgo³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is often speaking.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎯᏬᏂᎯ [hị²wo¹ni²³hi] 
-\begin_inset Quotes eld
-\end_inset
-
-Let you speak.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏬᏂᎯᏍᏗ [u²wo¹ni²³hị³sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Him to speak.
-\begin_inset Quotes erd
-\end_inset
-
- ☞
-\emph on
- In some communities the combination sound of 
-\begin_inset Quotes eld
-\end_inset
-
--nihi-
-\begin_inset Quotes erd
-\end_inset
-
-, when in the middle of a word, is pronounced as 
-\begin_inset Quotes eld
-\end_inset
-
--hni-
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎤᏚᎵᎭ [u¹du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she wants him/her/it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏆᏚᎵᎭ [a¹gwạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I want it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᏥᏯᏚᎵᎭ [ji¹yạ²du²lị³ha] 
-\begin_inset Quotes eld
-\end_inset
-
-I want him/her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎤᏚᎸᎲᎢ [u¹du²lv²hv²³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she wanted him/her/it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏚᎵᏍᎪᎢ [u¹du²li²³sgọ³ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-He/she is often wanting him/her/it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏣᏚᎳ [jạ²du²³la] 
-\begin_inset Quotes eld
-\end_inset
-
-Let you want it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎯᏯᏚᎳ [hi²yạ²du²³la] 
-\begin_inset Quotes eld
-\end_inset
-
-Let you want him/her.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎤᏚᎸᏗ [u²duhl²di] 
-\begin_inset Quotes eld
-\end_inset
-
-Him to want him/her/it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -28158,29 +28502,6 @@ He/she knows it.
 \end_inset
 
 
-\emph on
- 
-\emph default
-☞
-\emph on
- The Cherokee for 
-\begin_inset Quotes eld
-\end_inset
-
-knows it
-\begin_inset Quotes erd
-\end_inset
-
- only refers to facts or information, not about 
-\begin_inset Quotes eld
-\end_inset
-
-knowing
-\begin_inset Quotes erd
-\end_inset
-
- a person.
- In Cherokee you recognize people, not know them.
 \end_layout
 
 \begin_deeper
@@ -28196,36 +28517,26 @@ I know it.
 
 \end_layout
 
+\end_deeper
 \begin_layout Description
-ᎤᏅᏛᎢ [unh¹tv²³ɂi] 
+ᎦᏩᏂᎯᎠ [gạ²wo¹nị²³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-He/she knew it.
+He/she is speaking.
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
+\begin_deeper
 \begin_layout Description
-ᎤᏅᏙᎢ [unh¹to³ɂi] 
+ᏥᏬᏂᎭ [jị²wo³nị²ha] 
 \begin_inset Quotes eld
 \end_inset
 
-He/she often knows it.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏣᏅᏖᏍᏗ [janh²te³sdi] 
-\begin_inset Quotes eld
-\end_inset
-
-Let you know it.
+I am speaking.
 \begin_inset Quotes erd
 \end_inset
 
