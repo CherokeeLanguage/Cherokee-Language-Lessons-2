@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.42 $
+$Revision: 1.43 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/06 23:42:50 $ UTC
+$Date: 2016/11/08 00:41:05 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.42 $
+$Revision: 1.43 $
 \noun default
 .
 \end_layout
@@ -22085,7 +22085,7 @@ Corn.
 \begin_inset space ~
 \end_inset
 
-ᏑᎾᎴᎢ 
+ᏑᎾᎴᎢ, [sị²na³le⁴ɂi, sụ²na³le⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -22189,7 +22189,7 @@ Create index cards similar to the following:
 
 \begin_layout Standard
 \begin_inset Graphics
-	filename artwork/answer-pictures/03/jpgs/asgoli.jpg
+	filename artwork/answer-pictures/06/jpgs/adananvi.jpg
 	lyxscale 33
 	width 18col%
 	groupId 5across
@@ -22202,7 +22202,7 @@ Create index cards similar to the following:
 
 
 \begin_inset Graphics
-	filename artwork/answer-pictures/03/jpgs/jisgoli.jpg
+	filename artwork/answer-pictures/06/jpgs/dadananvi.jpg
 	lyxscale 33
 	width 18col%
 	groupId 5across
@@ -22215,7 +22215,7 @@ Create index cards similar to the following:
 
 
 \begin_inset Graphics
-	filename artwork/answer-pictures/03/jpgs/hisgoli.jpg
+	filename artwork/answer-pictures/06/jpgs/uganasda.jpg
 	lyxscale 33
 	width 18col%
 	groupId 5across
@@ -22228,7 +22228,7 @@ Create index cards similar to the following:
 
 
 \begin_inset Graphics
-	filename artwork/answer-pictures/03/jpgs/ayanuli.jpg
+	filename artwork/answer-pictures/06/jpgs/uniganasda.jpg
 	lyxscale 33
 	width 18col%
 	groupId 5across
@@ -22241,7 +22241,263 @@ Create index cards similar to the following:
 
 
 \begin_inset Graphics
-	filename artwork/answer-pictures/03/jpgs/diniyanuli.jpg
+	filename artwork/answer-pictures/06/jpgs/unegihldi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/uninegihldi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/junegihldi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/uwoduhi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/junoduhi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/juwoduhi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/ga4du.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/gadu.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/gadu-uganasda.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/gadu-uniganasda.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/gatiyoi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/hawiya.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/gugu.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/selu.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/sunalei.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/sihgwa.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/soi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/disoi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/soiyi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/06/jpgs/svhi.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename artwork/answer-pictures/01/pngs/blank-slot.png
 	lyxscale 33
 	width 18col%
 	groupId 5across
@@ -22264,7 +22520,7 @@ Label each card on the reverse as follows:
 \end_layout
 
 \begin_layout Itemize
-Ꭶ⁴Ꮪ, ᎦᏚ, ᎦᏚ ᎤᎦᎾᏍᏓ, ᎦᏚ ᎤᎦᎾᏍᏓ, ᎦᏘᏲᎢ.
+Ꭶ⁴Ꮪ, ᎦᏚ, ᎦᏚ ᎤᎦᎾᏍᏓ, ᎦᏚ ᎤᏂᎦᎾᏍᏓ, ᎦᏘᏲᎢ.
 \end_layout
 
 \begin_layout Itemize
@@ -22551,6 +22807,736 @@ Layout all the cards picture side up so they all can be seen.
 
 \begin_layout Subsection*
 Challenges
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎫᎫ.
+\end_layout
+
+\begin_layout Enumerate
+ᏎᎷ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᏆ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏒᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎫᎫ.
+\end_layout
+
+\begin_layout Enumerate
+ᏎᎷ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᏆ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏒᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎭᏫᏯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢᏱ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ̣²Ꮪ.
+\end_layout
+
+\begin_layout Enumerate
+ᎭᏫᏯ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢᏱ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ̣²Ꮪ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏘᏲᎢ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ⁴Ꮪ³.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏑᎾᎴᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏃᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏘᏲᎢ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ⁴Ꮪ³.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏑᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏃᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎫᎫ.
+\end_layout
+
+\begin_layout Enumerate
+ᏎᎷ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 5
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏏᏆ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏒᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎭᏫᏯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢᏱ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 6
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ̣²Ꮪ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏘᏲᎢ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ⁴Ꮪ³.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 7
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏏᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏑᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏃᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 8
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 9
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 10
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Chapter
