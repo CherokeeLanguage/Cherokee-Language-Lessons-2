@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.47 $
+$Revision: 1.48 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/09 02:37:24 $ UTC
+$Date: 2016/11/09 02:48:08 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.47 $
+$Revision: 1.48 $
 \noun default
 .
 \end_layout
@@ -23618,25 +23618,34 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-These instructions should be done by each person.
- One person at a time.
+Each set of challenges should be done by one person at a time.
+ Rotate people between sets.
 \end_layout
 
 \begin_layout Standard
 Layout all the cards picture side up so they all can be seen.
- Call out each challenge in the list.
+ Call out each challenge a set.
  As each challenge is called out select the correct card and place into
  a completed deck.
  When done, flip the deck over so that the words are face up.
  The deck should now be in the same order as the challenges.
- ☞ 
-\emph on
-Each person should be sure the cards are mixed up well before doing the
- exercise.
 \end_layout
 
-\begin_layout Subsection*
-Challenges
+\begin_layout Standard
+☞ 
+\emph on
+Each person should be sure the cards are shuffled well before doing the
+ next set.
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Each person should do each set at least once.
+\end_layout
+
+\begin_layout Subsubsection*
+Set 1
 \end_layout
 
 \begin_layout Standard
@@ -23760,6 +23769,435 @@ raggedcolumns
 
 \begin_layout Enumerate
 ᏓᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 2
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏃᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ⁴Ꮪ³.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᏆ.
+\end_layout
+
+\begin_layout Enumerate
+ᏎᎷ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢᏱ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎭᏫᏯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎫᎫ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏑᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ̣²Ꮪ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏒᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏘᏲᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 3
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎫᎫ.
+\end_layout
+
+\begin_layout Enumerate
+ᎭᏫᏯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ⁴Ꮪ³.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏒᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏎᎷ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢᏱ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ̣²Ꮪ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏃᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏑᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᏆ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏘᏲᎢ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection*
+Set 4
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ⁴Ꮪ³.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ̣²Ꮪ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢᏱ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎫᎫ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏎᎷ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏘᏲᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎭᏫᏯ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏑᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᏆ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏃᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏒᎯ.
 \end_layout
 
 \begin_layout Standard
