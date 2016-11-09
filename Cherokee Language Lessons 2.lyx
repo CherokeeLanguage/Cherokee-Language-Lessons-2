@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.45 $
+$Revision: 1.46 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/09 02:23:15 $ UTC
+$Date: 2016/11/09 02:27:17 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.45 $
+$Revision: 1.46 $
 \noun default
 .
 \end_layout
@@ -23595,6 +23595,171 @@ raggedcolumns
 
 \begin_layout Enumerate
 ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᏂᏔᏛᎦ 2
+\end_layout
+
+\begin_layout Standard
+These instructions should be done by each person.
+ One person at a time.
+\end_layout
+
+\begin_layout Standard
+Layout all the cards picture side up so they all can be seen.
+ Call out each challenge in the list.
+ As each challenge is called out select the correct card and place into
+ a completed deck.
+ When done, flip the deck over so that the words are face up.
+ The deck should now be in the same order as the challenges.
+ ☞ 
+\emph on
+Each person should be sure the cards are mixed up well before doing the
+ exercise.
+\end_layout
+
+\begin_layout Subsection*
+Challenges
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+ᎭᏫᏯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏑᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ̣²Ꮪ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏚ ᎤᏂᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᏆ.
+\end_layout
+
+\begin_layout Enumerate
+ᏒᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏃᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏐᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏂᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎦᎾᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+Ꭶ⁴Ꮪ³.
+\end_layout
+
+\begin_layout Enumerate
+ᏎᎷ.
+\end_layout
+
+\begin_layout Enumerate
+ᎦᏘᏲᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏓᎾᏅᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᏐᎢᏱ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏁᎩᎸᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏏᎾᎴᎢ.
+\end_layout
+
+\begin_layout Enumerate
+ᎫᎫ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏬᏚᎯ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᏓᎾᏅᎢ.
 \end_layout
 
 \begin_layout Standard
