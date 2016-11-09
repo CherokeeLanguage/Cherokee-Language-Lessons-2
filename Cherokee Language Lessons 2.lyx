@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.51 $
+$Revision: 1.52 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/09 04:26:53 $ UTC
+$Date: 2016/11/09 04:38:21 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.51 $
+$Revision: 1.52 $
 \noun default
 .
 \end_layout
@@ -25628,6 +25628,22 @@ For him\SpecialChar \ldots{}
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak{}%
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Description
 ᎤᏚᎵᎭ [u¹du²lị³ha] 
 \begin_inset Quotes eld
