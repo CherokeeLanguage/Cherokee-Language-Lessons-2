@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.57 $
+$Revision: 1.58 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/10 01:25:15 $ UTC
+$Date: 2016/11/10 04:03:22 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.57 $
+$Revision: 1.58 $
 \noun default
 .
 \end_layout
@@ -24582,9 +24582,9 @@ You will encounter this important term later in the lesson material.
 \begin_layout Standard
 ☞ 
 \emph on
-The dialect being used in this material uses the -ᎥᎩ ending and not the
- -ᎥᎢ ending as listed in the dictionary entries to indicate an experienced
- event from 
+This material uses the -ᎥᎩ ending in your exercises and not the -ᎥᎢ ending
+ as shown in the dictionary entries to indicate an experienced event from
+ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -25858,6 +25858,22 @@ end{multicols}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Remember: This material uses the -ᎥᎩ ending in your exercises and not the
+ -ᎥᎢ ending as shown in the dictionary entries to indicate an experienced
+ event from 
+\begin_inset Quotes eld
+\end_inset
+
+a while ago
+\begin_inset Quotes erd
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Section
