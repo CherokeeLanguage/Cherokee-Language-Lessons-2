@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.63 $
+$Revision: 1.64 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/11 01:10:49 $ UTC
+$Date: 2016/11/11 03:02:05 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.63 $
+$Revision: 1.64 $
 \noun default
 .
 \end_layout
@@ -28992,6 +28992,16 @@ He is shopping.
 \begin_inset Quotes erd
 \end_inset
 
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Pushing a shopping cart.
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
@@ -29079,6 +29089,16 @@ For him\SpecialChar \ldots{}
 
 He is eating a solid food.
 \begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Eating a potato.
+\end_layout
+
 \end_inset
 
 
@@ -29179,6 +29199,16 @@ He is baking it.
 \begin_inset Quotes erd
 \end_inset
 
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+An oven.
+\end_layout
+
+\end_inset
+
 
 \end_layout
 
@@ -29266,6 +29296,24 @@ For him\SpecialChar \ldots{}
 
 He is speaking.
 \begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Two talking balloons on 
+\begin_inset Quotes eld
+\end_inset
+
+Al
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
 \end_inset
 
 
@@ -29380,6 +29428,24 @@ For him\SpecialChar \ldots{}
 
 He knows it.
 \begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+A light bulb in thought balloon on 
+\begin_inset Quotes eld
+\end_inset
+
+Al
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
 \end_inset
 
 
