@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.64 $
+$Revision: 1.65 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/11 03:02:05 $ UTC
+$Date: 2016/11/11 03:07:07 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.64 $
+$Revision: 1.65 $
 \noun default
 .
 \end_layout
@@ -29435,7 +29435,7 @@ He knows it.
 status open
 
 \begin_layout Plain Layout
-A light bulb in thought balloon on 
+A light bulb in a thought balloon on 
 \begin_inset Quotes eld
 \end_inset
 
