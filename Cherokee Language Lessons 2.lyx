@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.65 $
+$Revision: 1.66 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/11 03:07:07 $ UTC
+$Date: 2016/11/11 03:07:29 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.65 $
+$Revision: 1.66 $
 \noun default
 .
 \end_layout
@@ -28984,105 +28984,6 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎠᏓᎾᏁᏒᎲᏍᎦ [a¹da²nạ²ne³sv²hṿ³sga] 
-\begin_inset Quotes eld
-\end_inset
-
-He is shopping.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Pushing a shopping cart.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎦᏓᎾᏁᏒᎲᏍᎦ [gạ²da²nạ²ne³sv²hṿ³sga] 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-I am\SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏓᎾᏁᏒᏅᎢ [u¹da²nạ²ne³sv²hnv²³ɂi] 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-He did\SpecialChar \ldots{}
-a while ago.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎠᏓᎾᏁᏒᎲᏍᎪᎢ [a¹da²nạ²ne³sv²hṿ³sgo³ɂi] 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-He often\SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎭᏓᎾᏁᏒᎲᎦ [hạ²da²nạ²ne¹sv²hv¹ga] 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-Let you\SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏓᎾᏁᏒᎲᏍᏗ [u²da²nạ²ne¹sv²³hṿ³sdi] 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-For him\SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
 ᎠᎩᎠ [a¹gị³ɂa] 
 \begin_inset Quotes eld
 \end_inset
@@ -29191,6 +29092,230 @@ This is only used when talking about a single piece of solid food.
 
 \end_deeper
 \begin_layout Description
+ᎠᏓᎾᏁᏒᎲᏍᎦ [a¹da²nạ²ne³sv²hṿ³sga] 
+\begin_inset Quotes eld
+\end_inset
+
+He is shopping.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Pushing a shopping cart.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎦᏓᎾᏁᏒᎲᏍᎦ [gạ²da²nạ²ne³sv²hṿ³sga] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+I am\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏓᎾᏁᏒᏅᎢ [u¹da²nạ²ne³sv²hnv²³ɂi] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+He did\SpecialChar \ldots{}
+a while ago.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎠᏓᎾᏁᏒᎲᏍᎪᎢ [a¹da²nạ²ne³sv²hṿ³sgo³ɂi] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+He often\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎭᏓᎾᏁᏒᎲᎦ [hạ²da²nạ²ne¹sv²hv¹ga] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Let you\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏓᎾᏁᏒᎲᏍᏗ [u²da²nạ²ne¹sv²³hṿ³sdi] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+For him\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+ᎤᏅᏔ [unh¹ta] 
+\begin_inset Quotes eld
+\end_inset
+
+He knows it.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+A light bulb in a thought balloon on 
+\begin_inset Quotes eld
+\end_inset
+
+Al
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+ᎠᏆᏅᏔ [a¹gwanh²ta] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+I am\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏅᏛᎢ [unh¹tv²³ɂi] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+He did\SpecialChar \ldots{}
+a while ago.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᎤᏅᏙᎢ [unh¹to³ɂi] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+He often\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+ᏣᏅᏖᏍᏗ [janh²te³sdi] 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Let you\SpecialChar \ldots{}
+
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+\begin_inset space ~
+\end_inset
+
+ ☞
+\emph on
+ The Cherokee for 
+\begin_inset Quotes eld
+\end_inset
+
+knows it
+\begin_inset Quotes erd
+\end_inset
+
+ only refers to facts or information, not about 
+\begin_inset Quotes eld
+\end_inset
+
+knowing
+\begin_inset Quotes erd
+\end_inset
+
+ a person.
+ In Cherokee you recognize people, not know them.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+☞ 
+\emph on
+Not all Cherokee verbs have five core forms.
+ Some have fewer forms.
+\end_layout
+
+\begin_layout Description
 ᎦᏚᎲᏍᎦ [ga³du²hṿ³sga] 
 \begin_inset Quotes eld
 \end_inset
@@ -29209,7 +29334,7 @@ An oven.
 
 \end_inset
 
-
+ 
 \end_layout
 
 \begin_deeper
@@ -29283,6 +29408,23 @@ Let you\SpecialChar \ldots{}
 For him\SpecialChar \ldots{}
 
 \begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+\begin_inset space ~
+\end_inset
+
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+A witch baking hanzal & gretel for the combined pronouns?
+\end_layout
+
 \end_inset
 
 
@@ -29421,131 +29563,6 @@ For him\SpecialChar \ldots{}
 \end_layout
 
 \end_deeper
-\begin_layout Description
-ᎤᏅᏔ [unh¹ta] 
-\begin_inset Quotes eld
-\end_inset
-
-He knows it.
-\begin_inset Quotes erd
-\end_inset
-
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-A light bulb in a thought balloon on 
-\begin_inset Quotes eld
-\end_inset
-
-Al
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏆᏅᏔ [a¹gwanh²ta] 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-I am\SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏅᏛᎢ [unh¹tv²³ɂi] 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-He did\SpecialChar \ldots{}
-a while ago.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎤᏅᏙᎢ [unh¹to³ɂi] 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-He often\SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏣᏅᏖᏍᏗ [janh²te³sdi] 
-\emph on
-
-\begin_inset Quotes eld
-\end_inset
-
-Let you\SpecialChar \ldots{}
-
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-\begin_inset space ~
-\end_inset
-
- ☞
-\emph on
- The Cherokee for 
-\begin_inset Quotes eld
-\end_inset
-
-knows it
-\begin_inset Quotes erd
-\end_inset
-
- only refers to facts or information, not about 
-\begin_inset Quotes eld
-\end_inset
-
-knowing
-\begin_inset Quotes erd
-\end_inset
-
- a person.
- In Cherokee you recognize people, not know them.
-\end_layout
-
-\end_deeper
-\begin_layout Standard
-☞ 
-\emph on
-Not all Cherokee verbs have five core forms.
- Some have fewer forms.
-\end_layout
-
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
