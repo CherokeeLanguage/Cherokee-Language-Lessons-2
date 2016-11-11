@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.67 $
+$Revision: 1.68 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/11 03:11:39 $ UTC
+$Date: 2016/11/11 03:12:04 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.67 $
+$Revision: 1.68 $
 \noun default
 .
 \end_layout
@@ -29408,23 +29408,6 @@ Let you\SpecialChar \ldots{}
 For him\SpecialChar \ldots{}
 
 \begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-\begin_inset space ~
-\end_inset
-
- 
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-A witch baking hanzal & gretel for the combined pronouns?
-\end_layout
-
 \end_inset
 
 
