@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.62 $
+$Revision: 1.63 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/11 01:04:57 $ UTC
+$Date: 2016/11/11 01:10:49 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.62 $
+$Revision: 1.63 $
 \noun default
 .
 \end_layout
@@ -25542,6 +25542,45 @@ A wolf - for him to see - for me to want - he is wanting.
 \end_layout
 
 \begin_layout Standard
+☞ 
+\emph on
+Reminder: Cherokee does not make a distinction between 
+\begin_inset Quotes eld
+\end_inset
+
+he
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+she
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Whenever you see 
+\begin_inset Quotes eld
+\end_inset
+
+he
+\begin_inset Quotes erd
+\end_inset
+
+ you can usually substitute 
+\begin_inset Quotes eld
+\end_inset
+
+she
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
 
 \lang english
 \begin_inset ERT
@@ -28949,7 +28988,7 @@ raggedcolumns
 \begin_inset Quotes eld
 \end_inset
 
-He/she is shopping.
+He is shopping.
 \begin_inset Quotes erd
 \end_inset
 
@@ -28959,10 +28998,13 @@ He/she is shopping.
 \begin_deeper
 \begin_layout Description
 ᎦᏓᎾᏁᏒᎲᏍᎦ [gạ²da²nạ²ne³sv²hṿ³sga] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-I am shopping.
+I am\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -28971,10 +29013,13 @@ I am shopping.
 
 \begin_layout Description
 ᎤᏓᎾᏁᏒᏅᎢ [u¹da²nạ²ne³sv²hnv²³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she shopped.
+He did\SpecialChar \ldots{}
+a while ago.
 \begin_inset Quotes erd
 \end_inset
 
@@ -28983,10 +29028,13 @@ He/she shopped.
 
 \begin_layout Description
 ᎠᏓᎾᏁᏒᎲᏍᎪᎢ [a¹da²nạ²ne³sv²hṿ³sgo³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she is often shopping.
+He often\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -28995,10 +29043,13 @@ He/she is often shopping.
 
 \begin_layout Description
 ᎭᏓᎾᏁᏒᎲᎦ [hạ²da²nạ²ne¹sv²hv¹ga] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-Let you shop.
+Let you\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29007,10 +29058,13 @@ Let you shop.
 
 \begin_layout Description
 ᎤᏓᎾᏁᏒᎲᏍᏗ [u²da²nạ²ne¹sv²³hṿ³sdi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she to shop.
+For him\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29023,7 +29077,7 @@ He/she to shop.
 \begin_inset Quotes eld
 \end_inset
 
-He/she is eating a solid food.
+He is eating a solid food.
 \begin_inset Quotes erd
 \end_inset
 
@@ -29033,10 +29087,13 @@ He/she is eating a solid food.
 \begin_deeper
 \begin_layout Description
 ᏥᎩᎠ [jị²gị³ɂa] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-I am eating a solid food.
+I am\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29045,10 +29102,13 @@ I am eating a solid food.
 
 \begin_layout Description
 ᎤᎬᎢ [u¹gv²³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she ate a solid food.
+He did\SpecialChar \ldots{}
+a while ago.
 \begin_inset Quotes erd
 \end_inset
 
@@ -29057,10 +29117,13 @@ He/she ate a solid food.
 
 \begin_layout Description
 ᎠᎩᏍᎪᎢ [a¹gi³sgo³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she is often eating a solid food.
+He often\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29069,10 +29132,13 @@ He/she is often eating a solid food.
 
 \begin_layout Description
 ᎯᎦ [hị²ga] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-Let you eat a solid food.
+Let you\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29081,10 +29147,13 @@ Let you eat a solid food.
 
 \begin_layout Description
 ᎤᎩᏍᏗ [u²gi¹sdi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she to eat a solid food.
+For him\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29106,7 +29175,7 @@ This is only used when talking about a single piece of solid food.
 \begin_inset Quotes eld
 \end_inset
 
-He/she is baking it.
+He is baking it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -29116,10 +29185,13 @@ He/she is baking it.
 \begin_deeper
 \begin_layout Description
 ᏥᏚᎲᏍᎦ [ji³du²hṿ³sga] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-I am baking it.
+I am\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29128,10 +29200,13 @@ I am baking it.
 
 \begin_layout Description
 ᎤᏩᏚᏅᎢ [u¹wa³du²hnv²³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she baked it.
+He did\SpecialChar \ldots{}
+a while ago.
 \begin_inset Quotes erd
 \end_inset
 
@@ -29140,10 +29215,13 @@ He/she baked it.
 
 \begin_layout Description
 ᎦᏚᎲᏍᎪᎢ [ga³du²hṿ²sgo³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she is often baking it.
+He often\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29152,10 +29230,13 @@ He/she is often baking it.
 
 \begin_layout Description
 ᎯᏚᎲᎦ [hi¹du²hv¹ga] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-Let you bake it.
+Let you\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29164,10 +29245,13 @@ Let you bake it.
 
 \begin_layout Description
 ᎤᏩᏘᏗ [u²wa¹tdi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she to bake it.
+For him\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29180,7 +29264,7 @@ He/she to bake it.
 \begin_inset Quotes eld
 \end_inset
 
-He/she is speaking.
+He is speaking.
 \begin_inset Quotes erd
 \end_inset
 
@@ -29190,10 +29274,13 @@ He/she is speaking.
 \begin_deeper
 \begin_layout Description
 ᏥᏬᏂᎭ [jị²wo³nị²ha] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-I am speaking.
+I am\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29202,10 +29289,13 @@ I am speaking.
 
 \begin_layout Description
 ᎤᏬᏂᏒᎢ [u¹wo³ni²sv²³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she spoke.
+He did\SpecialChar \ldots{}
+a while ago.
 \begin_inset Quotes erd
 \end_inset
 
@@ -29214,10 +29304,13 @@ He/she spoke.
 
 \begin_layout Description
 ᎦᏬᏂᏍᎪᎢ [gạ²wo³ni²sgo³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she is often speaking.
+He often\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29226,10 +29319,13 @@ He/she is often speaking.
 
 \begin_layout Description
 ᎯᏬᏂᎯ [hị²wo¹ni²³hi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-Let you speak.
+Let you\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29238,14 +29334,17 @@ Let you speak.
 
 \begin_layout Description
 ᎤᏬᏂᎯᏍᏗ [u²wo¹ni²³hị³sdi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-Him to speak.
+For him\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
- 
+
 \end_layout
 
 \begin_layout Description
@@ -29279,7 +29378,7 @@ Him to speak.
 \begin_inset Quotes eld
 \end_inset
 
-He/she knows it.
+He knows it.
 \begin_inset Quotes erd
 \end_inset
 
@@ -29289,10 +29388,13 @@ He/she knows it.
 \begin_deeper
 \begin_layout Description
 ᎠᏆᏅᏔ [a¹gwanh²ta] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-I know it.
+I am\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29301,10 +29403,13 @@ I know it.
 
 \begin_layout Description
 ᎤᏅᏛᎢ [unh¹tv²³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she knew it.
+He did\SpecialChar \ldots{}
+a while ago.
 \begin_inset Quotes erd
 \end_inset
 
@@ -29313,10 +29418,13 @@ He/she knew it.
 
 \begin_layout Description
 ᎤᏅᏙᎢ [unh¹to³ɂi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-He/she often knows it.
+He often\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29325,10 +29433,13 @@ He/she often knows it.
 
 \begin_layout Description
 ᏣᏅᏖᏍᏗ [janh²te³sdi] 
+\emph on
+
 \begin_inset Quotes eld
 \end_inset
 
-Let you know it.
+Let you\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -29362,6 +29473,13 @@ knowing
 \end_layout
 
 \end_deeper
+\begin_layout Standard
+☞ 
+\emph on
+Not all Cherokee verbs have five core forms.
+ Some have fewer forms.
+\end_layout
+
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
