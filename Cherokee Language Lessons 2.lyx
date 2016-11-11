@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.69 $
+$Revision: 1.70 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/11 03:13:10 $ UTC
+$Date: 2016/11/11 03:13:49 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.69 $
+$Revision: 1.70 $
 \noun default
 .
 \end_layout
@@ -29081,15 +29081,6 @@ For him\SpecialChar \ldots{}
 
 \end_layout
 
-\begin_layout Description
-\begin_inset space ~
-\end_inset
-
- ☞ 
-\emph on
-This is only used when talking about a single piece of solid food.
-\end_layout
-
 \end_deeper
 \begin_layout Description
 ᎠᏓᎾᏁᏒᎲᏍᎦ [a¹da²nạ²ne³sv²hṿ³sga] 
@@ -29281,11 +29272,9 @@ Let you\SpecialChar \ldots{}
 
 \end_layout
 
-\begin_layout Description
-\begin_inset space ~
-\end_inset
-
- ☞
+\end_deeper
+\begin_layout Standard
+☞
 \emph on
  The Cherokee for 
 \begin_inset Quotes eld
@@ -29307,12 +29296,27 @@ knowing
  In Cherokee you recognize people, not know them.
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 ☞ 
 \emph on
 Not all Cherokee verbs have five core forms.
  Some have fewer forms.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak{}%
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -29520,11 +29524,9 @@ For him\SpecialChar \ldots{}
 
 \end_layout
 
-\begin_layout Description
-\begin_inset space ~
-\end_inset
-
- ☞
+\end_deeper
+\begin_layout Standard
+☞
 \emph on
  In some communities the combination sound of 
 \begin_inset Quotes eld
@@ -29545,7 +29547,6 @@ For him\SpecialChar \ldots{}
 .
 \end_layout
 
-\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
