@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.73 $
+$Revision: 1.74 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/11 13:25:10 $ UTC
+$Date: 2016/11/13 03:43:58 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.73 $
+$Revision: 1.74 $
 \noun default
 .
 \end_layout
@@ -30852,11 +30852,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-Sadvdi 
-\emph on
-ji
-\emph default
-gowhtiha.
+ᏌᏛᏗ ᏥᎪᏩᏘᎭ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -30870,11 +30866,7 @@ I see a trap.
 
 \begin_deeper
 \begin_layout Itemize
-Disadvdi 
-\emph on
-deji
-\emph default
-gowhtiha.
+ᏗᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -30891,11 +30883,7 @@ I see traps.
 
 \end_deeper
 \begin_layout Itemize
-Sadvdi wi
-\emph on
-ji
-\emph default
-gowahta.
+ᏌᏛᏗ ᏫᏥᎪᏩᏔ.
 \end_layout
 
 \begin_deeper
@@ -30912,11 +30900,7 @@ Let me see the trap.
 
 \end_deeper
 \begin_layout Itemize
-Disadvdi wi
-\emph on
-diji
-\emph default
-gowahta.
+ᏗᏌᏛᏗ ᏫᏗᏥᏬᏩᏔ.
 \end_layout
 
 \begin_deeper
@@ -30934,11 +30918,7 @@ Let me see the traps.
 \end_deeper
 \end_deeper
 \begin_layout Itemize
-ᎦᏍᎩᎶ 
-\emph on
-hi
-\emph default
-gowhtiha.
+ᎦᏍᎩᎶ ᎯᎪᏩᏘᎭ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -30952,11 +30932,7 @@ You see a chair.
 
 \begin_deeper
 \begin_layout Itemize
-ᏗᎦᏍᎩᎶ 
-\emph on
-dehi
-\emph default
-gowhtiha.
+ᏗᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_deeper
@@ -30973,11 +30949,7 @@ You see chairs.
 
 \end_deeper
 \begin_layout Itemize
-ᎦᏍᎩᎶ 
-\emph on
-hi
-\emph default
-gowahta.
+ᎦᏍᎩᎶ ᎯᎪᏩᏔ.
 \end_layout
 
 \begin_deeper
@@ -30994,11 +30966,7 @@ See the chair.
 
 \end_deeper
 \begin_layout Itemize
-ᏗᎦᏍᎩᎶ 
-\emph on
-ti
-\emph default
-gowahta.
+ᏗᎦᏍᎩᎶ ᏘᎪᏩᏔ.
 \end_layout
 
 \begin_deeper
@@ -31016,11 +30984,7 @@ See the chairs.
 \end_deeper
 \end_deeper
 \begin_layout Itemize
-ᎦᏍᎩᎶ 
-\emph on
-u
-\emph default
-duliha.
+ᎦᏍᎩᎶ ᎤᏚᎵᎭ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -31034,11 +30998,7 @@ He/she or she wants the chair.
 
 \begin_deeper
 \begin_layout Itemize
-ᏗᎦᏍᎩᎶ 
-\emph on
-du
-\emph default
-duliha.
+ᏗᎦᏍᎩᎶ ᏚᏚᎵᎭ.
 \end_layout
 
 \begin_deeper
@@ -31055,11 +31015,7 @@ He/she or she wants the chairs.
 
 \end_deeper
 \begin_layout Itemize
-ᎦᏍᎩᎶ w
-\emph on
-u
-\emph default
-dula.
+ᎦᏍᎩᎶ ᏭᏚᎳ.
 \end_layout
 
 \begin_deeper
@@ -31076,11 +31032,7 @@ Let him want the chair.
 
 \end_deeper
 \begin_layout Itemize
-ᏗᎦᏍᎩᎶ wi
-\emph on
-ju
-\emph default
-dula.
+ᏗᎦᏍᎩᎶ ᏫᏧᏚᎳ.
 \end_layout
 
 \begin_deeper
