@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.77 $
+$Revision: 1.78 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/13 04:05:46 $ UTC
+$Date: 2016/11/13 04:26:53 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.77 $
+$Revision: 1.78 $
 \noun default
 .
 \end_layout
@@ -32033,31 +32033,15 @@ Just now.
 \end_layout
 
 \begin_layout Standard
-By both changing the ending to 
+Changing the ending to 
 \begin_inset Quotes eld
 \end_inset
 
--Ꭰ
+-Ꭰ²
 \begin_inset Quotes erd
 \end_inset
 
- (if it isn't already an 
-\begin_inset Quotes eld
-\end_inset
-
--Ꭰ
-\begin_inset Quotes erd
-\end_inset
-
-) and using an ending tone of 
-\begin_inset Quotes eld
-\end_inset
-
-²
-\begin_inset Quotes erd
-\end_inset
-
- you create the meaning of 
+ creates the meaning of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -32187,7 +32171,7 @@ Some speakers will not change the ending
 \begin_inset Quotes eld
 \end_inset
 
--Ꭰ
+-Ꭰ²
 \begin_inset Quotes erd
 \end_inset
 
@@ -32215,7 +32199,7 @@ About to.
 \end_layout
 
 \begin_layout Standard
-By adding the 
+Adding the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -32223,11 +32207,15 @@ By adding the
 \begin_inset Quotes erd
 \end_inset
 
- prefix to the just discussed Recent
-\emph on
- 
-\emph default
-past form you create the meaning of 
+ prefix and changing the ending to 
+\begin_inset Quotes eld
+\end_inset
+
+-Ꭰ²
+\begin_inset Quotes erd
+\end_inset
+
+ creates the meaning of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -32356,11 +32344,23 @@ It's possible
 \begin_inset Quotes erd
 \end_inset
 
- to the 
-\emph on
-Immeidate Future
-\emph default
- form you create the new meaning of 
+ in combination with the 
+\begin_inset Quotes eld
+\end_inset
+
+Ᏹ̣-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix and changing the ending to 
+\begin_inset Quotes eld
+\end_inset
+
+-Ꭰ²
+\begin_inset Quotes erd
+\end_inset
+
+ creates the new meaning of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -61314,10 +61314,6 @@ end{multicols}
 
 \begin_layout Chapter
 xxx ᎠᏕᎶᏆᏍᏗ
-\end_layout
-
-\begin_layout Section
-
 \end_layout
 
 \begin_layout Section
