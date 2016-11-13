@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.72 $
+$Revision: 1.73 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/11 03:20:37 $ UTC
+$Date: 2016/11/11 13:25:10 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.72 $
+$Revision: 1.73 $
 \noun default
 .
 \end_layout
@@ -15939,7 +15939,7 @@ The following new bound pronouns are used in this lesson.
 \noun off
 \color none
 \lang english
-ᏍᏗ- (²sdi-)
+ᏍᏗ- (sdi-)
 \end_layout
 
 \begin_deeper
@@ -22263,7 +22263,7 @@ The next place.
 \end_layout
 
 \begin_layout Description
-ᏒᎯ 
+ᏒᎯ [sv²hi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -30055,6 +30055,1077 @@ Remember that it is through the exercises in the lesson material that you
 \end_layout
 
 \begin_layout Subsection
+Bound Pronouns
+\end_layout
+
+\begin_layout Standard
+The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮥ-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix has a pronunciation change when used with the 
+\emph on
+Immediate
+\emph default
+ and 
+\emph on
+Deverbal
+\emph default
+ core forms.
+ The 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮥ-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix changes and becomes the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮧ̣-
+\begin_inset Quotes erd
+\end_inset
+
+ prefix.
+ The following shows some of the more common 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮥ-
+\begin_inset Quotes erd
+\end_inset
+
+ and the 
+\begin_inset Quotes eld
+\end_inset
+
+Ꮧ̣-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciations together for easy reference and comparison:
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+I\SpecialChar \ldots{}
+them (inanimate).
+ (
+\begin_inset Quotes eld
+\end_inset
+
+Ꮥ-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᏕᏥ-, ᏕᎦ͓- (de²ji-, g-)
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I\SpecialChar \ldots{}
+them (inanimate).
+ (
+\begin_inset Quotes eld
+\end_inset
+
+Ꮧ̣-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꮧ̣Ꮵ-, ᏗᎦ͓- (dị²ji-, dị²g-)
+\end_layout
+
+\begin_layout Itemize
+Set B: ᏗᎩ̣-, ᏗᏆ͓- (di²gị-, di²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He\SpecialChar \ldots{}
+them.
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang american
+(
+\begin_inset Quotes eld
+\end_inset
+
+Ꮥ-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮣ̣-, ᏕᎦ̣- (dạ-, de²gạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮪ-, Ꮪ̣Ꮹ͓- (du-, dụ²w-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He\SpecialChar \ldots{}
+them.
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang american
+(
+\begin_inset Quotes eld
+\end_inset
+
+Ꮧ̣-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮧ-, Ꮧ̣Ꭶ̣- (di-, dị²gạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮷ-, ᏧᏩ͓- (ju-, ju²w-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+You two\SpecialChar \ldots{}
+it./
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+He\SpecialChar \ldots{}
+you two.
+ 
+\lang american
+(
+\begin_inset Quotes eld
+\end_inset
+
+Ꮥ-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᏕᏍᏗ- (de²sdi-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+You two\SpecialChar \ldots{}
+it./
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+He\SpecialChar \ldots{}
+you two.
+ 
+\lang american
+(
+\begin_inset Quotes eld
+\end_inset
+
+Ꮧ̣-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᏗᏍᏗ- (dị²sdi-)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+You\SpecialChar \ldots{}
+them (inanimate).
+ (
+\begin_inset Quotes eld
+\end_inset
+
+Ꮥ-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᏕᎯ̣- (de²hị-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: ᏕᏣ̣- (de²jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You\SpecialChar \ldots{}
+them (inanimate).
+ (
+\begin_inset Quotes eld
+\end_inset
+
+Ꮧ̣-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꮨ̣- (²tị-) ☞ 
+\emph on
+Ꮧ-̣ + a following Ꭿ̣- combine and become Ꮨ̣-.
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮧ̣Ꮳ̣- (dị²jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They\SpecialChar \ldots{}
+them.
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang american
+(
+\begin_inset Quotes eld
+\end_inset
+
+Ꮥ-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮣ̣Ꮒ- (dạ²ni-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ ᏚᏂ- (du¹ni-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They\SpecialChar \ldots{}
+them.
+ 
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+\lang american
+(
+\begin_inset Quotes eld
+\end_inset
+
+Ꮧ̣-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ ᏗᏂ- (di²ni-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ ᏧᏂ- (ju¹ni-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+You all\SpecialChar \ldots{}
+it./
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+He\SpecialChar \ldots{}
+you all.
+ 
+\lang american
+(
+\begin_inset Quotes eld
+\end_inset
+
+Ꮥ-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᏕᏥ- (de³ji-) ☞ 
+\family default
+\series default
+\shape default
+\size default
+\emph on
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+Ꮥ- + a following ᎢᏥ- combine and become Ꮥ³Ꮵ-.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+You all\SpecialChar \ldots{}
+it./
+\family default
+\series default
+\shape default
+\size default
+\emph default
+\bar default
+\strikeout default
+\uuline default
+\uwave default
+\noun default
+\color inherit
+He\SpecialChar \ldots{}
+you all.
+ 
+\lang american
+(
+\begin_inset Quotes eld
+\end_inset
+
+Ꮧ̣-
+\begin_inset Quotes erd
+\end_inset
+
+ pronunciation.)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᏗᏥ- (di²ji-)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Examples:
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Sadvdi 
+\emph on
+ji
+\emph default
+gowhtiha.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I see a trap.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Disadvdi 
+\emph on
+deji
+\emph default
+gowhtiha.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+I see traps.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Sadvdi wi
+\emph on
+ji
+\emph default
+gowahta.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Let me see the trap.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Disadvdi wi
+\emph on
+diji
+\emph default
+gowahta.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Let me see the traps.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎦᏍᎩᎶ 
+\emph on
+hi
+\emph default
+gowhtiha.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You see a chair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏗᎦᏍᎩᎶ 
+\emph on
+dehi
+\emph default
+gowhtiha.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+You see chairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎦᏍᎩᎶ 
+\emph on
+hi
+\emph default
+gowahta.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+See the chair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏗᎦᏍᎩᎶ 
+\emph on
+ti
+\emph default
+gowahta.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+See the chairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ᎦᏍᎩᎶ 
+\emph on
+u
+\emph default
+duliha.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+He/she or she wants the chair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏗᎦᏍᎩᎶ 
+\emph on
+du
+\emph default
+duliha.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+He/she or she wants the chairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᎦᏍᎩᎶ w
+\emph on
+u
+\emph default
+dula.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Let him want the chair.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+ᏗᎦᏍᎩᎶ wi
+\emph on
+ju
+\emph default
+dula.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset Quotes eld
+\end_inset
+
+Let him want the chairs.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+ᎦᏬᏂᏍᎬᎢ ᎠᎦᏔᎲᎢ
+\end_layout
+
+\begin_layout Standard
+☞ 
+\emph on
+Remember that it is through the exercises in the lesson material that you
+ learn how to understand and speak Cherokee, not by memorizing rules and
+ word parts.
+\end_layout
+
+\begin_layout Subsection
 Recent Past, Immediate Future, and Potential Future
 \end_layout
 
@@ -30575,835 +31646,6 @@ It's possible that you are about to speak it.
 \end_layout
 
 \end_deeper
-\begin_layout Subsection
-Bound Pronouns
-\end_layout
-
-\begin_layout Standard
-The 
-\begin_inset Quotes eld
-\end_inset
-
-de-
-\begin_inset Quotes erd
-\end_inset
-
- combined bound pronouns have a pronunciation change when used with the
- immediate 
-\begin_inset Quotes eld
-\end_inset
-
-Let
-\begin_inset Quotes erd
-\end_inset
-
- and deverbal 
-\begin_inset Quotes eld
-\end_inset
-
-To
-\begin_inset Quotes erd
-\end_inset
-
- core forms that follows the 
-\begin_inset Quotes eld
-\end_inset
-
-dị-
-\begin_inset Quotes erd
-\end_inset
-
- rules for plural descriptive words.
- The following table shows the more common 
-\begin_inset Quotes eld
-\end_inset
-
-de-
-\begin_inset Quotes erd
-\end_inset
-
- and the 
-\begin_inset Quotes eld
-\end_inset
-
-dị-
-\begin_inset Quotes erd
-\end_inset
-
- pronunciations together for easy reference and comparison.
-\end_layout
-
-\begin_layout Standard
-\noindent
-\align center
-\begin_inset Tabular
-<lyxtabular version="3" rows="15" columns="3">
-<features rotate="0" booktabs="true" tabularvalignment="middle">
-<column alignment="left" valignment="top" width="0pt">
-<column alignment="left" valignment="top">
-<column alignment="left" valignment="top">
-<row>
-<cell alignment="left" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Pairing
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-Set A
-\begin_inset Quotes erd
-\end_inset
-
- Prefix
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset Quotes eld
-\end_inset
-
-Set B
-\begin_inset Quotes erd
-\end_inset
-
- Prefix
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-I \SpecialChar \ldots{}
- them (in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dejị-, deg-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dạgị-, dạgw-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-I \SpecialChar \ldots{}
- them (in.)(imp.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dịjị-, dịg-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dịgị-, dịgw-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-I \SpecialChar \ldots{}
- them (an.)(rep.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-degajiy-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-degajiy-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-I \SpecialChar \ldots{}
- them (an.)(rep.)(imp.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-digajiy-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-digajiy-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-You (one) \SpecialChar \ldots{}
- them (in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dehị-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dejạ-, dej-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-You (one) \SpecialChar \ldots{}
- them (in.)(imp.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-tị-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dịjạ-, dịj-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-You (one) \SpecialChar \ldots{}
- them (an.)(rep.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-degahiy-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-degahiy-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-You (one) \SpecialChar \ldots{}
- them (an.)(rep.)(imp.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dịgahiy-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dịgahiy-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-He/She/It \SpecialChar \ldots{}
- them (an.+in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dạ-, deg-, degạ-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-du-, dụw-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-He/She/It \SpecialChar \ldots{}
- them (an.+in.)(imp.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dị-, dịg-, dịgạ-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-ju-, jụw-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-They \SpecialChar \ldots{}
- them (an.+in.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dạni-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-duni-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-They \SpecialChar \ldots{}
- them (an.+in.)(imp.)
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-dini-
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" bottomline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-juni-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell multicolumn="1" alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\emph on
-Abbreviations: (in.): inanimate, (an.): animate
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-<row>
-<cell multicolumn="1" alignment="left" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\emph on
-Abbreviations: (
-\emph default
-imp
-\emph on
-.): imperative, (rep.): more than once.
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multicolumn="2" alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
-</lyxtabular>
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-
-\lang english
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Example usage:
-\end_layout
-
-\begin_layout Itemize
-Sadvdi 
-\emph on
-ji
-\emph default
-gowhtiha.
- 
-\begin_inset Quotes eld
-\end_inset
-
-I see a trap.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-Disadvdi 
-\emph on
-deji
-\emph default
-gowhtiha.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-I see traps.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Sadvdi wi
-\emph on
-ji
-\emph default
-gowahta.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Let me see the trap.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-Disadvdi wi
-\emph on
-diji
-\emph default
-gowahta.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Let me see the traps.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-ᎦᏍᎩᎶ 
-\emph on
-hi
-\emph default
-gowhtiha.
- 
-\begin_inset Quotes eld
-\end_inset
-
-You see a chair.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏗᎦᏍᎩᎶ 
-\emph on
-dehi
-\emph default
-gowhtiha.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-You see chairs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎦᏍᎩᎶ 
-\emph on
-hi
-\emph default
-gowahta.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-See the chair.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᏗᎦᏍᎩᎶ 
-\emph on
-ti
-\emph default
-gowahta.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-See the chairs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Itemize
-ᎦᏍᎩᎶ 
-\emph on
-u
-\emph default
-duliha.
- 
-\begin_inset Quotes eld
-\end_inset
-
-He/she or she wants the chair.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-ᏗᎦᏍᎩᎶ 
-\emph on
-du
-\emph default
-duliha.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-He/she or she wants the chairs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᎦᏍᎩᎶ w
-\emph on
-u
-\emph default
-dula.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Let him want the chair.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Itemize
-ᏗᎦᏍᎩᎶ wi
-\emph on
-ju
-\emph default
-dula.
-\end_layout
-
-\begin_deeper
-\begin_layout Itemize
-\begin_inset Quotes eld
-\end_inset
-
-Let him want the chairs.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\end_deeper
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
 \begin_layout Subsection*
 Position or motion away
 \end_layout
