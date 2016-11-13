@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.76 $
+$Revision: 1.77 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/13 04:02:51 $ UTC
+$Date: 2016/11/13 04:05:46 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.76 $
+$Revision: 1.77 $
 \noun default
 .
 \end_layout
@@ -31540,7 +31540,7 @@ Challenges
 \end_layout
 
 \begin_layout Chapter
-xxx ᎠᏕᎶᏆᏍᏗ
+ᏌᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -31556,12 +31556,11 @@ Remember that it is through the exercises in the lesson material that you
 \end_layout
 
 \begin_layout Subsection*
--ᎥᎢ vs -ᎡᎢ revisited
+-ᎥᎩ vs -ᎡᎢ revisited
 \end_layout
 
 \begin_layout Standard
-When translating from English to Cherokee assume that you should use the
- 
+When speaking Cherokee assume that you should use the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -31589,7 +31588,7 @@ first hand knowledge
 \begin_inset Quotes eld
 \end_inset
 
--ᎥᎢ
+-ᎥᎩ
 \begin_inset Quotes erd
 \end_inset
 
@@ -31597,7 +31596,7 @@ first hand knowledge
 \begin_inset Quotes eld
 \end_inset
 
--ᎥᎢ
+-ᎥᎩ
 \begin_inset Quotes erd
 \end_inset
 
@@ -31610,7 +31609,7 @@ Only when talking about something you directly experienced should you use
 \begin_inset Quotes eld
 \end_inset
 
--ᎥᎢ
+-ᎥᎩ
 \begin_inset Quotes erd
 \end_inset
 
@@ -31666,14 +31665,14 @@ When
 
  is used this way, you are expressing a lack of sure memory about something
  you may or may not have done.
-
-\emph default
- Examples:
 \end_layout
 
-\begin_deeper
+\begin_layout Standard
+Examples:
+\end_layout
+
 \begin_layout Itemize
-Agwoduhi.
+ᎠᏉᏚᎯ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -31687,7 +31686,7 @@ I am pretty.
 
 \begin_deeper
 \begin_layout Itemize
-Agwoduhi ᎨᏒᎢ.
+ᎠᏉᏚᎯ ᎨᏒᎩ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -31702,15 +31701,16 @@ The
 \begin_inset Quotes eld
 \end_inset
 
--ᎥᎢ
+-ᎥᎩ
 \begin_inset Quotes erd
 \end_inset
 
  ending indicates I know that I was pretty, perhaps by looking in a mirror.
 \end_layout
 
+\begin_deeper
 \begin_layout Itemize
-Agwoduhi ᎨᏎᎢ.
+ᎠᏉᏚᎯ ᎨᏎᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -31735,7 +31735,7 @@ The
 
 \end_deeper
 \begin_layout Itemize
-Entoni gadu uwaduhnei.
+ᎡᏂᏙᏂ ᎦᏚ ᎤᏩᏚᏁᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -31759,7 +31759,7 @@ Only the
 
 \begin_deeper
 \begin_layout Itemize
-Jadahnvi Entoni gadu uwaduhnei.
+ᏣᏓᏅᎩ ᎡᏂᏙᏂ ᎦᏚ ᎤᏩᏚᏁᎢ.
  
 \begin_inset Quotes eld
 \end_inset
@@ -31774,7 +31774,7 @@ Both the
 \begin_inset Quotes eld
 \end_inset
 
--ᎥᎢ
+-ᎥᎩ
 \begin_inset Quotes erd
 \end_inset
 
@@ -31790,8 +31790,7 @@ Both the
 \end_layout
 
 \begin_layout Itemize
-ᎠᎩᎪᎲᎢ Entoni gadu uwaduhnvi.
- 
+ᎠᎩᎪᎲᎩ ᎡᏂᏙᏂ ᎦᏚ ᎤᏩᏚᏅᎩ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -31805,7 +31804,7 @@ Only the
 \begin_inset Quotes eld
 \end_inset
 
--ᎥᎢ
+-ᎥᎩ
 \begin_inset Quotes erd
 \end_inset
 
@@ -31842,34 +31841,6 @@ When talking about people other than yourself doing things, use
  unless you are talking about something you witnessed firsthand.
 \end_layout
 
-\begin_layout Standard
-Also, you should no longer indicate 
-\begin_inset Quotes eld
-\end_inset
-
-first hand
-\begin_inset Quotes erd
-\end_inset
-
- vs 
-\begin_inset Quotes eld
-\end_inset
-
-second hand
-\begin_inset Quotes erd
-\end_inset
-
- knowledge by the use of 
-\begin_inset Quotes eld
-\end_inset
-
-reportedly
-\begin_inset Quotes erd
-\end_inset
-
- and other similar phrases when translating from Cherokee to English.
-\end_layout
-
 \begin_layout Subsection*
 Position or motion away
 \end_layout
@@ -31879,13 +31850,12 @@ The special prefix
 \begin_inset Quotes eld
 \end_inset
 
-wị-
+Ꮻ̣-
 \begin_inset Quotes erd
 \end_inset
 
-, in addition to its use previously described, is used to indicate a position
- pointed away from the speaker, motion away from the speaker, or a distant
- location out of sight of the speaker.
+ is used to indicate a position pointed away from the speaker, motion away
+ from the speaker, or a distant location out of sight of the speaker.
 \end_layout
 
 \begin_layout Standard
@@ -32067,7 +32037,7 @@ By both changing the ending to
 \begin_inset Quotes eld
 \end_inset
 
--a
+-Ꭰ
 \begin_inset Quotes erd
 \end_inset
 
@@ -32075,7 +32045,7 @@ By both changing the ending to
 \begin_inset Quotes eld
 \end_inset
 
--a
+-Ꭰ
 \begin_inset Quotes erd
 \end_inset
 
@@ -34957,23 +34927,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Section
-
-\lang english
-ᎤᏬᎵᏗ ᎪᏪᎵ
-\end_layout
-
-\begin_layout Subsection
-Translate into English
-\end_layout
-
-\begin_layout Standard
-
-\emph on
-Remember to write out the Cherokee when translating into English.
-\end_layout
-
-\begin_layout Standard
-You will find the dialogues in a ready to translate format after the comic.
+ᏘᎪᎵᏯ
 \end_layout
 
 \begin_layout Standard
@@ -35294,6 +35248,26 @@ end{multicols}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Section
+
+\lang english
+ᎤᏬᎵᏗ ᎪᏪᎵ
+\end_layout
+
+\begin_layout Subsection
+Translate into English
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Remember to write out the Cherokee when translating into English.
+\end_layout
+
+\begin_layout Standard
+You will find the dialogues in a ready to translate format after the comic.
 \end_layout
 
 \begin_layout Standard
