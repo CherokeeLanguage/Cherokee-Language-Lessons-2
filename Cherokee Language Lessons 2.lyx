@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.79 $
+$Revision: 1.80 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/13 04:47:16 $ UTC
+$Date: 2016/11/13 04:52:12 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.79 $
+$Revision: 1.80 $
 \noun default
 .
 \end_layout
@@ -30080,7 +30080,7 @@ Deverbal
 \begin_inset Quotes erd
 \end_inset
 
- prefix changes and becomes the 
+ prefix changes form and becomes the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -30346,7 +30346,7 @@ Set B:
 \color none
 \lang english
 You two\SpecialChar \ldots{}
-it./
+them
 \family default
 \series default
 \shape default
@@ -30358,8 +30358,7 @@ it./
 \uwave default
 \noun default
 \color inherit
-He\SpecialChar \ldots{}
-you two.
+.
  
 \lang american
 (
@@ -30407,7 +30406,7 @@ you two.
 \color none
 \lang english
 You two\SpecialChar \ldots{}
-it./
+them
 \family default
 \series default
 \shape default
@@ -30419,8 +30418,7 @@ it./
 \uwave default
 \noun default
 \color inherit
-He\SpecialChar \ldots{}
-you two.
+.
  
 \lang american
 (
@@ -30688,7 +30686,7 @@ Set B:
 \color none
 \lang english
 You all\SpecialChar \ldots{}
-it./
+
 \family default
 \series default
 \shape default
@@ -30700,8 +30698,7 @@ it./
 \uwave default
 \noun default
 \color inherit
-He\SpecialChar \ldots{}
-you all.
+them.
  
 \lang american
 (
@@ -30761,7 +30758,7 @@ you all.
 \color none
 \lang english
 You all\SpecialChar \ldots{}
-it./
+
 \family default
 \series default
 \shape default
@@ -30773,8 +30770,7 @@ it./
 \uwave default
 \noun default
 \color inherit
-He\SpecialChar \ldots{}
-you all.
+them.
  
 \lang american
 (
@@ -30985,7 +30981,7 @@ See the chairs.
 \begin_inset Quotes eld
 \end_inset
 
-He/she or she wants the chair.
+He wants the chair.
 \begin_inset Quotes erd
 \end_inset
 
@@ -31002,7 +30998,7 @@ He/she or she wants the chair.
 \begin_inset Quotes eld
 \end_inset
 
-He/she or she wants the chairs.
+He wants the chairs.
 \begin_inset Quotes erd
 \end_inset
 
