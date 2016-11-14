@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.82 $
+$Revision: 1.83 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/13 15:53:36 $ UTC
+$Date: 2016/11/13 15:55:48 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.82 $
+$Revision: 1.83 $
 \noun default
 .
 \end_layout
@@ -8939,7 +8939,7 @@ you.
 \lang english
 ☞ 
 \emph on
-Ꭸ- and Ꭰ- combine their sounds together to become Ꭼ-.
+Ꭸ- and Ꭰ- combine together and become Ꭼ-.
 \end_layout
 
 \begin_layout Standard
@@ -9080,8 +9080,8 @@ The following table shows the bound pronouns with the meanings of
 \begin_inset Quotes eld
 \end_inset
 
-He \SpecialChar \ldots{}
- me or you
+He\SpecialChar \ldots{}
+
 \begin_inset Quotes erd
 \end_inset
 
@@ -33102,7 +33102,7 @@ just now
 \begin_inset Quotes eld
 \end_inset
 
-it is about to
+about to
 \begin_inset Quotes erd
 \end_inset
 
@@ -33365,6 +33365,20 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
+ᏩᎪᏩᏔ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Let him see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
 ᎠᎪᏩᏔ².
  
 \begin_inset Quotes eld
@@ -33377,7 +33391,6 @@ He recently saw it.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 ᏯᎪᏩᏔ².
  
@@ -33393,6 +33406,20 @@ Maybe he is about to see it.
 
 \end_deeper
 \begin_layout Itemize
+ᎯᏬᏂᎯ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Let you speak.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
 ᎯᏬᏂᎭ².
  
 \begin_inset Quotes eld
@@ -33405,7 +33432,6 @@ You recently spoke.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 ᏱᏬᏂᎭ².
  
@@ -33489,6 +33515,33 @@ Examples:
 \end_layout
 
 \begin_layout Itemize
+ᏫᏥᎪᏩᏔ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Let me see it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏥᎪᏩᏔ².
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I just saw it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
 ᏱᏥᎪᏩᏔ².
  
 \begin_inset Quotes eld
@@ -33501,25 +33554,53 @@ I'm about to see it.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 ᎡᎵᏊ ᏱᏥᎪᏩᏔ².
  
 \begin_inset Quotes eld
 \end_inset
 
-I might see it.
- I may see it.
- I could see it.
+I may see it.
 \begin_inset Quotes erd
 \end_inset
 
- 
+
+\begin_inset Newline newline
+\end_inset
+
+
 \emph on
 It's possible that I am about to see it.
 \end_layout
 
 \end_deeper
+\begin_layout Itemize
+ᏣᏚᎳ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Let you want it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᏣᏚᎳ².
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You just now wanted it.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Itemize
 ᏱᏣᏚᎳ².
  
@@ -33533,25 +33614,53 @@ You are about to want it.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 ᎡᎵᏊ ᏱᏣᏚᎳ².
  
 \begin_inset Quotes eld
 \end_inset
 
-You might want it.
- You may want it.
- You could want it.
+You could want it.
 \begin_inset Quotes erd
 \end_inset
 
- 
+
+\begin_inset Newline newline
+\end_inset
+
+
 \emph on
 It's possible that you are about to want it.
 \end_layout
 
 \end_deeper
+\begin_layout Itemize
+ᎯᏬᏂᎯ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+Let you speak.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+ᎯᏬᏂᎭ².
+ 
+\begin_inset Quotes eld
+\end_inset
+
+You just now spoke.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Itemize
 ᏱᏬᏂᎭ².
  
@@ -33565,7 +33674,6 @@ You are about to speak.
 
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 ᎡᎵᏊ ᏱᏬᏂᎭ².
  
@@ -33573,12 +33681,14 @@ You are about to speak.
 \end_inset
 
 You might speak.
- You may speak.
- You could speak.
 \begin_inset Quotes erd
 \end_inset
 
- 
+
+\begin_inset Newline newline
+\end_inset
+
+
 \emph on
 It's possible that you are about to speak it.
 \end_layout
