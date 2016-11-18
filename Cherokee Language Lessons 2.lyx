@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.88 $
+$Revision: 1.89 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/14 01:42:55 $ UTC
+$Date: 2016/11/15 01:04:39 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.88 $
+$Revision: 1.89 $
 \noun default
 .
 \end_layout
@@ -13426,6 +13426,10 @@ Turn around.
 \end_inset
 
 Stop.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -13520,19 +13524,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᎮᏍᏗ [he¹sdi] 
-\begin_inset Quotes eld
+ᎮᏍᏗ,
+\begin_inset space ~
 \end_inset
 
-Don't
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᏞᏍᏗ [hle¹sdi] 
+ᏞᏍᏗ [he¹sdi, hle¹sdi] 
 \begin_inset Quotes eld
 \end_inset
 
