@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.90 $
+$Revision: 1.91 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/18 03:05:07 $ UTC
+$Date: 2016/11/18 03:16:26 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.90 $
+$Revision: 1.91 $
 \noun default
 .
 \end_layout
@@ -16438,15 +16438,15 @@ Don't touch it you two.
 \end_layout
 
 \begin_layout Description
-ᏞᏍᏗ
+Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏥᏙᏍᏗᏙᎨᏍᏗ [hle¹sdi ji²do²sdi²do³²ge³sdi] 
+ᏱᏙᏍᏗᏙᎨᏍᏗ [hla yị²do²sdi²do³²ge³sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Don't stand you two.
+No, you two will not be standing.
 \begin_inset Quotes erd
 \end_inset
 
@@ -16454,15 +16454,15 @@ Don't stand you two.
 \end_layout
 
 \begin_layout Description
-ᏞᏍᏗ
+Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏥᏙᏍᏙᏞᏍᏗ [hle¹sdi ji²do²sdo²³hle³²sdi] 
+ᏱᏙᏍᏙᏞᏍᏗ [hla yị²do²sdo²³hle³²sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Don't sit you two.
+No, you two will not be sitting.
 \begin_inset Quotes erd
 \end_inset
 
@@ -16743,11 +16743,11 @@ Don't touch it you all.
 \end_layout
 
 \begin_layout Description
-ᏞᏍᏗ
+Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏥᏙᏥᏙᎨᏍᏗ [hle¹sdi ji²do¹ji²do³²ge³sdi] 
+ᏱᏙᏥᏙᎨᏍᏗ [hla yị²do¹ji²do³²ge³sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -16759,11 +16759,11 @@ Don't stand you all.
 \end_layout
 
 \begin_layout Description
-ᏞᏍᏗ
+Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏥᏙᏦᏞᏍᏗ [hle¹sdi ji²do¹jo²³hle³²sdi] 
+ᏱᏙᏦᏞᏍᏗ [hla yị²do¹jo²³hle³²sdi] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -17575,11 +17575,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᏒᏂᎦ.
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ.
+ᏞᏍᏗ ᏥᏍᏓᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
@@ -17587,23 +17583,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ.
+ᏞᏍᏗ ᏥᏍᏓᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
+ᎢᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-Ꮭ ᏱᏍᏓᎢᏎᏍᏗ.
+ᎢᏣᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
+ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ.
+ᎢᏣᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Standard
@@ -17650,19 +17650,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-Ꮭ ᏱᏍᏓᎢᏎᏍᏗ.
+ᎡᏍᏓᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ.
+ᎢᏣᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎦᏔᎲᎾ.
+ᎡᏍᏓᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎴᏫᏍᏓ.
+ᎢᏣᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
@@ -17670,15 +17674,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ.
+ᏍᏓᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎦᏔᎲᎾ.
-\end_layout
-
-\begin_layout Enumerate
-ᏍᏓᎴᏫᏍᏓ.
+Ꮭ ᏱᏣᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -17725,27 +17725,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
+ᎢᏣᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏍᏙᏞᏍᏗ.
+ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-Ꮭ ᏱᏍᏓᎢᏎᏍᏗ.
+ᏍᏓᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᏗᏍᏙᏞᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᏗᏍᏗᏙᎨᏍᏗ.
+Ꮭ ᏱᏣᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
@@ -17753,7 +17745,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏍᏗᏙᎨᏍᏗ.
+ᎢᏣᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Standard
@@ -17800,15 +17800,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎦᏔᎲᎾ.
+ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎴᏫᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᎡᏍᏓᏒᏂᎦ.
+ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
@@ -17816,19 +17812,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
 Ꮭ ᏱᏣᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎦᏔᎲᎾ.
+Ꮭ ᏱᏙᏥᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-Ꮭ ᏱᏣᎢᏎᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᏗᏍᏙᏞᏍᏗ.
+Ꮭ ᏱᏍᏓᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -17875,35 +17875,35 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
+Ꮭ ᏱᏙᏥᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎢᏎᏍᏗ.
+Ꮭ ᏱᏍᏓᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏍᏗᏙᎨᏍᏗ.
+ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
-\end_layout
-
-\begin_layout Enumerate
-ᎡᏍᏓᏒᏂᎦ.
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᎢᏣᎢᏎᏍᏗ.
+ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
 ᏍᏓᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
 \end_layout
 
 \begin_layout Standard
@@ -17950,15 +17950,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-Ꮭ ᏱᏣᎢᏎᏍᏗ.
+ᏗᏥᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ.
+Ꮭ ᏱᏙᏥᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᏒᏂᎦ.
+Ꮭ ᏱᏍᏓᎢᏎᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
@@ -17966,19 +17970,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎢᏎᏍᏗ.
+ᎢᏣᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
+ᏍᏓᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᏒᏂᎦ.
-\end_layout
-
-\begin_layout Enumerate
-ᏗᏥᏙᎨᏍᏗ.
+ᎢᏣᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Standard
@@ -18025,19 +18025,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎢᏎᏍᏗ.
+ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎢᏎᏍᏗ.
+ᏍᏓᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-ᎡᏣᏒᏂᎦ.
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ.
+ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
@@ -18045,15 +18041,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
-\end_layout
-
-\begin_layout Enumerate
-ᎢᏣᎴᏫᏍᏓ.
+ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
 ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏥᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎡᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Standard
@@ -18100,35 +18100,35 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᏒᏂᎦ.
+ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏥᏙᎨᏍᏗ.
+ᎢᏣᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎴᏫᏍᏓ.
+ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎢᏎᏍᏗ.
+ᏍᏓᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᏒᏂᎦ.
+ᏗᏦᏞᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ.
+ᏗᏍᏙᏞᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᎡᏣᏒᏂᎦ.
+ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᏒᏂᎦ.
+ᏗᏦᏞᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -18175,23 +18175,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ.
+ᏗᏍᏙᏞᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
+ᎡᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
+ᏍᏓᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏦᏞᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᎢᏣᎴᏫᏍᏓ.
+Ꮭ ᏱᏙᏍᏙᏞᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
@@ -18199,11 +18195,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
+ᏍᏓᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
+Ꮭ ᏱᏙᏍᏙᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᏙᏍᏗᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -18250,19 +18250,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᏒᏂᎦ.
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
+Ꮭ ᏱᏙᏦᏞᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
@@ -18270,15 +18258,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
+ᏗᏍᏙᏞᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
+Ꮭ ᏱᏙᏍᏗᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
+Ꮭ ᏱᏙᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏍᏗᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᏙᏍᏙᏞᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -18325,15 +18325,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
+ᏗᏍᏗᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏦᏞᏍᏗ.
+Ꮭ ᏱᏙᏍᏗᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
+Ꮭ ᏱᏙᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏍᏗᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -19792,35 +19796,35 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏦᏞᏍᏗ.
+ᎤᏍᏉᏟᎢ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
+ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-ᎭᎦᏔᎲᎾ.
+ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-ᏦᏞᏍᏗ.
+ᏞᏍᏗ ᏥᎭᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᏒᏂᎦ.
+ᎢᏣᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-ᏧᏯᏖᎾ.
+Ꮭ ᏱᏣᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎪᎵ.
+ᏍᏓᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Enumerate
-ᎯᏍᎪᎵ.
+ᏣᏍᏉᏟᎢ.
 \end_layout
 
 \begin_layout Standard
@@ -19867,7 +19871,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎢᏎᏍᏗ.
+ᏗᏥᏙᎨᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏲᏓᏝᎲᎢ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᏙᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏯᏄᎵ.
 \end_layout
 
 \begin_layout Enumerate
@@ -19875,27 +19891,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏗᎦᎶᎯᏍᏗᎢ.
-\end_layout
-
-\begin_layout Enumerate
-ᏗᏍᏙᏞᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
 ᎠᎩᏍᏉᏟᎢ.
 \end_layout
 
 \begin_layout Enumerate
-ᎮᏍᏗ.
+Ꮭ ᏱᏙᏥᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
+ᎯᏍᎪᎵ.
 \end_layout
 
 \begin_layout Standard
@@ -19942,35 +19946,35 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
+ᎤᏍᎧ.
 \end_layout
 
 \begin_layout Enumerate
-ᏓᏲᏓᏝᎲᎢ.
+ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-Ꮭ ᏯᎢᏎᏍᏗ.
+ᏍᏓᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᎯᏯᏒᏂᎦ.
+ᏗᏍᏙᏞᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏯᏄᎵ.
+ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏯᏖᎾ.
+ᏥᏍᎪᎵ.
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏍᎦᏃᎵ.
+ᎤᏯᏖᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
+ᎭᎴᏫᏍᏓ.
 \end_layout
 
 \begin_layout Standard
@@ -20017,27 +20021,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎴᏫᏍᏓ.
+ᎤᏂᏍᎦᏃᎵ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎭᎦᏔᎲᎾ.
+ᏧᏍᎧ.
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏯᏖᎾ.
+ᏯᏖᎾ ᏗᎪᏪᎶᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏗᎪᏪᎶᏗ.
+ᎡᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏲᏓᏝᎲᎢ.
+ᎢᏣᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
@@ -20045,7 +20045,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏍᎧ.
+ᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎭᏒᏂᎦ.
 \end_layout
 
 \begin_layout Standard
@@ -20092,23 +20096,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎴᏫᏍᏓ.
+ᏗᏯᏖᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏥᏙᎨᏍᏗ.
+ᏓᏲᏓᏝᎲᎢ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ.
+ᎢᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᎭᎢᏎᏍᏗ.
+ᎮᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
@@ -20116,11 +20116,15 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎦᏔᎲᎾ.
+ᎢᏣᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏣᏍᏉᏟᎢ.
+ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᎭᏒᏂᎦ.
 \end_layout
 
 \begin_layout Standard
@@ -20171,19 +20175,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᏙᎨᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-Ꮭ ᏱᏍᏓᎢᏎᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏯᏒᏂᎦ.
-\end_layout
-
-\begin_layout Enumerate
-ᏯᏖᎾ ᏗᎪᏪᎶᏗ.
+ᏯᏖᎾ.
 \end_layout
 
 \begin_layout Enumerate
@@ -20191,11 +20183,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎦᏣᏄᎵ.
+ᏍᏓᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᏒᏂᎦ.
+ᏗᏂᏯᏄᎵ.
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏯᏖᎾ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᎪᏪᎶᏗ.
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏯᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -20242,35 +20246,35 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎦᏣᏄᎵ.
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎯᏯᏒᏂᎦ.
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏦᏞᏍᏗ.
+\end_layout
+
+\begin_layout Enumerate
 ᏗᏯᏖᎾ ᏗᎪᏪᎶᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏥᏍᎪᎵ.
+ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᏯᏖᎾ.
+ᏗᎦᎶᎯᏍᏗᎢ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
+ᏦᏞᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎢᏎᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᎭᎴᏫᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᎡᏣᏒᏂᎦ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏍᏉᏟᎢ.
+ᎭᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -20317,35 +20321,35 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ.
+ᎯᏯᏒᏂᎦ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ.
+Ꮭ ᏱᏙᏍᏗᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ.
+Ꮭ ᏱᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
+Ꮭ ᏱᏙᏍᏙᏞᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-ᏧᏍᎧ.
+ᏍᏓᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᎭᏒᏂᎦ.
+ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎦᏔᎲᎾ.
+ᎠᏍᎪᎵ.
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏂᏯᏄᎵ.
+ᎯᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -20392,19 +20396,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ.
+Ꮭ ᏱᏍᏓᎢᏎᏍᏗ.
 \end_layout
 
 \begin_layout Enumerate
-Ꮭ ᏱᏣᎢᏎᏍᏗ.
+ᎤᏍᎦᏃᎵ.
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎭᏒᏂᎦ.
+ᎭᎦᏔᎲᎾ.
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏂᏍᎦᏃᎵ.
+Ꮭ ᏱᏦᏞᏍᏗ.
 \end_layout
 
 \begin_layout Standard
@@ -21280,43 +21284,43 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏦᏞᏍᏗ.
- [57]
+ᎤᏍᏉᏟᎢ.
+ [12]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
- [62]
+ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
+ [47]
 \end_layout
 
 \begin_layout Enumerate
-ᎭᎦᏔᎲᎾ.
- [23]
+ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
+ [61]
 \end_layout
 
 \begin_layout Enumerate
-ᏦᏞᏍᏗ.
- [28]
+ᏞᏍᏗ ᏥᎭᎦᏔᎲᎾ.
+ [31]
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᏒᏂᎦ.
- [41]
+ᎢᏣᎴᏫᏍᏓ.
+ [54]
 \end_layout
 
 \begin_layout Enumerate
-ᏧᏯᏖᎾ.
- [16]
+Ꮭ ᏱᏣᎢᏎᏍᏗ.
+ [59]
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏍᎪᎵ.
- [1]
+ᏍᏓᎴᏫᏍᏓ.
+ [40]
 \end_layout
 
 \begin_layout Enumerate
-ᎯᏍᎪᎵ.
- [3]
+ᏣᏍᏉᏟᎢ.
+ [14]
 \end_layout
 
 \begin_layout Standard
@@ -21363,8 +21367,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎢᏎᏍᏗ.
- [52]
+ᏗᏥᏙᎨᏍᏗ.
+ [56]
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏲᏓᏝᎲᎢ.
+ [6]
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᏙᏦᏞᏍᏗ.
+ [64]
+\end_layout
+
+\begin_layout Enumerate
+ᎠᏯᏄᎵ.
+ [4]
 \end_layout
 
 \begin_layout Enumerate
@@ -21373,33 +21392,18 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏗᎦᎶᎯᏍᏗᎢ.
- [18]
-\end_layout
-
-\begin_layout Enumerate
-ᏗᏍᏙᏞᏍᏗ.
- [43]
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᎴᏫᏍᏓ.
- [61]
-\end_layout
-
-\begin_layout Enumerate
 ᎠᎩᏍᏉᏟᎢ.
  [13]
 \end_layout
 
 \begin_layout Enumerate
-ᎮᏍᏗ.
- [29]
+Ꮭ ᏱᏙᏥᏙᎨᏍᏗ.
+ [63]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
- [60]
+ᎯᏍᎪᎵ.
+ [3]
 \end_layout
 
 \begin_layout Standard
@@ -21446,43 +21450,43 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᎴᏫᏍᏓ.
- [47]
+ᎤᏍᎧ.
+ [10]
 \end_layout
 
 \begin_layout Enumerate
-ᏓᏲᏓᏝᎲᎢ.
- [7]
+ᏞᏍᏗ ᏥᎢᏣᏒᏂᎦ.
+ [62]
 \end_layout
 
 \begin_layout Enumerate
-Ꮭ ᏯᎢᏎᏍᏗ.
- [30]
+ᏍᏓᎢᏎᏍᏗ.
+ [38]
 \end_layout
 
 \begin_layout Enumerate
-ᎯᏯᏒᏂᎦ.
- [27]
+ᏗᏍᏙᏞᏍᏗ.
+ [43]
 \end_layout
 
 \begin_layout Enumerate
-ᎠᏯᏄᎵ.
- [4]
+ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
+ [58]
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏯᏖᎾ.
- [16]
+ᏥᏍᎪᎵ.
+ [2]
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏍᎦᏃᎵ.
- [8]
+ᎤᏯᏖᎾ.
+ [15]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
- [44]
+ᎭᎴᏫᏍᏓ.
+ [24]
 \end_layout
 
 \begin_layout Standard
@@ -21529,33 +21533,28 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᎴᏫᏍᏓ.
- [54]
+ᎤᏂᏍᎦᏃᎵ.
+ [9]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎭᎦᏔᎲᎾ.
- [31]
+ᏧᏍᎧ.
+ [11]
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏯᏖᎾ.
- [15]
+ᏯᏖᎾ ᏗᎪᏪᎶᏗ.
+ [20]
 \end_layout
 
 \begin_layout Enumerate
-ᏗᎪᏪᎶᏗ.
- [19]
+ᎡᏣᏒᏂᎦ.
+ [51]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏗᏙᎨᏍᏗ.
- [49]
-\end_layout
-
-\begin_layout Enumerate
-ᎠᏲᏓᏝᎲᎢ.
- [6]
+ᎢᏣᎦᏔᎲᎾ.
+ [53]
 \end_layout
 
 \begin_layout Enumerate
@@ -21564,8 +21563,13 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏍᎧ.
- [10]
+ᏞᏍᏗ.
+ [29]
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎭᏒᏂᎦ.
+ [33]
 \end_layout
 
 \begin_layout Standard
@@ -21612,28 +21616,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎴᏫᏍᏓ.
- [40]
+ᏗᏯᏖᎾ.
+ [16]
 \end_layout
 
 \begin_layout Enumerate
-ᏗᏥᏙᎨᏍᏗ.
- [56]
+ᏓᏲᏓᏝᎲᎢ.
+ [7]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏦᏞᏍᏗ.
- [64]
+ᎢᏣᏒᏂᎦ.
+ [55]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏍᏙᏞᏍᏗ.
- [50]
-\end_layout
-
-\begin_layout Enumerate
-ᎭᎢᏎᏍᏗ.
- [22]
+ᎮᏍᏗ.
+ [29]
 \end_layout
 
 \begin_layout Enumerate
@@ -21642,13 +21641,18 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎦᏔᎲᎾ.
- [39]
+ᎢᏣᎢᏎᏍᏗ.
+ [52]
 \end_layout
 
 \begin_layout Enumerate
-ᏣᏍᏉᏟᎢ.
- [14]
+ᏞᏍᏗ ᏥᎡᏍᏓᏒᏂᎦ.
+ [44]
+\end_layout
+
+\begin_layout Enumerate
+ᎭᏒᏂᎦ.
+ [25]
 \end_layout
 
 \begin_layout Standard
@@ -21700,23 +21704,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᏙᎨᏍᏗ.
- [26]
-\end_layout
-
-\begin_layout Enumerate
-Ꮭ ᏱᏍᏓᎢᏎᏍᏗ.
- [45]
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏯᏒᏂᎦ.
- [35]
-\end_layout
-
-\begin_layout Enumerate
-ᏯᏖᎾ ᏗᎪᏪᎶᏗ.
- [20]
+ᏯᏖᎾ.
+ [15]
 \end_layout
 
 \begin_layout Enumerate
@@ -21725,13 +21714,28 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎦᏣᏄᎵ.
- [4]
+ᏍᏓᏒᏂᎦ.
+ [41]
 \end_layout
 
 \begin_layout Enumerate
-ᎢᏣᏒᏂᎦ.
- [55]
+ᏗᏂᏯᏄᎵ.
+ [5]
+\end_layout
+
+\begin_layout Enumerate
+ᏧᏯᏖᎾ.
+ [16]
+\end_layout
+
+\begin_layout Enumerate
+ᏗᎪᏪᎶᏗ.
+ [19]
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏯᎢᏎᏍᏗ.
+ [30]
 \end_layout
 
 \begin_layout Standard
@@ -21778,43 +21782,43 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎦᏣᏄᎵ.
+ [4]
+\end_layout
+
+\begin_layout Enumerate
+ᏞᏍᏗ ᏥᎯᏯᏒᏂᎦ.
+ [35]
+\end_layout
+
+\begin_layout Enumerate
+ᏗᏦᏞᏍᏗ.
+ [57]
+\end_layout
+
+\begin_layout Enumerate
 ᏗᏯᏖᎾ ᏗᎪᏪᎶᏗ.
  [21]
 \end_layout
 
 \begin_layout Enumerate
-ᏥᏍᎪᎵ.
- [2]
+ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
+ [46]
 \end_layout
 
 \begin_layout Enumerate
-ᏯᏖᎾ.
- [15]
+ᏗᎦᎶᎯᏍᏗᎢ.
+ [18]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎡᏣᏒᏂᎦ.
- [58]
+ᏦᏞᏍᏗ.
+ [28]
 \end_layout
 
 \begin_layout Enumerate
-ᏍᏓᎢᏎᏍᏗ.
- [38]
-\end_layout
-
-\begin_layout Enumerate
-ᎭᎴᏫᏍᏓ.
- [24]
-\end_layout
-
-\begin_layout Enumerate
-ᎡᏣᏒᏂᎦ.
- [51]
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏍᏉᏟᎢ.
- [12]
+ᎭᎢᏎᏍᏗ.
+ [22]
 \end_layout
 
 \begin_layout Standard
@@ -21861,43 +21865,43 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᎯᏙᎨᏍᏗ.
+ᎯᏯᏒᏂᎦ.
+ [27]
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᏙᏍᏗᏙᎨᏍᏗ.
+ [49]
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᏙᎨᏍᏗ.
  [34]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏙᏥᏙᎨᏍᏗ.
- [63]
+Ꮭ ᏱᏙᏍᏙᏞᏍᏗ.
+ [50]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ.
- [29]
+ᏍᏓᎦᏔᎲᎾ.
+ [39]
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏍᏓᎦᏔᎲᎾ.
- [46]
+ᏞᏍᏗ ᏥᎢᏣᎦᏔᎲᎾ.
+ [60]
 \end_layout
 
 \begin_layout Enumerate
-ᏧᏍᎧ.
- [11]
+ᎠᏍᎪᎵ.
+ [1]
 \end_layout
 
 \begin_layout Enumerate
-ᎭᏒᏂᎦ.
- [25]
-\end_layout
-
-\begin_layout Enumerate
-ᎢᏣᎦᏔᎲᎾ.
- [53]
-\end_layout
-
-\begin_layout Enumerate
-ᏗᏂᏯᏄᎵ.
- [5]
+ᎯᏙᎨᏍᏗ.
+ [26]
 \end_layout
 
 \begin_layout Standard
@@ -21944,23 +21948,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏞᏍᏗ ᏥᏦᏞᏍᏗ.
+Ꮭ ᏱᏍᏓᎢᏎᏍᏗ.
+ [45]
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏍᎦᏃᎵ.
+ [8]
+\end_layout
+
+\begin_layout Enumerate
+ᎭᎦᏔᎲᎾ.
+ [23]
+\end_layout
+
+\begin_layout Enumerate
+Ꮭ ᏱᏦᏞᏍᏗ.
  [36]
-\end_layout
-
-\begin_layout Enumerate
-Ꮭ ᏱᏣᎢᏎᏍᏗ.
- [59]
-\end_layout
-
-\begin_layout Enumerate
-ᏞᏍᏗ ᏥᎭᏒᏂᎦ.
- [33]
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏂᏍᎦᏃᎵ.
- [9]
 \end_layout
 
 \begin_layout Standard
