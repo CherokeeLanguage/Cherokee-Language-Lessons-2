@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.91 $
+$Revision: 1.92 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/18 03:16:26 $ UTC
+$Date: 2016/11/18 03:27:37 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.91 $
+$Revision: 1.92 $
 \noun default
 .
 \end_layout
@@ -11750,7 +11750,8 @@ Fast.
 \begin_inset Quotes eld
 \end_inset
 
-They-fast.
+Fast.
+ (Them.)
 \begin_inset Quotes erd
 \end_inset
 
@@ -11763,7 +11764,7 @@ They-fast.
 \begin_inset Quotes eld
 \end_inset
 
-Floor.
+A floor.
 \begin_inset Quotes erd
 \end_inset
 
@@ -11806,7 +11807,8 @@ Slow.
 \begin_inset Quotes eld
 \end_inset
 
-They-slow.
+Slow.
+ (Them.)
 \begin_inset Quotes erd
 \end_inset
 
@@ -11819,8 +11821,7 @@ They-slow.
 \begin_inset Quotes eld
 \end_inset
 
-Head (detached).
- Skull (detached).
+A detached head or skull.
 \begin_inset Quotes erd
 \end_inset
 
@@ -11833,8 +11834,7 @@ Head (detached).
 \begin_inset Quotes eld
 \end_inset
 
-Heads.
- Skulls.
+Detached heads or skulls.
 \begin_inset Quotes erd
 \end_inset
 
@@ -11886,7 +11886,7 @@ Your one's stomach.
 \begin_inset Quotes eld
 \end_inset
 
-Board.
+A board.
 \begin_inset Quotes erd
 \end_inset
 
@@ -11928,8 +11928,8 @@ columnbreak
 \begin_inset Quotes eld
 \end_inset
 
-Doorway.
- Door.
+A doorway.
+ A door.
 \begin_inset Quotes erd
 \end_inset
 
@@ -11979,7 +11979,7 @@ This is a common variation for ᎠᏯᏄᎵ.
 \begin_inset Quotes eld
 \end_inset
 
-Tool for writing.
+A tool for writing.
 \begin_inset Quotes erd
 \end_inset
 
@@ -11991,7 +11991,7 @@ Tool for writing.
 \begin_inset Quotes eld
 \end_inset
 
-Board.
+A board.
 \begin_inset Quotes erd
 \end_inset
 
@@ -12047,9 +12047,9 @@ Twice.
 \begin_inset Quotes eld
 \end_inset
 
-Board for writing.
- Chalkboard.
- Whiteboard.
+A writing board.
+ A chalkboard.
+ A whiteboard.
 \begin_inset Quotes erd
 \end_inset
 
@@ -12066,8 +12066,7 @@ Board for writing.
 \begin_inset Quotes eld
 \end_inset
 
-Chalkboards.
- Whiteboards.
+Writing boards.
 \begin_inset Quotes erd
 \end_inset
 
