@@ -372,11 +372,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.98 $
+$Revision: 1.99 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/22 01:48:44 $ UTC
+$Date: 2016/11/22 01:52:10 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +504,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.98 $
+$Revision: 1.99 $
 \noun default
 .
 \end_layout
@@ -38850,6 +38850,17 @@ begin{landscape}
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Congratulations! You are ready to move on to the next book.
 \end_layout
 
 \begin_layout Chapter
