@@ -1,7 +1,9 @@
-#LyX 2.1 created this file. For more info see http://www.lyx.org/
-\lyxformat 474
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
 \begin_document
 \begin_header
+\save_transient_properties true
+\origin unavailable
 \textclass extbook
 \begin_preamble
 %\usepackage{wallpaper}
@@ -17,16 +19,16 @@
 \language_package default
 \inputencoding utf8-plain
 \fontencoding global
-\font_roman FreeSerif
-\font_sans FreeSans
-\font_typewriter FreeMono
-\font_math auto
+\font_roman "default" "FreeSerif"
+\font_sans "default" "FreeSans"
+\font_typewriter "default" "FreeMono"
+\font_math "auto" "auto"
 \font_default_family default
 \use_non_tex_fonts true
 \font_sc false
 \font_osf false
-\font_sf_scale 100
-\font_tt_scale 100
+\font_sf_scale 100 100
+\font_tt_scale 100 100
 \graphics none
 \default_output_format pdf4
 \output_sync 1
@@ -372,11 +374,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.99 $
+$Revision: 1.100 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/22 01:52:10 $ UTC
+$Date: 2016/11/23 00:50:45 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -504,7 +506,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.99 $
+$Revision: 1.100 $
 \noun default
 .
 \end_layout
@@ -527,6 +529,10 @@ Syllabary Review Practice
 Handwrite
 \bar default
  the English pronunciation for each of the following Cherokee letters:
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -534,7 +540,7 @@ Handwrite
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="12">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -1475,7 +1481,7 @@ Handwrite
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="12">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -2416,7 +2422,7 @@ Handwrite
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="12">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -3357,7 +3363,7 @@ Handwrite
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="12">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -4197,6 +4203,10 @@ Final Practice Part Two.
 Handwrite
 \bar default
  the Cherokee letter for each of the following English pronunciations.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -4204,7 +4214,7 @@ Handwrite
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="12">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -5145,7 +5155,7 @@ ma
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="12">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -6086,7 +6096,7 @@ su
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="12">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -7027,7 +7037,7 @@ wa
 \align center
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="12">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
@@ -7893,8 +7903,12 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 him
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -7908,8 +7922,12 @@ Set B: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-)
 
 \end_deeper
 \begin_layout Itemize
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 it.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -7923,8 +7941,12 @@ Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
 
 \end_deeper
 \begin_layout Itemize
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 them (animate).
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -7938,8 +7960,12 @@ Set B: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²ji²y-)
 
 \end_deeper
 \begin_layout Itemize
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 them (inanimate).
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -7966,8 +7992,19 @@ Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
 \noun off
 \color none
 \lang english
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 me.
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8020,8 +8057,19 @@ Set B:
 \noun off
 \color none
 \lang english
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 me.
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8057,8 +8105,19 @@ me.
 \noun off
 \color none
 \lang english
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 he or it.
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8111,8 +8170,19 @@ Set B:
 \noun off
 \color none
 \lang english
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 them.
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8170,8 +8240,12 @@ columnbreak{}
 \end_layout
 
 \begin_layout Itemize
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 him.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8185,8 +8259,12 @@ Set B: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-)
 
 \end_deeper
 \begin_layout Itemize
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 it.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8200,8 +8278,12 @@ Set B: Ꮳ̣- (jạ-)
 
 \end_deeper
 \begin_layout Itemize
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 them (animate).
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8215,8 +8297,12 @@ Set B: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-)
 
 \end_deeper
 \begin_layout Itemize
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 them (inanimate).
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8243,8 +8329,19 @@ Set B: ᏕᏣ̣- (de²jạ-)
 \noun off
 \color none
 \lang english
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 you.
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8297,8 +8394,19 @@ Set B:
 \noun off
 \color none
 \lang english
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 you.
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8334,8 +8442,19 @@ you.
 \noun off
 \color none
 \lang english
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 him or it.
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8388,8 +8507,19 @@ Set B:
 \noun off
 \color none
 \lang english
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 them.
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8488,7 +8618,7 @@ them
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
 them (animate).
 \begin_inset Quotes erd
 \end_inset
@@ -8514,9 +8644,13 @@ The following shows the bound pronouns you have used so far which are used
 \begin_inset Quotes eld
 \end_inset
 
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 him or her.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -8528,7 +8662,7 @@ him or her.
 \begin_inset Quotes eld
 \end_inset
 
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 them (animate).
 \begin_inset Quotes erd
 \end_inset
@@ -8542,9 +8676,13 @@ them (animate).
 \begin_inset Quotes eld
 \end_inset
 
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 him or her.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -8556,7 +8694,7 @@ him or her.
 \begin_inset Quotes eld
 \end_inset
 
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 them (animate).
 \begin_inset Quotes erd
 \end_inset
@@ -8593,12 +8731,16 @@ The
 \begin_inset Quotes eld
 \end_inset
 
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 it
 \begin_inset Quotes erd
 \end_inset
 
 , so we know that there is only one squirrel.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8634,7 +8776,7 @@ Adding
 \begin_inset Quotes eld
 \end_inset
 
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 it.
 \begin_inset Quotes erd
 \end_inset
@@ -8643,7 +8785,7 @@ it.
 \begin_inset Quotes eld
 \end_inset
 
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 them.
 \begin_inset Quotes erd
 \end_inset
@@ -8693,12 +8835,16 @@ The
 \begin_inset Quotes eld
 \end_inset
 
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 it
 \begin_inset Quotes erd
 \end_inset
 
 , so we know that there is only one rabbit.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -8734,7 +8880,7 @@ Adding
 \begin_inset Quotes eld
 \end_inset
 
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 it.
 \begin_inset Quotes erd
 \end_inset
@@ -8743,7 +8889,7 @@ it.
 \begin_inset Quotes eld
 \end_inset
 
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 them.
 \begin_inset Quotes erd
 \end_inset
@@ -8805,7 +8951,7 @@ them
 \begin_inset Quotes eld
 \end_inset
 
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -8844,9 +8990,20 @@ The following shows the bound pronouns you have used so far which are used
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 me.
 \begin_inset Quotes erd
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -8871,7 +9028,7 @@ me.
 \begin_inset Quotes eld
 \end_inset
 
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 me.
 \begin_inset Quotes erd
 \end_inset
@@ -8898,9 +9055,20 @@ me.
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 you.
 \begin_inset Quotes erd
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -8925,7 +9093,7 @@ you.
 \begin_inset Quotes eld
 \end_inset
 
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 you.
 \begin_inset Quotes erd
 \end_inset
@@ -8954,6 +9122,10 @@ Example usage:
 
 A wolf sees me.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -8998,6 +9170,10 @@ A rabbit sees you.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9033,7 +9209,7 @@ The rabbits want you.
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
 them
 \begin_inset Quotes erd
 \end_inset
@@ -9080,7 +9256,7 @@ The following table shows the bound pronouns with the meanings of
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -9114,9 +9290,20 @@ de-
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 me.
 \begin_inset Quotes erd
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9141,7 +9328,7 @@ me.
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 me, more than once.
 \begin_inset Quotes erd
 \end_inset
@@ -9168,9 +9355,20 @@ me, more than once.
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 you.
 \begin_inset Quotes erd
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9195,7 +9393,7 @@ you.
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 you, more than once.
 \begin_inset Quotes erd
 \end_inset
@@ -9216,6 +9414,10 @@ Example usage:
 
 A wolf sees me.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9246,6 +9448,10 @@ Like seeing multiple reflections of me in mirrors.
 
 A rabbit sees you.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9286,9 +9492,13 @@ de-
 \begin_inset Quotes eld
 \end_inset
 
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9300,7 +9510,7 @@ it.
 \begin_inset Quotes eld
 \end_inset
 
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 them (inanimate).
 \begin_inset Quotes erd
 \end_inset
@@ -9314,9 +9524,13 @@ them (inanimate).
 \begin_inset Quotes eld
 \end_inset
 
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9328,7 +9542,7 @@ it.
 \begin_inset Quotes eld
 \end_inset
 
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 them (inanimate).
 \begin_inset Quotes erd
 \end_inset
@@ -9355,9 +9569,20 @@ them (inanimate).
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 he or it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9382,7 +9607,7 @@ he or it.
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 them.
 \begin_inset Quotes erd
 \end_inset
@@ -9409,9 +9634,20 @@ them.
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 he or it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9436,7 +9672,7 @@ he or it.
 \begin_inset Quotes eld
 \end_inset
 
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 them.
 \begin_inset Quotes erd
 \end_inset
@@ -9450,9 +9686,13 @@ them.
 \begin_inset Quotes eld
 \end_inset
 
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9464,7 +9704,7 @@ it.
 \begin_inset Quotes eld
 \end_inset
 
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 them (inanimate).
 \begin_inset Quotes erd
 \end_inset
@@ -9478,9 +9718,13 @@ them (inanimate).
 \begin_inset Quotes eld
 \end_inset
 
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9492,7 +9736,7 @@ it.
 \begin_inset Quotes eld
 \end_inset
 
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 them (inanimate).
 \begin_inset Quotes erd
 \end_inset
@@ -9519,9 +9763,20 @@ them (inanimate).
 \begin_inset Quotes eld
 \end_inset
 
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 he or it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9546,7 +9801,7 @@ he or it.
 \begin_inset Quotes eld
 \end_inset
 
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 them.
 \begin_inset Quotes erd
 \end_inset
@@ -9573,9 +9828,20 @@ them.
 \begin_inset Quotes eld
 \end_inset
 
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 he or it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9600,7 +9866,7 @@ he or it.
 \begin_inset Quotes eld
 \end_inset
 
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 them.
 \begin_inset Quotes erd
 \end_inset
@@ -9624,11 +9890,19 @@ I see a trap.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9646,6 +9920,10 @@ I see traps.
 \end_deeper
 \begin_layout Itemize
 ᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9666,6 +9944,10 @@ It does not have to be a different trap for each sighting.
 \end_deeper
 \begin_layout Itemize
 ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9711,11 +9993,19 @@ You see a chair.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9733,6 +10023,10 @@ You see chairs.
 \end_deeper
 \begin_layout Itemize
 ᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9753,6 +10047,10 @@ It can be either the same chair or a different chair for each sighting.
 \end_deeper
 \begin_layout Itemize
 ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9798,11 +10096,19 @@ He/she sees a chair.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏓᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9820,6 +10126,10 @@ He/she sees chairs.
 \end_deeper
 \begin_layout Itemize
 ᎦᏍᎩᎶ ᏓᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9840,6 +10150,10 @@ It can be either the same chair or a different chair for each sighting.
 \end_deeper
 \begin_layout Itemize
 ᏅᏯ ᏓᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9871,11 +10185,19 @@ The wolf sees a beaver.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏩᎭᏯ ᏙᏯ ᏓᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9912,6 +10234,10 @@ It could be any number of beaver per sighting (including repeatedly seeing
 \end_deeper
 \begin_layout Itemize
 ᏩᏯ ᏧᏃᏗᎨᎢ ᏙᏯ ᏓᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9942,11 +10268,19 @@ The people see a trap.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᎠᏂᏴᏫ ᏗᏌᏛᏗ ᏓᏂᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9964,6 +10298,10 @@ The people see traps.
 \end_deeper
 \begin_layout Itemize
 ᎠᏂᏴᏫ ᏌᏛᏗ ᏓᏂᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -9982,6 +10320,10 @@ The people see traps.
 \end_deeper
 \begin_layout Itemize
 ᎠᏂᏴᏫ ᏅᏯ ᏓᏂᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -10027,11 +10369,19 @@ The people see a rabbit.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᎠᏂᏴᏫ ᏥᏍᏚ ᏓᏂᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -10067,6 +10417,10 @@ It could be any number of rabbits per sighting (including only a single
 \end_deeper
 \begin_layout Itemize
 ᎠᏂᏴᏫ ᎤᏂᏁᎦ ᏥᏍᏚ ᏓᏂᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -10091,7 +10445,7 @@ The use of the plural for the color white makes it clear that there are
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar \ldots{}
+\SpecialChar ldots
 them (animate), more than once.
 \begin_inset Quotes erd
 \end_inset
@@ -10131,11 +10485,19 @@ Do you see a squirrel?
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏌᎶᎵᏍ ᎦᎯᎪᏩᏘᎭ?
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -10153,6 +10515,10 @@ Do you see squirrels?
 \end_deeper
 \begin_layout Itemize
 ᏌᎶᎵᏍ ᏕᎦᎯᎪᏩᏘᎭ?
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -11704,6 +12070,10 @@ His head.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -11742,6 +12112,10 @@ Fast.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -11769,6 +12143,10 @@ A floor.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -11792,6 +12170,10 @@ Floors.
 
 Slow.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -11826,6 +12208,10 @@ A detached head or skull.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -11850,6 +12236,10 @@ Detached heads or skulls.
 His stomach.
  His abdomen.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -11888,6 +12278,10 @@ Your one's stomach.
 
 A board.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -11934,6 +12328,10 @@ A doorway.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -11958,6 +12356,10 @@ Doorways.
 
 Fast.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -11993,6 +12395,10 @@ A tool for writing.
 
 A board.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -12051,6 +12457,10 @@ A writing board.
  A chalkboard.
  A whiteboard.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -15931,6 +16341,17 @@ The following new bound pronouns are used in this lesson.
 \color none
 \lang english
 ᏍᏗ- (sdi-)
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -15948,14 +16369,14 @@ The following new bound pronouns are used in this lesson.
 \noun off
 \color none
 \lang english
-You two\SpecialChar \ldots{}
+You two\SpecialChar ldots
 it.
 \end_layout
 
 \begin_layout Itemize
 
 \lang english
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 you two.
 \end_layout
 
@@ -15975,6 +16396,17 @@ you two.
 \color none
 \lang english
 ᎢᏥ- (i²ji-)
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -15992,14 +16424,14 @@ you two.
 \noun off
 \color none
 \lang english
-You all\SpecialChar \ldots{}
+You all\SpecialChar ldots
 it.
 \end_layout
 
 \begin_layout Itemize
 
 \lang english
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 you all.
 \end_layout
 
@@ -16049,6 +16481,17 @@ The bound pronouns
 \color none
 \lang english
 ᎡᏍᏗ- (e²sdi-)
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -16066,12 +16509,12 @@ The bound pronouns
 \noun off
 \color none
 \lang english
-You two\SpecialChar \ldots{}
+You two\SpecialChar ldots
 him.
 \end_layout
 
 \begin_layout Itemize
-You two\SpecialChar \ldots{}
+You two\SpecialChar ldots
 being.
 \end_layout
 
@@ -16091,6 +16534,17 @@ being.
 \color none
 \lang english
 ᎡᏥ- (e²ji-)
+\family default
+\series default
+\shape default
+\size default
+\bar default
+\color inherit
+
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -16108,14 +16562,14 @@ being.
 \noun off
 \color none
 \lang english
-You all\SpecialChar \ldots{}
+You all\SpecialChar ldots
 him.
 \end_layout
 
 \begin_layout Itemize
 
 \lang english
-You all\SpecialChar \ldots{}
+You all\SpecialChar ldots
 being.
 \end_layout
 
@@ -16139,7 +16593,7 @@ Compare the meanings of
 \begin_inset Quotes erd
 \end_inset
 
- and the meanings 
+ and the meanings of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -22020,6 +22474,10 @@ A store.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -22038,6 +22496,10 @@ Sweet.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -22053,6 +22515,10 @@ Sweet.
 
 Ugly.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -22075,6 +22541,10 @@ Ugly.
 
 Pretty.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -22224,6 +22694,10 @@ Another.
  An additional one.
  The next one.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -24392,6 +24866,10 @@ He is seeing it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -24402,7 +24880,7 @@ He is seeing it.
 \begin_inset Quotes eld
 \end_inset
 
-I am\SpecialChar \ldots{}
+I am\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -24417,7 +24895,7 @@ I am\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He did\SpecialChar \ldots{}
+He did\SpecialChar ldots
 a while ago.
 \begin_inset Quotes erd
 \end_inset
@@ -24432,7 +24910,7 @@ a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-He often\SpecialChar \ldots{}
+He often\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -24447,7 +24925,7 @@ He often\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-Let you\SpecialChar \ldots{}
+Let you\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -24462,7 +24940,7 @@ Let you\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-For him\SpecialChar \ldots{}
+For him\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25054,7 +25532,7 @@ Finally there is the form
 \begin_inset Quotes eld
 \end_inset
 
-to do\SpecialChar \ldots{}
+to do\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25099,6 +25577,10 @@ He wants it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -25109,7 +25591,7 @@ He wants it.
 \begin_inset Quotes eld
 \end_inset
 
-I am\SpecialChar \ldots{}
+I am\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25124,7 +25606,7 @@ I am\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He did\SpecialChar \ldots{}
+He did\SpecialChar ldots
 a while ago.
 \begin_inset Quotes erd
 \end_inset
@@ -25139,7 +25621,7 @@ a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-He often\SpecialChar \ldots{}
+He often\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25154,7 +25636,7 @@ He often\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-Let you\SpecialChar \ldots{}
+Let you\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25169,7 +25651,7 @@ Let you\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-For him\SpecialChar \ldots{}
+For him\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25391,6 +25873,10 @@ I want to see it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -25407,6 +25893,10 @@ For me to see it I am wanting.
 
 I want to want it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -25429,6 +25919,10 @@ I want you to see it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -25445,6 +25939,10 @@ For you to see it I am wanting.
 
 He wants you to see it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -25467,6 +25965,10 @@ He wanted you to see it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -25483,6 +25985,10 @@ For you to see he wanted.
 
 I wanted him to see it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -25505,6 +26011,10 @@ He often wants you to see it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -25521,6 +26031,10 @@ For you to see it he often wants.
 
 He wants me to want him to see a wolf.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -25605,6 +26119,10 @@ He sees him or it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -25615,7 +26133,7 @@ He sees him or it.
 \begin_inset Quotes eld
 \end_inset
 
-I am\SpecialChar \ldots{}
+I am\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25630,7 +26148,7 @@ I am\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He did\SpecialChar \ldots{}
+He did\SpecialChar ldots
 a while ago.
 \begin_inset Quotes erd
 \end_inset
@@ -25645,7 +26163,7 @@ a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-He often\SpecialChar \ldots{}
+He often\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25660,7 +26178,7 @@ He often\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-Let you\SpecialChar \ldots{}
+Let you\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25675,7 +26193,7 @@ Let you\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-For him\SpecialChar \ldots{}
+For him\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25694,6 +26212,10 @@ He is saying it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -25704,7 +26226,7 @@ He is saying it.
 \begin_inset Quotes eld
 \end_inset
 
-I am\SpecialChar \ldots{}
+I am\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25719,7 +26241,7 @@ I am\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He did\SpecialChar \ldots{}
+He did\SpecialChar ldots
 a while ago.
 \begin_inset Quotes erd
 \end_inset
@@ -25734,7 +26256,7 @@ a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-He often\SpecialChar \ldots{}
+He often\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25749,7 +26271,7 @@ He often\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-Let you\SpecialChar \ldots{}
+Let you\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25764,7 +26286,7 @@ Let you\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-For him\SpecialChar \ldots{}
+For him\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25799,6 +26321,10 @@ He wants him or it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -25809,7 +26335,7 @@ He wants him or it.
 \begin_inset Quotes eld
 \end_inset
 
-I am\SpecialChar \ldots{}
+I am\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25824,7 +26350,7 @@ I am\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He did\SpecialChar \ldots{}
+He did\SpecialChar ldots
 a while ago.
 \begin_inset Quotes erd
 \end_inset
@@ -25839,7 +26365,7 @@ a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-He often\SpecialChar \ldots{}
+He often\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25854,7 +26380,7 @@ He often\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-Let you\SpecialChar \ldots{}
+Let you\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -25869,7 +26395,7 @@ Let you\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-For him\SpecialChar \ldots{}
+For him\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29011,6 +29537,10 @@ Eating a potato.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -29021,7 +29551,7 @@ Eating a potato.
 \begin_inset Quotes eld
 \end_inset
 
-I am\SpecialChar \ldots{}
+I am\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29036,7 +29566,7 @@ I am\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He did\SpecialChar \ldots{}
+He did\SpecialChar ldots
 a while ago.
 \begin_inset Quotes erd
 \end_inset
@@ -29051,7 +29581,7 @@ a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-He often\SpecialChar \ldots{}
+He often\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29066,7 +29596,7 @@ He often\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-Let you\SpecialChar \ldots{}
+Let you\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29081,7 +29611,7 @@ Let you\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-For him\SpecialChar \ldots{}
+For him\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29110,6 +29640,10 @@ Pushing a shopping cart.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -29120,7 +29654,7 @@ Pushing a shopping cart.
 \begin_inset Quotes eld
 \end_inset
 
-I am\SpecialChar \ldots{}
+I am\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29135,7 +29669,7 @@ I am\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He did\SpecialChar \ldots{}
+He did\SpecialChar ldots
 a while ago.
 \begin_inset Quotes erd
 \end_inset
@@ -29150,7 +29684,7 @@ a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-He often\SpecialChar \ldots{}
+He often\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29165,7 +29699,7 @@ He often\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-Let you\SpecialChar \ldots{}
+Let you\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29180,7 +29714,7 @@ Let you\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-For him\SpecialChar \ldots{}
+For him\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29217,6 +29751,10 @@ Al
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -29227,7 +29765,7 @@ Al
 \begin_inset Quotes eld
 \end_inset
 
-I am\SpecialChar \ldots{}
+I am\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29242,7 +29780,7 @@ I am\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He did\SpecialChar \ldots{}
+He did\SpecialChar ldots
 a while ago.
 \begin_inset Quotes erd
 \end_inset
@@ -29257,7 +29795,7 @@ a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-He often\SpecialChar \ldots{}
+He often\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29272,7 +29810,7 @@ He often\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-Let you\SpecialChar \ldots{}
+Let you\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29331,6 +29869,10 @@ An oven.
 \end_inset
 
  
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -29341,7 +29883,7 @@ An oven.
 \begin_inset Quotes eld
 \end_inset
 
-I am\SpecialChar \ldots{}
+I am\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29356,7 +29898,7 @@ I am\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He did\SpecialChar \ldots{}
+He did\SpecialChar ldots
 a while ago.
 \begin_inset Quotes erd
 \end_inset
@@ -29371,7 +29913,7 @@ a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-He often\SpecialChar \ldots{}
+He often\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29386,7 +29928,7 @@ He often\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-Let you\SpecialChar \ldots{}
+Let you\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29401,7 +29943,7 @@ Let you\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-For him\SpecialChar \ldots{}
+For him\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29438,6 +29980,10 @@ Al
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -29448,7 +29994,7 @@ Al
 \begin_inset Quotes eld
 \end_inset
 
-I am\SpecialChar \ldots{}
+I am\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29463,7 +30009,7 @@ I am\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-He did\SpecialChar \ldots{}
+He did\SpecialChar ldots
 a while ago.
 \begin_inset Quotes erd
 \end_inset
@@ -29478,7 +30024,7 @@ a while ago.
 \begin_inset Quotes eld
 \end_inset
 
-He often\SpecialChar \ldots{}
+He often\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29493,7 +30039,7 @@ He often\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-Let you\SpecialChar \ldots{}
+Let you\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -29508,7 +30054,7 @@ Let you\SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-For him\SpecialChar \ldots{}
+For him\SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -30127,7 +30673,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Itemize
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 them (inanimate).
  (
 \begin_inset Quotes eld
@@ -30138,6 +30684,10 @@ them (inanimate).
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30151,7 +30701,7 @@ Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
 
 \end_deeper
 \begin_layout Itemize
-I\SpecialChar \ldots{}
+I\SpecialChar ldots
 them (inanimate).
  (
 \begin_inset Quotes eld
@@ -30162,6 +30712,10 @@ them (inanimate).
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30188,7 +30742,7 @@ Set B: ᏗᎩ̣-, ᏗᏆ͓- (di²gị-, di²gw-)
 \noun off
 \color none
 \lang english
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 them.
  
 \family default
@@ -30212,6 +30766,10 @@ them.
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30264,7 +30822,7 @@ Set B:
 \noun off
 \color none
 \lang english
-He\SpecialChar \ldots{}
+He\SpecialChar ldots
 them.
  
 \family default
@@ -30288,6 +30846,10 @@ them.
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30340,7 +30902,7 @@ Set B:
 \noun off
 \color none
 \lang english
-You two\SpecialChar \ldots{}
+You two\SpecialChar ldots
 them
 \family default
 \series default
@@ -30365,6 +30927,10 @@ them
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30400,7 +30966,7 @@ them
 \noun off
 \color none
 \lang english
-You two\SpecialChar \ldots{}
+You two\SpecialChar ldots
 them
 \family default
 \series default
@@ -30425,6 +30991,10 @@ them
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30465,7 +31035,7 @@ columnbreak{}
 \end_layout
 
 \begin_layout Itemize
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 them (inanimate).
  (
 \begin_inset Quotes eld
@@ -30476,6 +31046,10 @@ them (inanimate).
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30489,7 +31063,7 @@ Set B: ᏕᏣ̣- (de²jạ-)
 
 \end_deeper
 \begin_layout Itemize
-You\SpecialChar \ldots{}
+You\SpecialChar ldots
 them (inanimate).
  (
 \begin_inset Quotes eld
@@ -30500,6 +31074,10 @@ them (inanimate).
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30528,7 +31106,7 @@ Set B: Ꮧ̣Ꮳ̣- (dị²jạ-)
 \noun off
 \color none
 \lang english
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 them.
  
 \family default
@@ -30552,6 +31130,10 @@ them.
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30604,7 +31186,7 @@ Set B:
 \noun off
 \color none
 \lang english
-They\SpecialChar \ldots{}
+They\SpecialChar ldots
 them.
  
 \family default
@@ -30628,6 +31210,10 @@ them.
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30680,7 +31266,7 @@ Set B:
 \noun off
 \color none
 \lang english
-You all\SpecialChar \ldots{}
+You all\SpecialChar ldots
 
 \family default
 \series default
@@ -30705,6 +31291,10 @@ them.
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30752,7 +31342,7 @@ them.
 \noun off
 \color none
 \lang english
-You all\SpecialChar \ldots{}
+You all\SpecialChar ldots
 
 \family default
 \series default
@@ -30777,6 +31367,10 @@ them.
 \end_inset
 
  pronunciation.)
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30849,11 +31443,19 @@ I see a trap.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30871,6 +31473,10 @@ I see traps.
 \end_deeper
 \begin_layout Itemize
 ᏌᏛᏗ ᏫᏥᎪᏩᏔ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30888,6 +31494,10 @@ Let me see the trap.
 \end_deeper
 \begin_layout Itemize
 ᏗᏌᏛᏗ ᏫᏗᏥᏬᏩᏔ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30915,11 +31525,19 @@ You see a chair.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30937,6 +31555,10 @@ You see chairs.
 \end_deeper
 \begin_layout Itemize
 ᎦᏍᎩᎶ ᎯᎪᏩᏔ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30954,6 +31576,10 @@ See the chair.
 \end_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏘᎪᏩᏔ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -30981,11 +31607,19 @@ He wants the chair.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏚᏚᎵᎭ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -31003,6 +31637,10 @@ He wants the chairs.
 \end_deeper
 \begin_layout Itemize
 ᎦᏍᎩᎶ ᏭᏚᎳ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -31020,6 +31658,10 @@ Let him want the chair.
 \end_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏫᏧᏚᎳ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -32226,7 +32868,7 @@ If you want to indicate some degree of
 \begin_inset Quotes eld
 \end_inset
 
-I was supposed to have \SpecialChar \ldots{}
+I was supposed to have \SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -32235,7 +32877,7 @@ I was supposed to have \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-I was told I did \SpecialChar \ldots{}
+I was told I did \SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -32244,7 +32886,7 @@ I was told I did \SpecialChar \ldots{}
 \begin_inset Quotes eld
 \end_inset
 
-I think I did \SpecialChar \ldots{}
+I think I did \SpecialChar ldots
 
 \begin_inset Quotes erd
 \end_inset
@@ -32287,6 +32929,10 @@ I am pretty.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -32311,6 +32957,10 @@ The
 \end_inset
 
  ending indicates I know that I was pretty, perhaps by looking in a mirror.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -32360,6 +33010,10 @@ Only the
 \end_inset
 
  ending is used in this sentence.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -32478,6 +33132,10 @@ He/she is shopping.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -32506,6 +33164,10 @@ Some place out of my sight.
 
 John is saying it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -32539,6 +33201,10 @@ Mary sees it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -32566,6 +33232,10 @@ Mary sees it while facing away from me.
 
 Jennifer is baking it.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -33189,6 +33859,10 @@ The end of the word uses a normal
 \end_inset
 
  high fall tone pattern.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -33228,6 +33902,10 @@ The end of the word uses a normal
 \end_inset
 
  high fall tone pattern.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -33377,6 +34055,10 @@ Let him see it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -33415,6 +34097,10 @@ Maybe he is about to see it.
 
 Let you speak.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -33527,6 +34213,10 @@ Let me see it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -33587,6 +34277,10 @@ Let you want it.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -33644,6 +34338,10 @@ It's possible that you are about to want it.
 
 Let you speak.
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -34308,6 +35006,10 @@ baby
 \end_inset
 
  is short.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -34368,6 +35070,10 @@ little
 \end_inset
 
  is long.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -34399,6 +35105,10 @@ Offspring
 
 Egg
 \begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Separator latexpar
 \end_inset
 
 
@@ -35033,6 +35743,10 @@ You will find the dialogues in a ready to translate format after the comic.
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -35335,12 +36049,12 @@ Panel 3-3
 \end_layout
 
 \begin_layout Description
-Ꮉ: ᎤᏅᏗ ᎠᎴ ᏧᏪᏥ ᏚᏚᎵᎭ\SpecialChar \ldots{}
+Ꮉ: ᎤᏅᏗ ᎠᎴ ᏧᏪᏥ ᏚᏚᎵᎭ\SpecialChar ldots
  ᎠᎴ ᎠᎭᏂ ᎤᏅᏗ ᎠᎴ ᏧᏪᏥ!
 \end_layout
 
 \begin_layout Description
-Ma: Unvdi ale juweji duduliha\SpecialChar \ldots{}
+Ma: Unvdi ale juweji duduliha\SpecialChar ldots
  Ale ahani unvdi ale juweji!
 \end_layout
 
@@ -35374,24 +36088,24 @@ Panel 4-1
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꭰ\SpecialChar \ldots{}
- ᎠᏴ\SpecialChar \ldots{}
- Ꭰ\SpecialChar \ldots{}
- ᎠᏆᏍᏗ\SpecialChar \ldots{}
- ᎯᎠ\SpecialChar \ldots{}
- Ꭴ\SpecialChar \ldots{}
- ᎤᏲᎢ\SpecialChar \ldots{}
+Ꮋ: Ꭰ\SpecialChar ldots
+ ᎠᏴ\SpecialChar ldots
+ Ꭰ\SpecialChar ldots
+ ᎠᏆᏍᏗ\SpecialChar ldots
+ ᎯᎠ\SpecialChar ldots
+ Ꭴ\SpecialChar ldots
+ ᎤᏲᎢ\SpecialChar ldots
 
 \end_layout
 
 \begin_layout Description
-Mi: A\SpecialChar \ldots{}
- Ayv\SpecialChar \ldots{}
- A\SpecialChar \ldots{}
- Agwasdi\SpecialChar \ldots{}
- Hia\SpecialChar \ldots{}
- U\SpecialChar \ldots{}
- Uyoi\SpecialChar \ldots{}
+Mi: A\SpecialChar ldots
+ Ayv\SpecialChar ldots
+ A\SpecialChar ldots
+ Agwasdi\SpecialChar ldots
+ Hia\SpecialChar ldots
+ U\SpecialChar ldots
+ Uyoi\SpecialChar ldots
 
 \end_layout
 
@@ -35480,12 +36194,12 @@ Panel 5-3
 \end_layout
 
 \begin_layout Description
-Ꮉ: Ꮭ ᏯᏆᏅᏔ\SpecialChar \ldots{}
+Ꮉ: Ꮭ ᏯᏆᏅᏔ\SpecialChar ldots
 
 \end_layout
 
 \begin_layout Description
-Ma: Hla yagwanta\SpecialChar \ldots{}
+Ma: Hla yagwanta\SpecialChar ldots
 
 \end_layout
 
@@ -37957,6 +38671,10 @@ raggedcolumns
 
 \begin_layout Enumerate
 Gadu ᎤᎦᎾᏍᏓ gaduhvsga.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -37970,6 +38688,10 @@ Gadus gaduhvsga?
 \end_deeper
 \begin_layout Enumerate
 ᏌᎪᏂᎨᎢ nvya agwadulvhvi.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -37982,6 +38704,10 @@ Hla.
 \end_deeper
 \begin_layout Enumerate
 Gadu ᎤᎦᎾᏍᏓ ᎠᎴ jisdu hawiya ᏓᎩᎬᎢ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -37994,6 +38720,10 @@ Gadus ᎠᎩᎨᎢ?
 \end_deeper
 \begin_layout Enumerate
 Ꮎ ᎠᏂᏔᎵ unaduliha ᎠᏂᏔᎵ ᏌᎶᎵ dinigowhtvhdi.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38008,6 +38738,10 @@ Hla.
 \begin_layout Enumerate
 Agwantvi.
  Entoni wahya ugowhtvhdi udulvhei.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38021,6 +38755,10 @@ Hla.
 \end_deeper
 \begin_layout Enumerate
 ᏔᎵ ᎢᎦ gadu ᎤᏂᎦᎾᏍᏓ dejawaduhnei.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38033,6 +38771,10 @@ Taliju ᎢᎦ dejawaduhnei?
 \end_deeper
 \begin_layout Enumerate
 Doya hawiya ᎠᎴ gadu ᎤᎦᎾᏍᏓ danaduhvsga.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38046,6 +38788,10 @@ Hla.
 \end_deeper
 \begin_layout Enumerate
 Udulvhvi ᏌᏊ ugowhtvhdi.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38059,6 +38805,10 @@ Hla.
 \end_deeper
 \begin_layout Enumerate
 Entoni jisdu hawiya ᎠᎩᎠ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38071,6 +38821,10 @@ Entoni.
 \end_deeper
 \begin_layout Enumerate
 Dejiduhvsgoi gatiyoi.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38084,6 +38838,10 @@ Gatiyoi.
 \begin_layout Enumerate
 Agwaduliha dijagisdi.
  Ꮎ ᏔᎵ gadu ᎤᏂᎦᎾᏍᏓ ᎤᎿ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38097,6 +38855,10 @@ Agwaduliha dijagisdi.
 \begin_layout Enumerate
 Doya udulvhei.
  Doya hawiya ᎤᎩᏍᏗ udulvhei.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38110,6 +38872,10 @@ Doya hawiya ugisdi udulvhei.
 \begin_layout Enumerate
 Ꮎ ᏓᎶᏂᎨᎢ gadu ᎤᎦᎾᏍᏓ agiwaduhnvi.
  Ꮎ ᏌᎪᏂᎨᎢ gadu ᎤᎦᎾᏍᏓ jawaduhnvi.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38123,6 +38889,10 @@ Gado ᎤᏍᏗ jawaduhnvei?
 \begin_layout Enumerate
 Uduliha gajigowhtvhdi Ꮎ wahya.
  Hla yuduliha gajigowhtvhdi Ꮎ ahwi.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38144,6 +38914,10 @@ Entoni udvhnei,
 \end_inset
 
 
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38156,6 +38930,10 @@ Gado ᎤᏍᏗ Entoni udulvhei ᏆᏆᎠ uwatdi?
 \end_deeper
 \begin_layout Enumerate
 Ꮎ doya hawiya ᎠᎴ Ꮎ ᏌᎶᎵ hawiya ᏓᎩᎬᎢ.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38171,6 +38949,10 @@ Agwaduliha doya hawiya jagisdi.
  Hla yagwaduliha ᏌᎶᎵ hawiya jagisdi.
  Agwaduliha ahwi hawiya jagisdi.
  Hla yagwaduliha gado ᎤᎦᎾᏍᏓ jagisdi.
+\begin_inset Separator latexpar
+\end_inset
+
+
 \end_layout
 
 \begin_deeper
@@ -38387,7 +39169,7 @@ Panel 3-3
 \end_layout
 
 \begin_layout Description
-Mah: Milk and eggs he wants\SpecialChar \ldots{}
+Mah: Milk and eggs he wants\SpecialChar ldots
  And here are milk and eggs!
 \end_layout
 
@@ -38421,22 +39203,22 @@ Panel 4-1
 \end_layout
 
 \begin_layout Description
-Ꮋ: Ꭰ\SpecialChar \ldots{}
- ᎠᏴ\SpecialChar \ldots{}
- Ꭰ\SpecialChar \ldots{}
- ᎠᏆᏍᏗ\SpecialChar \ldots{}
- ᎯᎠ\SpecialChar \ldots{}
- Ꭴ\SpecialChar \ldots{}
- ᎤᏲᎢ\SpecialChar \ldots{}
+Ꮋ: Ꭰ\SpecialChar ldots
+ ᎠᏴ\SpecialChar ldots
+ Ꭰ\SpecialChar ldots
+ ᎠᏆᏍᏗ\SpecialChar ldots
+ ᎯᎠ\SpecialChar ldots
+ Ꭴ\SpecialChar ldots
+ ᎤᏲᎢ\SpecialChar ldots
 
 \end_layout
 
 \begin_layout Description
-Mee: I\SpecialChar \ldots{}
- I'm little\SpecialChar \ldots{}
- This\SpecialChar \ldots{}
- is\SpecialChar \ldots{}
- bad\SpecialChar \ldots{}
+Mee: I\SpecialChar ldots
+ I'm little\SpecialChar ldots
+ This\SpecialChar ldots
+ is\SpecialChar ldots
+ bad\SpecialChar ldots
 
 \end_layout
 
@@ -38525,12 +39307,12 @@ Panel 5-3
 \end_layout
 
 \begin_layout Description
-Ꮉ: Ꮭ ᏯᏆᏅᏔ\SpecialChar \ldots{}
+Ꮉ: Ꮭ ᏯᏆᏅᏔ\SpecialChar ldots
 
 \end_layout
 
 \begin_layout Description
-Mah: I don't know\SpecialChar \ldots{}
+Mah: I don't know\SpecialChar ldots
 
 \end_layout
 
@@ -38897,7 +39679,7 @@ raggedcolumns
 \begin_layout Subsection
 
 \lang english
-He \SpecialChar \ldots{}
+He \SpecialChar ldots
 
 \end_layout
 
@@ -38906,7 +39688,7 @@ He \SpecialChar \ldots{}
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="19" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -40044,7 +40826,7 @@ you two
 \begin_layout Subsection
 
 \lang english
-He and I, we \SpecialChar \ldots{}
+He and I, we \SpecialChar ldots
 
 \end_layout
 
@@ -40053,7 +40835,7 @@ He and I, we \SpecialChar \ldots{}
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="14" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -40912,7 +41694,7 @@ you two
 \begin_layout Subsection
 
 \lang english
-I \SpecialChar \ldots{}
+I \SpecialChar ldots
 
 \end_layout
 
@@ -40921,7 +41703,7 @@ I \SpecialChar \ldots{}
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="12" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -41666,7 +42448,7 @@ you two
 \begin_layout Subsection
 
 \lang english
-They \SpecialChar \ldots{}
+They \SpecialChar ldots
 
 \end_layout
 
@@ -41675,7 +42457,7 @@ They \SpecialChar \ldots{}
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="21" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -42927,7 +43709,7 @@ you two
 \begin_layout Subsection
 
 \lang english
-They and I, we \SpecialChar \ldots{}
+They and I, we \SpecialChar ldots
 
 \end_layout
 
@@ -42936,7 +43718,7 @@ They and I, we \SpecialChar \ldots{}
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="14" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -43795,7 +44577,7 @@ you two
 \begin_layout Subsection
 
 \lang english
-You all \SpecialChar \ldots{}
+You all \SpecialChar ldots
 
 \end_layout
 
@@ -43804,7 +44586,7 @@ You all \SpecialChar \ldots{}
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="10" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -44427,7 +45209,7 @@ yourselves
 \begin_layout Subsection
 
 \lang english
-You all and I, we \SpecialChar \ldots{}
+You all and I, we \SpecialChar ldots
 
 \end_layout
 
@@ -44436,7 +45218,7 @@ You all and I, we \SpecialChar \ldots{}
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="11" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -45130,7 +45912,7 @@ a
 \begin_layout Subsection
 
 \lang english
-You one \SpecialChar \ldots{}
+You one \SpecialChar ldots
 
 \end_layout
 
@@ -45139,7 +45921,7 @@ You one \SpecialChar \ldots{}
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="12" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -45884,7 +46666,7 @@ b
 \begin_layout Subsection
 
 \lang english
-You one and I, we \SpecialChar \ldots{}
+You one and I, we \SpecialChar ldots
 
 \end_layout
 
@@ -45893,7 +46675,7 @@ You one and I, we \SpecialChar \ldots{}
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="11" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -46587,7 +47369,7 @@ a
 \begin_layout Subsection
 
 \lang english
-You two \SpecialChar \ldots{}
+You two \SpecialChar ldots
 
 \end_layout
 
@@ -46596,7 +47378,7 @@ You two \SpecialChar \ldots{}
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="10" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -47269,7 +48051,7 @@ raggedcolumns
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  each other
 \end_layout
 
@@ -47278,7 +48060,7 @@ raggedcolumns
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="13" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -48086,7 +48868,7 @@ each other
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  him
 \end_layout
 
@@ -48095,7 +48877,7 @@ each other
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="13" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -48891,7 +49673,7 @@ him
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  himself
 \end_layout
 
@@ -48900,7 +49682,7 @@ him
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -49142,7 +49924,7 @@ b
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  it
 \end_layout
 
@@ -49151,7 +49933,7 @@ b
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="19" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -50301,7 +51083,7 @@ it
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  me
 \end_layout
 
@@ -50310,7 +51092,7 @@ it
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -50713,7 +51495,7 @@ me
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  myself
 \end_layout
 
@@ -50722,7 +51504,7 @@ me
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -50964,7 +51746,7 @@ a
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  ourselves
 \end_layout
 
@@ -50973,7 +51755,7 @@ a
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="9" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -51557,7 +52339,7 @@ b
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  them (animate)
 \end_layout
 
@@ -51566,7 +52348,7 @@ b
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="13" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -52362,7 +53144,7 @@ them-animate
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  them (inanimate)
 \end_layout
 
@@ -52371,7 +53153,7 @@ them-animate
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="19" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -53521,7 +54303,7 @@ them-inanimate
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  themselves
 \end_layout
 
@@ -53530,7 +54312,7 @@ them-inanimate
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -53772,7 +54554,7 @@ b
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  us, him and me
 \end_layout
 
@@ -53781,7 +54563,7 @@ b
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -54184,7 +54966,7 @@ us, him and me
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  us, them and me
 \end_layout
 
@@ -54193,7 +54975,7 @@ us, him and me
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -54596,7 +55378,7 @@ us, them and me
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  us, you all and me
 \end_layout
 
@@ -54605,7 +55387,7 @@ us, them and me
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -54843,7 +55625,7 @@ us, you all and me
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  us, you one and me
 \end_layout
 
@@ -54852,7 +55634,7 @@ us, you all and me
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -55090,7 +55872,7 @@ us, you one and me
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  you all
 \end_layout
 
@@ -55099,7 +55881,7 @@ us, you one and me
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -55502,7 +56284,7 @@ you all
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  you one
 \end_layout
 
@@ -55511,7 +56293,7 @@ you all
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -55914,7 +56696,7 @@ you one
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  you two
 \end_layout
 
@@ -55923,7 +56705,7 @@ you one
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -56326,7 +57108,7 @@ you two
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  yourself
 \end_layout
 
@@ -56335,7 +57117,7 @@ you two
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -56577,7 +57359,7 @@ b
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  yourselves
 \end_layout
 
@@ -56586,7 +57368,7 @@ b
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -56874,7 +57656,7 @@ raggedcolumns
 \begin_layout Subsection
 
 \lang english
-\SpecialChar \ldots{}
+\SpecialChar ldots
  being
 \end_layout
 
@@ -56883,7 +57665,7 @@ raggedcolumns
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="11" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -57597,7 +58379,7 @@ raggedcolumns
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="11" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -58234,7 +59016,7 @@ a
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="10" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -58792,7 +59574,7 @@ You all being
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="21" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -59977,7 +60759,7 @@ you two
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="15" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -60832,7 +61614,7 @@ a
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -61247,7 +62029,7 @@ b
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="2" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -61373,7 +62155,7 @@ I being
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -61613,7 +62395,7 @@ them-animate
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="11" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -62234,7 +63016,7 @@ They being
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -62476,7 +63258,7 @@ b
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="5" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -62769,7 +63551,7 @@ them-animate
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -62952,7 +63734,7 @@ me
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="2" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -63082,7 +63864,7 @@ a
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -63267,7 +64049,7 @@ him
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="11" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -63890,7 +64672,7 @@ you two
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="7" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -64305,7 +65087,7 @@ a
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="16" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -65225,7 +66007,7 @@ them-inanimate
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="9" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -65754,7 +66536,7 @@ a
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="6" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -66112,7 +66894,7 @@ b
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="4" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
@@ -66354,7 +67136,7 @@ b
 \lang english
 \begin_inset Tabular
 <lyxtabular version="3" rows="3" columns="5">
-<features rotate="0" tabularvalignment="middle">
+<features tabularvalignment="middle">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
 <column alignment="left" valignment="top" width="0pt">
