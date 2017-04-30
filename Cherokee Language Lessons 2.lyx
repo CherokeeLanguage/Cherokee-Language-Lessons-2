@@ -374,11 +374,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.000 $
+$Revision: 2.001 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2017/04/24 22:39:19 $ UTC
+$Date: 2017/04/30 17:38:38 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -506,7 +506,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.000 $
+$Revision: 2.001 $
 \noun default
 .
 \end_layout
@@ -13554,11 +13554,12 @@ Negative commands to give one person
 \begin_layout Standard
 ☞ 
 \emph on
-To make a negative command, most of the time we use the word 
+There are two common ways of making a negative command: One way is to use
+ the word 
 \begin_inset Quotes eld
 \end_inset
 
-hlesdi
+ᏞᏍᏗ
 \begin_inset Quotes erd
 \end_inset
 
@@ -13566,11 +13567,20 @@ hlesdi
 \begin_inset Quotes eld
 \end_inset
 
-ji-
+Ꮵ-
 \begin_inset Quotes erd
 \end_inset
 
  onto the command word.
+ The second way is to indicate 
+\begin_inset Quotes eld
+\end_inset
+
+you will not be doing this in the future
+\begin_inset Quotes erd
+\end_inset
+
+.
  The following are the previous seven words in negative form.
 \end_layout
 
@@ -16156,14 +16166,6 @@ Compare the meanings of
 \end_layout
 
 \begin_layout Standard
-☞ 
-\emph on
-Remember that it is through the exercises in the lesson material that you
- will learn how to understand and speak Cherokee, not by memorizing word
- lists.
-\end_layout
-
-\begin_layout Standard
 Read over the following vocabulary carefully, practice saying the words
  aloud, then do the following exercises.
 \end_layout
@@ -16302,11 +16304,12 @@ Negative commands to give two people
 \begin_layout Standard
 ☞ 
 \emph on
-Again, to make a negative command, most of the time we use the word 
+Remember, there are two common ways of making a negative command: One way
+ is to use the word 
 \begin_inset Quotes eld
 \end_inset
 
-hlesdi
+ᏞᏍᏗ
 \begin_inset Quotes erd
 \end_inset
 
@@ -16314,11 +16317,20 @@ hlesdi
 \begin_inset Quotes eld
 \end_inset
 
-ji-
+Ꮵ-
 \begin_inset Quotes erd
 \end_inset
 
  onto the command word.
+ The second way is to indicate 
+\begin_inset Quotes eld
+\end_inset
+
+you will not be doing this in the future
+\begin_inset Quotes erd
+\end_inset
+
+.
  The following are the previous seven words in negative form.
 \end_layout
 
@@ -16611,11 +16623,12 @@ Negative commands to give to more than two people
 \begin_layout Standard
 ☞ 
 \emph on
-Again, to make a negative command, most of the time we use the word 
+Remember, there are two common ways of making a negative command: One way
+ is to use the word 
 \begin_inset Quotes eld
 \end_inset
 
-hlesdi
+ᏞᏍᏗ
 \begin_inset Quotes erd
 \end_inset
 
@@ -16623,11 +16636,20 @@ hlesdi
 \begin_inset Quotes eld
 \end_inset
 
-ji-
+Ꮵ-
 \begin_inset Quotes erd
 \end_inset
 
  onto the command word.
+ The second way is to indicate 
+\begin_inset Quotes eld
+\end_inset
+
+you will not be doing this in the future
+\begin_inset Quotes erd
+\end_inset
+
+.
  The following are the previous seven words in negative form.
 \end_layout
 
@@ -22143,6 +22165,22 @@ A stompground.
 \end_layout
 
 \begin_layout Description
+ᎪᎯ
+\begin_inset space ~
+\end_inset
+
+ᎢᎦ [ko¹hi i²ga] 
+\begin_inset Quotes eld
+\end_inset
+
+Today.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
 ᎭᏫᏯ [hạ²wi²ya] 
 \begin_inset Quotes eld
 \end_inset
@@ -22480,6 +22518,19 @@ Create index cards similar to the following:
 
 \begin_layout Standard
 \begin_inset Graphics
+	filename artwork/answer-pictures/07/jpgs/kohi_iga.jpg
+	lyxscale 33
+	width 18col%
+	groupId 5across
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
 	filename artwork/answer-pictures/07/jpgs/hawiya.jpg
 	lyxscale 33
 	width 18col%
@@ -22527,10 +22578,9 @@ Create index cards similar to the following:
 \end_inset
 
 
-\begin_inset space \hfill{}
-\end_inset
+\end_layout
 
-
+\begin_layout Standard
 \begin_inset Graphics
 	filename artwork/answer-pictures/07/jpgs/sihgwa.jpg
 	lyxscale 33
@@ -22540,9 +22590,10 @@ Create index cards similar to the following:
 \end_inset
 
 
-\end_layout
+\begin_inset space \hfill{}
+\end_inset
 
-\begin_layout Standard
+
 \begin_inset Graphics
 	filename artwork/answer-pictures/07/jpgs/soi.jpg
 	lyxscale 33
@@ -22591,19 +22642,6 @@ Create index cards similar to the following:
 \end_inset
 
 
-\begin_inset space \hfill{}
-\end_inset
-
-
-\begin_inset Graphics
-	filename artwork/answer-pictures/01/pngs/blank-slot.png
-	lyxscale 33
-	width 18col%
-	groupId 5across
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -22623,11 +22661,11 @@ Label each card on the reverse as follows:
 \end_layout
 
 \begin_layout Itemize
-ᎭᏫᏯ, ᎫᎫ, ᏎᎷ, ᏏᎾᎴᎢ/ᏑᎾᎴᎢ, ᏏᏆ.
+ᎪᎯ ᎢᎭ, ᎭᏫᏯ, ᎫᎫ, ᏎᎷ, ᏏᎾᎴᎢ/ᏑᎾᎴᎢ.
 \end_layout
 
 \begin_layout Itemize
-ᏐᎢ, ᏗᏐᎢ, ᏐᎢᏱ
+ᏏᏆ, ᏐᎢ, ᏗᏐᎢ, ᏐᎢᏱ
 \emph on
 , 
 \emph default
