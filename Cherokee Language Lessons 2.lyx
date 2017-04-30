@@ -374,11 +374,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 1.100 $
+$Revision: 2.000 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2016/11/23 00:50:45 $ UTC
+$Date: 2017/04/24 22:39:19 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -506,7 +506,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 1.100 $
+$Revision: 2.000 $
 \noun default
 .
 \end_layout
@@ -529,10 +529,6 @@ Syllabary Review Practice
 Handwrite
 \bar default
  the English pronunciation for each of the following Cherokee letters:
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -4203,10 +4199,6 @@ Final Practice Part Two.
 Handwrite
 \bar default
  the Cherokee letter for each of the following English pronunciations.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -7905,10 +7897,6 @@ raggedcolumns
 \begin_layout Itemize
 I\SpecialChar ldots
 him
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -7924,10 +7912,6 @@ Set B: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-)
 \begin_layout Itemize
 I\SpecialChar ldots
 it.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -7936,22 +7920,18 @@ Set A: Ꮵ̣-, Ꭶ͓- (jị-, g-)
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
+Set B: ᎠᎩ̣-, ᎠᏆ͓- (a¹gị-, a¹gw-)
 \end_layout
 
 \end_deeper
 \begin_layout Itemize
 I\SpecialChar ldots
 them (animate).
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
-Set A: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²jiy-) 
+Set A: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²ji²y-) 
 \end_layout
 
 \begin_layout Itemize
@@ -7962,10 +7942,6 @@ Set B: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²ji²y-)
 \begin_layout Itemize
 I\SpecialChar ldots
 them (inanimate).
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -7974,7 +7950,7 @@ Set A: ᏕᏥ-, ᏕᎦ͓- (de²ji-, g-)
 \end_layout
 
 \begin_layout Itemize
-Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
+Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (da¹gị-, da¹gw-)
 \end_layout
 
 \end_deeper
@@ -7994,17 +7970,6 @@ Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
 \lang english
 He\SpecialChar ldots
 me.
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8022,7 +7987,7 @@ Set A:
 \noun off
 \color none
 \lang english
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (a¹gị-, a¹gw-)
 \end_layout
 
 \begin_layout Itemize
@@ -8039,7 +8004,7 @@ Set B:
 \noun off
 \color none
 \lang english
-Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (ạ²gị-, ạ²gw-)
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (a¹gị-, a¹gw-)
 \end_layout
 
 \end_deeper
@@ -8059,17 +8024,6 @@ Set B:
 \lang english
 They\SpecialChar ldots
 me.
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8107,17 +8061,6 @@ me.
 \lang english
 He\SpecialChar ldots
 he or it.
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8172,17 +8115,6 @@ Set B:
 \lang english
 He\SpecialChar ldots
 them.
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8242,10 +8174,6 @@ columnbreak{}
 \begin_layout Itemize
 You\SpecialChar ldots
 him.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8261,10 +8189,6 @@ Set B: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-)
 \begin_layout Itemize
 You\SpecialChar ldots
 it.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8280,10 +8204,6 @@ Set B: Ꮳ̣- (jạ-)
 \begin_layout Itemize
 You\SpecialChar ldots
 them (animate).
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8299,10 +8219,6 @@ Set B: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-)
 \begin_layout Itemize
 You\SpecialChar ldots
 them (inanimate).
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8331,17 +8247,6 @@ Set B: ᏕᏣ̣- (de²jạ-)
 \lang english
 He\SpecialChar ldots
 you.
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8396,17 +8301,6 @@ Set B:
 \lang english
 They\SpecialChar ldots
 you.
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8444,17 +8338,6 @@ you.
 \lang english
 They\SpecialChar ldots
 him or it.
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8509,17 +8392,6 @@ Set B:
 \lang english
 They\SpecialChar ldots
 them.
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8650,10 +8522,6 @@ him or her.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8679,10 +8547,6 @@ them (animate).
 You\SpecialChar ldots
 him or her.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -8737,10 +8601,6 @@ it
 \end_inset
 
 , so we know that there is only one squirrel.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8841,10 +8701,6 @@ it
 \end_inset
 
 , so we know that there is only one rabbit.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -8996,17 +8852,6 @@ me.
 \end_inset
 
 
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9058,17 +8903,6 @@ me.
 He\SpecialChar ldots
 you.
 \begin_inset Quotes erd
-\end_inset
-
-
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9125,10 +8959,6 @@ A wolf sees me.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9167,10 +8997,6 @@ The wolves want me.
 
 A rabbit sees you.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9296,17 +9122,6 @@ me.
 \end_inset
 
 
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9361,17 +9176,6 @@ you.
 \end_inset
 
 
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9417,10 +9221,6 @@ A wolf sees me.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9448,10 +9248,6 @@ Like seeing multiple reflections of me in mirrors.
 
 A rabbit sees you.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9498,10 +9294,6 @@ it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9527,10 +9319,6 @@ them (inanimate).
 I\SpecialChar ldots
 it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9572,17 +9360,6 @@ them (inanimate).
 He\SpecialChar ldots
 he or it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9640,17 +9417,6 @@ he or it.
 \end_inset
 
 
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9692,10 +9458,6 @@ it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9721,10 +9483,6 @@ them (inanimate).
 You\SpecialChar ldots
 it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9766,17 +9524,6 @@ them (inanimate).
 They\SpecialChar ldots
 he or it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -9834,17 +9581,6 @@ he or it.
 \end_inset
 
 
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9890,19 +9626,11 @@ I see a trap.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9920,10 +9648,6 @@ I see traps.
 \end_deeper
 \begin_layout Itemize
 ᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9944,10 +9668,6 @@ It does not have to be a different trap for each sighting.
 \end_deeper
 \begin_layout Itemize
 ᏅᏯ ᏕᏥᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -9993,19 +9713,11 @@ You see a chair.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10023,10 +9735,6 @@ You see chairs.
 \end_deeper
 \begin_layout Itemize
 ᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10047,10 +9755,6 @@ It can be either the same chair or a different chair for each sighting.
 \end_deeper
 \begin_layout Itemize
 ᏅᏯ ᏕᎯᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10096,19 +9800,11 @@ He/she sees a chair.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏓᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10126,10 +9822,6 @@ He/she sees chairs.
 \end_deeper
 \begin_layout Itemize
 ᎦᏍᎩᎶ ᏓᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10150,10 +9842,6 @@ It can be either the same chair or a different chair for each sighting.
 \end_deeper
 \begin_layout Itemize
 ᏅᏯ ᏓᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10185,19 +9873,11 @@ The wolf sees a beaver.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏩᎭᏯ ᏙᏯ ᏓᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10234,10 +9914,6 @@ It could be any number of beaver per sighting (including repeatedly seeing
 \end_deeper
 \begin_layout Itemize
 ᏩᏯ ᏧᏃᏗᎨᎢ ᏙᏯ ᏓᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10268,19 +9944,11 @@ The people see a trap.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᎠᏂᏴᏫ ᏗᏌᏛᏗ ᏓᏂᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10298,10 +9966,6 @@ The people see traps.
 \end_deeper
 \begin_layout Itemize
 ᎠᏂᏴᏫ ᏌᏛᏗ ᏓᏂᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10320,10 +9984,6 @@ The people see traps.
 \end_deeper
 \begin_layout Itemize
 ᎠᏂᏴᏫ ᏅᏯ ᏓᏂᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10369,19 +10029,11 @@ The people see a rabbit.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᎠᏂᏴᏫ ᏥᏍᏚ ᏓᏂᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10417,10 +10069,6 @@ It could be any number of rabbits per sighting (including only a single
 \end_deeper
 \begin_layout Itemize
 ᎠᏂᏴᏫ ᎤᏂᏁᎦ ᏥᏍᏚ ᏓᏂᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10485,19 +10133,11 @@ Do you see a squirrel?
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏌᎶᎵᏍ ᎦᎯᎪᏩᏘᎭ?
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10515,10 +10155,6 @@ Do you see squirrels?
 \end_deeper
 \begin_layout Itemize
 ᏌᎶᎵᏍ ᏕᎦᎯᎪᏩᏘᎭ?
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -10596,7 +10232,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏥᎪᏩᏘᎭ.
+ᎬᎩᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏣᎧᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -10604,23 +10252,11 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏂᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎨᏣᏚᎵᎭ.
+ᏣᎭ.
 \end_layout
 
 \begin_layout Enumerate
 ᎠᎩᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎩᎧᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -10667,19 +10303,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏕᎯᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏣᎧᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏚᎵᎭ.
+ᏥᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -10687,11 +10311,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᎪᏩᏘᎭ.
+Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-Ꮵ̣ᎪᏩᏘᎭ.
+ᏓᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏕᏥ̣ᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏚᎵᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎧᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -10738,27 +10374,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᏯᎧᎭ.
+ᏕᏣᎧᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏕᏥ̣ᎪᏩᏘᎭ.
+ᎨᏣᏚᎵᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎦᏥᎧᎭ.
+ᎤᏂᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎦᎯᏯᎧᎭ.
+ᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎩᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏣᎭ.
+ᏕᎯᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -11099,37 +10731,37 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏥᎪᏩᏘᎭ.
+ᎬᎩᎪᏩᏘᎭ.
+ [18]
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎭ.
+ [15]
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎩᎧᎭ.
+ [13]
+\end_layout
+
+\begin_layout Enumerate
+ᏣᎧᎭ.
  [9]
 \end_layout
 
 \begin_layout Enumerate
 ᏓᏆᏚᎵᎭ.
- [2]
+ [17]
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏂᎭ.
- [13]
-\end_layout
-
-\begin_layout Enumerate
-ᎨᏣᏚᎵᎭ.
- [20]
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎩᎭ.
- [1]
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎩᎧᎭ.
+ᏣᎭ.
  [11]
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎪᏩᏘᎭ.
+ᎠᎩᎭ.
  [10]
 \end_layout
 
@@ -11177,38 +10809,38 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏕᎯᎪᏩᏘᎭ.
- [5]
-\end_layout
-
-\begin_layout Enumerate
-ᏣᎧᎭ.
- [6]
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎭ.
+ᏥᎪᏩᏘᎭ.
  [7]
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏚᎵᎭ.
- [18]
-\end_layout
-
-\begin_layout Enumerate
 ᎤᏩᎧᎭ.
- [17]
-\end_layout
-
-\begin_layout Enumerate
-ᎯᎪᏩᏘᎭ.
- [16]
+ [2]
 \end_layout
 
 \begin_layout Enumerate
 Ꮵ̣ᎪᏩᏘᎭ.
- [14]
+ [1]
+\end_layout
+
+\begin_layout Enumerate
+ᏓᎪᏩᏘᎭ.
+ [16]
+\end_layout
+
+\begin_layout Enumerate
+ᏕᏥ̣ᎪᏩᏘᎭ.
+ [3]
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏚᎵᎭ.
+ [4]
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎧᎭ.
+ [12]
 \end_layout
 
 \begin_layout Standard
@@ -11255,33 +10887,28 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎯᏯᎧᎭ.
- [19]
-\end_layout
-
-\begin_layout Enumerate
-ᏕᏥ̣ᎪᏩᏘᎭ.
+ᏕᏣᎧᎭ.
  [8]
 \end_layout
 
 \begin_layout Enumerate
-ᎦᏥᎧᎭ.
- [15]
+ᎨᏣᏚᎵᎭ.
+ [14]
 \end_layout
 
 \begin_layout Enumerate
-ᎦᎯᏯᎧᎭ.
- [12]
+ᎤᏂᎭ.
+ [5]
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎩᎪᏩᏘᎭ.
- [4]
+ᎯᎪᏩᏘᎭ.
+ [19]
 \end_layout
 
 \begin_layout Enumerate
-ᏣᎭ.
- [3]
+ᏕᎯᎪᏩᏘᎭ.
+ [6]
 \end_layout
 
 \begin_layout Standard
@@ -12070,10 +11697,6 @@ His head.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -12112,10 +11735,6 @@ Fast.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -12143,10 +11762,6 @@ A floor.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -12170,10 +11785,6 @@ Floors.
 
 Slow.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -12208,10 +11819,6 @@ A detached head or skull.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -12236,10 +11843,6 @@ Detached heads or skulls.
 His stomach.
  His abdomen.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -12278,10 +11881,6 @@ Your one's stomach.
 
 A board.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -12328,10 +11927,6 @@ A doorway.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -12356,10 +11951,6 @@ Doorways.
 
 Fast.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -12395,10 +11986,6 @@ A tool for writing.
 
 A board.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -12457,10 +12044,6 @@ A writing board.
  A chalkboard.
  A whiteboard.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -16341,17 +15924,6 @@ The following new bound pronouns are used in this lesson.
 \color none
 \lang english
 ᏍᏗ- (sdi-)
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -16396,17 +15968,6 @@ you two.
 \color none
 \lang english
 ᎢᏥ- (i²ji-)
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -16481,17 +16042,6 @@ The bound pronouns
 \color none
 \lang english
 ᎡᏍᏗ- (e²sdi-)
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -16534,17 +16084,6 @@ being.
 \color none
 \lang english
 ᎡᏥ- (e²ji-)
-\family default
-\series default
-\shape default
-\size default
-\bar default
-\color inherit
-
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -22474,10 +22013,6 @@ A store.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -22496,10 +22031,6 @@ Sweet.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -22515,10 +22046,6 @@ Sweet.
 
 Ugly.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -22541,10 +22068,6 @@ Ugly.
 
 Pretty.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -22694,10 +22217,6 @@ Another.
  An additional one.
  The next one.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -24866,10 +24385,6 @@ He is seeing it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -25577,10 +25092,6 @@ He wants it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -25873,10 +25384,6 @@ I want to see it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -25893,10 +25400,6 @@ For me to see it I am wanting.
 
 I want to want it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -25919,10 +25422,6 @@ I want you to see it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -25939,10 +25438,6 @@ For you to see it I am wanting.
 
 He wants you to see it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -25965,10 +25460,6 @@ He wanted you to see it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -25985,10 +25476,6 @@ For you to see he wanted.
 
 I wanted him to see it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -26011,10 +25498,6 @@ He often wants you to see it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -26031,10 +25514,6 @@ For you to see it he often wants.
 
 He wants me to want him to see a wolf.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -26116,10 +25595,6 @@ raggedcolumns
 
 He sees him or it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -26209,10 +25684,6 @@ For him\SpecialChar ldots
 
 He is saying it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -26318,10 +25789,6 @@ columnbreak{}%
 
 He wants him or it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -29537,10 +29004,6 @@ Eating a potato.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -29637,10 +29100,6 @@ status open
 Pushing a shopping cart.
 \end_layout
 
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -29748,10 +29207,6 @@ Al
 .
 \end_layout
 
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -29869,10 +29324,6 @@ An oven.
 \end_inset
 
  
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -29977,10 +29428,6 @@ Al
 .
 \end_layout
 
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -30684,10 +30131,6 @@ them (inanimate).
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -30712,10 +30155,6 @@ them (inanimate).
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -30766,10 +30205,6 @@ them.
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -30846,10 +30281,6 @@ them.
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -30927,10 +30358,6 @@ them
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -30991,10 +30418,6 @@ them
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31046,10 +30469,6 @@ them (inanimate).
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31074,10 +30493,6 @@ them (inanimate).
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31130,10 +30545,6 @@ them.
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31210,10 +30621,6 @@ them.
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31291,10 +30698,6 @@ them.
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31367,10 +30770,6 @@ them.
 \end_inset
 
  pronunciation.)
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31443,19 +30842,11 @@ I see a trap.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᏌᏛᏗ ᏕᏥᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31473,10 +30864,6 @@ I see traps.
 \end_deeper
 \begin_layout Itemize
 ᏌᏛᏗ ᏫᏥᎪᏩᏔ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31494,10 +30881,6 @@ Let me see the trap.
 \end_deeper
 \begin_layout Itemize
 ᏗᏌᏛᏗ ᏫᏗᏥᏬᏩᏔ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31525,19 +30908,11 @@ You see a chair.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏕᎯᎪᏩᏘᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31555,10 +30930,6 @@ You see chairs.
 \end_deeper
 \begin_layout Itemize
 ᎦᏍᎩᎶ ᎯᎪᏩᏔ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31576,10 +30947,6 @@ See the chair.
 \end_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏘᎪᏩᏔ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31607,19 +30974,11 @@ He wants the chair.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏚᏚᎵᎭ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31637,10 +30996,6 @@ He wants the chairs.
 \end_deeper
 \begin_layout Itemize
 ᎦᏍᎩᎶ ᏭᏚᎳ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -31658,10 +31013,6 @@ Let him want the chair.
 \end_deeper
 \begin_layout Itemize
 ᏗᎦᏍᎩᎶ ᏫᏧᏚᎳ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -32929,10 +32280,6 @@ I am pretty.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -32957,10 +32304,6 @@ The
 \end_inset
 
  ending indicates I know that I was pretty, perhaps by looking in a mirror.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -33010,10 +32353,6 @@ Only the
 \end_inset
 
  ending is used in this sentence.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -33132,10 +32471,6 @@ He/she is shopping.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -33164,10 +32499,6 @@ Some place out of my sight.
 
 John is saying it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -33201,10 +32532,6 @@ Mary sees it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -33232,10 +32559,6 @@ Mary sees it while facing away from me.
 
 Jennifer is baking it.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -33859,10 +33182,6 @@ The end of the word uses a normal
 \end_inset
 
  high fall tone pattern.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -33902,10 +33221,6 @@ The end of the word uses a normal
 \end_inset
 
  high fall tone pattern.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -34055,10 +33370,6 @@ Let him see it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -34097,10 +33408,6 @@ Maybe he is about to see it.
 
 Let you speak.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -34213,10 +33520,6 @@ Let me see it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -34277,10 +33580,6 @@ Let you want it.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -34338,10 +33637,6 @@ It's possible that you are about to want it.
 
 Let you speak.
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -35006,10 +34301,6 @@ baby
 \end_inset
 
  is short.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -35070,10 +34361,6 @@ little
 \end_inset
 
  is long.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -35105,10 +34392,6 @@ Offspring
 
 Egg
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -35740,10 +35023,6 @@ You will find the dialogues in a ready to translate format after the comic.
 
 \begin_layout Standard
 \begin_inset Newpage cleardoublepage
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -38671,10 +37950,6 @@ raggedcolumns
 
 \begin_layout Enumerate
 Gadu ᎤᎦᎾᏍᏓ gaduhvsga.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38688,10 +37963,6 @@ Gadus gaduhvsga?
 \end_deeper
 \begin_layout Enumerate
 ᏌᎪᏂᎨᎢ nvya agwadulvhvi.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38704,10 +37975,6 @@ Hla.
 \end_deeper
 \begin_layout Enumerate
 Gadu ᎤᎦᎾᏍᏓ ᎠᎴ jisdu hawiya ᏓᎩᎬᎢ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38720,10 +37987,6 @@ Gadus ᎠᎩᎨᎢ?
 \end_deeper
 \begin_layout Enumerate
 Ꮎ ᎠᏂᏔᎵ unaduliha ᎠᏂᏔᎵ ᏌᎶᎵ dinigowhtvhdi.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38738,10 +38001,6 @@ Hla.
 \begin_layout Enumerate
 Agwantvi.
  Entoni wahya ugowhtvhdi udulvhei.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38755,10 +38014,6 @@ Hla.
 \end_deeper
 \begin_layout Enumerate
 ᏔᎵ ᎢᎦ gadu ᎤᏂᎦᎾᏍᏓ dejawaduhnei.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38771,10 +38026,6 @@ Taliju ᎢᎦ dejawaduhnei?
 \end_deeper
 \begin_layout Enumerate
 Doya hawiya ᎠᎴ gadu ᎤᎦᎾᏍᏓ danaduhvsga.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38788,10 +38039,6 @@ Hla.
 \end_deeper
 \begin_layout Enumerate
 Udulvhvi ᏌᏊ ugowhtvhdi.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38805,10 +38052,6 @@ Hla.
 \end_deeper
 \begin_layout Enumerate
 Entoni jisdu hawiya ᎠᎩᎠ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38821,10 +38064,6 @@ Entoni.
 \end_deeper
 \begin_layout Enumerate
 Dejiduhvsgoi gatiyoi.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38838,10 +38077,6 @@ Gatiyoi.
 \begin_layout Enumerate
 Agwaduliha dijagisdi.
  Ꮎ ᏔᎵ gadu ᎤᏂᎦᎾᏍᏓ ᎤᎿ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38855,10 +38090,6 @@ Agwaduliha dijagisdi.
 \begin_layout Enumerate
 Doya udulvhei.
  Doya hawiya ᎤᎩᏍᏗ udulvhei.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38872,10 +38103,6 @@ Doya hawiya ugisdi udulvhei.
 \begin_layout Enumerate
 Ꮎ ᏓᎶᏂᎨᎢ gadu ᎤᎦᎾᏍᏓ agiwaduhnvi.
  Ꮎ ᏌᎪᏂᎨᎢ gadu ᎤᎦᎾᏍᏓ jawaduhnvi.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38889,10 +38116,6 @@ Gado ᎤᏍᏗ jawaduhnvei?
 \begin_layout Enumerate
 Uduliha gajigowhtvhdi Ꮎ wahya.
  Hla yuduliha gajigowhtvhdi Ꮎ ahwi.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38914,10 +38137,6 @@ Entoni udvhnei,
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38930,10 +38149,6 @@ Gado ᎤᏍᏗ Entoni udulvhei ᏆᏆᎠ uwatdi?
 \end_deeper
 \begin_layout Enumerate
 Ꮎ doya hawiya ᎠᎴ Ꮎ ᏌᎶᎵ hawiya ᏓᎩᎬᎢ.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
@@ -38949,10 +38164,6 @@ Agwaduliha doya hawiya jagisdi.
  Hla yagwaduliha ᏌᎶᎵ hawiya jagisdi.
  Agwaduliha ahwi hawiya jagisdi.
  Hla yagwaduliha gado ᎤᎦᎾᏍᏓ jagisdi.
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
