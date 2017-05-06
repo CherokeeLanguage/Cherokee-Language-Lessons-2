@@ -374,11 +374,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.003 $
+$Revision: 2.004 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2017/04/30 18:54:05 $ UTC
+$Date: 2017/05/06 01:16:12 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -506,7 +506,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.003 $
+$Revision: 2.004 $
 \noun default
 .
 \end_layout
@@ -10625,7 +10625,7 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/jpgs/ajalagi-hiigowhtiha.jpg
+	filename artwork/answer-pictures/02/jpgs/hiigowhtiha.jpg
 	lyxscale 30
 	width 85col%
 	groupId 4up
@@ -10682,6 +10682,13 @@ status collapsed
 end{multicols}
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -11421,6 +11428,13 @@ status collapsed
 end{multicols}
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
 \end_inset
 
 
