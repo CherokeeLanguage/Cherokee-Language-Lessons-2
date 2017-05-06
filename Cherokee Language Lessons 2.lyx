@@ -374,11 +374,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.002 $
+$Revision: 2.003 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2017/04/30 18:42:05 $ UTC
+$Date: 2017/04/30 18:54:05 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -506,7 +506,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.002 $
+$Revision: 2.003 $
 \noun default
 .
 \end_layout
@@ -10232,23 +10232,7 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎩᎪᏩᏘᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏓᎩᎧᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏣᎧᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᏓᏆᏚᎵᎭ.
+ᎠᎩᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -10256,7 +10240,23 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎩᎭ.
+ᎤᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏥᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎧᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏕᏥ̣ᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏩᎧᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -10303,31 +10303,31 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏥᎪᏩᏘᎭ.
+ᏓᏆᏚᎵᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏩᎧᎭ.
+ᏕᏣᎧᎭ.
 \end_layout
 
 \begin_layout Enumerate
-Ꮵ̣ᎪᏩᏘᎭ.
+ᎤᏂᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎪᏩᏘᎭ.
+ᏓᎩᎧᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᏕᏥ̣ᎪᏩᏘᎭ.
+ᎬᎩᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᏣᎧᎭ.
 \end_layout
 
 \begin_layout Enumerate
 ᎤᏚᎵᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎠᎩᎧᎭ.
 \end_layout
 
 \begin_layout Standard
@@ -10374,19 +10374,19 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏕᏣᎧᎭ.
+Ꮵ̣ᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
-ᎨᏣᏚᎵᎭ.
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏂᎭ.
+ᏓᎪᏩᏘᎭ.
 \end_layout
 
 \begin_layout Enumerate
 ᎯᎪᏩᏘᎭ.
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏣᏚᎵᎭ.
 \end_layout
 
 \begin_layout Enumerate
@@ -10577,7 +10577,7 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/jpgs/wesa-gahiyakaha.jpg
+	filename artwork/answer-pictures/02/jpgs/wesa-dejakaha.jpg
 	lyxscale 30
 	width 85col%
 	groupId 4up
@@ -10613,7 +10613,7 @@ raggedcolumns
 
 \begin_layout Enumerate
 \begin_inset Graphics
-	filename artwork/answer-pictures/02/jpgs/gihli-gajiyakaha.jpg
+	filename artwork/answer-pictures/02/jpgs/gihli-dagikaha.jpg
 	lyxscale 30
 	width 85col%
 	groupId 4up
@@ -10650,18 +10650,6 @@ raggedcolumns
 \begin_layout Enumerate
 \begin_inset Graphics
 	filename artwork/answer-pictures/02/jpgs/uduliha_03.jpg
-	lyxscale 30
-	width 85col%
-	groupId 4up
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Enumerate
-\begin_inset Graphics
-	filename artwork/answer-pictures/02/jpgs/hiyakaha_02.jpg
 	lyxscale 30
 	width 85col%
 	groupId 4up
@@ -10731,38 +10719,38 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎬᎩᎪᏩᏘᎭ.
- [18]
-\end_layout
-
-\begin_layout Enumerate
-ᎤᎭ.
- [15]
-\end_layout
-
-\begin_layout Enumerate
-ᏓᎩᎧᎭ.
- [13]
-\end_layout
-
-\begin_layout Enumerate
-ᏣᎧᎭ.
- [9]
-\end_layout
-
-\begin_layout Enumerate
-ᏓᏆᏚᎵᎭ.
- [17]
+ᎠᎩᎭ.
+ [1]
 \end_layout
 
 \begin_layout Enumerate
 ᏣᎭ.
+ [3]
+\end_layout
+
+\begin_layout Enumerate
+ᎤᎭ.
+ [7]
+\end_layout
+
+\begin_layout Enumerate
+ᏥᎪᏩᏘᎭ.
+ [9]
+\end_layout
+
+\begin_layout Enumerate
+ᎠᎩᎧᎭ.
  [11]
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎩᎭ.
- [10]
+ᏕᏥ̣ᎪᏩᏘᎭ.
+ [8]
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏩᎧᎭ.
+ [17]
 \end_layout
 
 \begin_layout Standard
@@ -10809,38 +10797,38 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏥᎪᏩᏘᎭ.
- [7]
-\end_layout
-
-\begin_layout Enumerate
-ᎤᏩᎧᎭ.
+ᏓᏆᏚᎵᎭ.
  [2]
 \end_layout
 
 \begin_layout Enumerate
-Ꮵ̣ᎪᏩᏘᎭ.
- [1]
+ᏕᏣᎧᎭ.
+ [12]
 \end_layout
 
 \begin_layout Enumerate
-ᏓᎪᏩᏘᎭ.
- [16]
+ᎤᏂᎭ.
+ [13]
 \end_layout
 
 \begin_layout Enumerate
-ᏕᏥ̣ᎪᏩᏘᎭ.
- [3]
+ᏓᎩᎧᎭ.
+ [15]
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏚᎵᎭ.
+ᎬᎩᎪᏩᏘᎭ.
  [4]
 \end_layout
 
 \begin_layout Enumerate
-ᎠᎩᎧᎭ.
- [12]
+ᏣᎧᎭ.
+ [6]
+\end_layout
+
+\begin_layout Enumerate
+ᎤᏚᎵᎭ.
+ [18]
 \end_layout
 
 \begin_layout Standard
@@ -10887,28 +10875,28 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏕᏣᎧᎭ.
- [8]
-\end_layout
-
-\begin_layout Enumerate
-ᎨᏣᏚᎵᎭ.
+Ꮵ̣ᎪᏩᏘᎭ.
  [14]
 \end_layout
 
 \begin_layout Enumerate
-ᎤᏂᎭ.
- [5]
+ᏓᎪᏩᏘᎭ.
+ [10]
 \end_layout
 
 \begin_layout Enumerate
 ᎯᎪᏩᏘᎭ.
+ [16]
+\end_layout
+
+\begin_layout Enumerate
+ᎨᏣᏚᎵᎭ.
  [19]
 \end_layout
 
 \begin_layout Enumerate
 ᏕᎯᎪᏩᏘᎭ.
- [6]
+ [5]
 \end_layout
 
 \begin_layout Standard
