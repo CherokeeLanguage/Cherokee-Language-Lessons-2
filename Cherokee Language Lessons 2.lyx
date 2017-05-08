@@ -374,11 +374,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.008 $
+$Revision: 2.009 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2017/05/07 16:56:46 $ UTC
+$Date: 2017/05/07 23:41:49 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -506,7 +506,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.008 $
+$Revision: 2.009 $
 \noun default
 .
 \end_layout
@@ -15144,29 +15144,65 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏦᏞᏍᏗ.
+ᎦᏣᏄᎵ ᏦᏞᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ.
+Sit quickly.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎤᏍᎦᏃᎵ ᏦᏞᏍᏗ.
+ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ.
+Walk slowly.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎭᎦᏔᎲᎾ.
+ᎦᏣᏄᎵ ᏦᏞᏍᏗ.
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+Sit quickly.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk slowly.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏍᎦᏃᎵ ᎭᎦᏔᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Turn around slowly.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 ᎦᏣᏄᎵ ᎯᏙᎨᏍᏗ.
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+Stand quickly.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15211,29 +15247,65 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏅᏯ ᎾᎥ ᎯᏙᎨᏍᏗ.
+ᎦᏣᏄᎵ ᎭᎦᏔᎲᎾ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎤᏍᎦᏃᎵ ᏦᏞᏍᏗ.
+Turn around quickly.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ.
+ᎤᏍᎦᏃᎵ ᎯᏙᎨᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏥᏍᏚ ᎾᎥ ᎯᏙᎨᏍᏗ.
+Stand slowly.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎭᎦᏔᎲᎾ.
+ᏅᏯ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏄᎾ ᎭᏒᏂᎦ.
+Touch the rock twice.
 \end_layout
 
+\end_deeper
+\begin_layout Enumerate
+ᏄᎾ ᎾᎥ ᎯᏙᎨᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Stand near the potato.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏣᏄᎵ ᏦᏞᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sit quickly.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk slowly.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15278,29 +15350,65 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᏥᏍᏚ ᎾᎥ ᎯᏙᎨᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Stand near the rabbit.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏍᎦᏃᎵ ᎭᎦᏔᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Turn around slowly.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
 ᎦᏣᏄᎵ ᎯᏙᎨᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏅᏯ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
+Stand quickly.
 \end_layout
 
-\begin_layout Enumerate
-ᎩᏟ ᎯᏯᏒᏂᎦ.
-\end_layout
-
-\begin_layout Enumerate
-ᎩᏟ ᎾᎥ ᎯᏙᎨᏍᏗ.
-\end_layout
-
+\end_deeper
 \begin_layout Enumerate
 ᏥᏍᏚ ᎯᏯᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, ᎤᏍᎦᏃᎵ ᏦᏞᏍᏗ.
+Touch the rabbit.
 \end_layout
 
+\end_deeper
+\begin_layout Enumerate
+ᏄᎾ ᎭᏒᏂᎦ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Touch the potato.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ ᎯᏯᏒᏂᎦ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Touch the dog.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15345,29 +15453,65 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏄᎾ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
+ᎭᎢᏎᏍᏗ, ᎦᏣᏄᎵ ᏦᏞᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏦᏞᏍᏗ, ᎭᎦᏔᎲᎾ.
+Walk then quickly sit.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᏥᏍᏚ ᎯᏯᏒᏂᎦ.
+ᎩᏟ ᎾᎥ ᎯᏙᎨᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏦᏞᏍᏗ, ᎤᏍᎦᏃᎵ ᎯᏙᎨᏍᏗ.
+Stand near the dog.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, ᏦᏞᏍᏗ.
+ᎭᎢᏎᏍᏗ, ᎤᏍᎦᏃᎵ ᏦᏞᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏦᏞᏍᏗ, ᎯᏙᎨᏍᏗ.
+Walk then slowly sit.
 \end_layout
 
+\end_deeper
+\begin_layout Enumerate
+ᏦᏞᏍᏗ, ᎤᏍᎦᏃᎵ ᎭᎦᏔᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sit then turn around slowly.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ ᏔᎵ ᎢᎦ ᎯᏯᏒᏂᎦ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Touch the rabbit twice.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏦᏞᏍᏗ, ᎦᏣᏄᎵ ᎯᏙᎨᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sit then stand quickly.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15412,29 +15556,65 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᏅᏯ ᎾᎥ ᎦᏣᏄᎵ ᏦᏞᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sit quickly near the rock.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎭᎢᏎᏍᏗ, ᎤᏍᎦᏃᎵ ᏦᏞᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk then slowly sit.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏦᏞᏍᏗ, ᎤᏍᎦᏃᎵ ᎯᏙᎨᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sit then stand slowly.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏦᏞᏍᏗ, ᎦᏣᏄᎵ ᎭᎦᏔᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sit then turn around quickly.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ ᎾᎥ ᎤᏍᎦᏃᎵ ᏦᏞᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sit slowly near the dog.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
 ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ, ᎭᎴᏫᏍᏓ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏦᏞᏍᏗ, ᎭᎦᏔᎲᎾ.
+Walk quickly then stop.
 \end_layout
 
-\begin_layout Enumerate
-ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ, ᎭᎴᏫᏍᏓ.
-\end_layout
-
-\begin_layout Enumerate
-ᏄᎾ ᎾᎥ ᏦᏞᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᏦᏞᏍᏗ, ᎦᏣᏄᎵ ᎯᏙᎨᏍᏗ.
-\end_layout
-
-\begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, ᎭᎦᏔᎲᎾ.
-\end_layout
-
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15479,29 +15659,65 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎩᏟ ᎾᎥ ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ.
+ᏦᏞᏍᏗ, ᎦᏣᏄᎵ ᎯᏙᎨᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, ᎭᎴᏫᏍᏓ.
+Sit then stand quickly.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
 ᎭᎢᏎᏍᏗ, ᎤᏍᎦᏃᎵ ᎭᎦᏔᎲᎾ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏄᎾ ᎾᎥ ᏦᏞᏍᏗ.
+Walk then slowly turn around.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᏥᏍᏚ ᎾᎥ ᎭᎢᏎᏍᏗ.
+ᏄᎾ ᎾᎥ ᎦᏣᏄᎵ ᏦᏞᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎤᏍᎦᏃᎵ ᏦᏞᏍᏗ.
+Sit quickly near the potato.
 \end_layout
 
+\end_deeper
+\begin_layout Enumerate
+ᎭᎢᏎᏍᏗ, ᎤᏍᎦᏃᎵ ᎭᎦᏔᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk then slowly turn around.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ, ᎭᎴᏫᏍᏓ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk slowly then stop.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏥᏍᏚ ᎾᎥ ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk quickly near the rabbit.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15546,29 +15762,65 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ, Ꮭ ᏥᎭᎴᏫᏍᏓ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk slowly, don't stop.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏣᏄᎵ ᏦᏞᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sit quickly.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
 ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, Ꮭ ᏥᎭᎴᏫᏍᏓ.
+Walk quickly.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎭᎦᏔᎲᎾ.
+ᎭᎢᏎᏍᏗ, ᎤᏍᎦᏃᎵ ᎭᎦᏔᎲᎾ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, ᎦᏣᏄᎵ ᎭᎦᏔᎲᎾ.
+Walk then slowly turn around.
 \end_layout
 
+\end_deeper
+\begin_layout Enumerate
+ᎦᏣᏄᎵ ᎭᎦᏔᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Turn around quickly.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 ᎤᏍᎦᏃᎵ ᎯᏙᎨᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏅᏯ ᎾᎥ ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ.
+Stand slowly.
 \end_layout
 
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15613,30 +15865,67 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, Ꮭ ᏥᎭᎴᏫᏍᏓ.
+ᏅᏯ ᎾᎥ ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏥᏍᏚ ᎾᎥ ᎯᏙᎨᏍᏗ.
+Walk slowly near the rock.
 \end_layout
 
-\begin_layout Enumerate
-ᎯᎠ ᎩᏟ.
- ᏥᏍᎪᎵ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
-\end_layout
-
+\end_deeper
 \begin_layout Enumerate
 ᏅᏯ ᎭᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, Ꮭ ᏥᎭᎴᏫᏍᏓ.
+Touch the rock.
 \end_layout
 
+\end_deeper
+\begin_layout Enumerate
+ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ, Ꮭ ᏥᎭᎴᏫᏍᏓ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk quickly, don't stop.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎩᏟ ᎾᎥ ᎯᏙᎨᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Stand near the dog.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎩᏟ.
+ ᎠᎩᏍᏉᏟᎢ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This is dog.
+ Touch my stomach.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 ᎩᏟ ᎯᏯᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+Touch the dog.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15681,32 +15970,71 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, ᎤᏍᎦᏃᎵ ᏦᏞᏍᏗ.
+ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ, Ꮭ ᏥᎭᎴᏫᏍᏓ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎯᎠ ᏥᏍᏚ.
- ᎠᎩᏍᏉᏟᎢ ᎭᏒᏂᎦ.
+Walk slowly, don't stop.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᏦᏞᏍᏗ, ᎦᏣᏄᎵ ᎭᎦᏔᎲᎾ.
+ᎭᎢᏎᏍᏗ, ᎦᏣᏄᎵ ᏦᏞᏍᏗ.
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+Walk then quickly sit.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 ᎯᎠ ᎩᏟ.
- ᏥᏍᏚ ᎠᏍᎪᎵ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
+ ᏥᏍᏚ ᎠᏍᎪᎵ ᎭᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏦᏞᏍᏗ, ᎯᏙᎨᏍᏗ.
+This is dog.
+ Touch rabbit's head.
 \end_layout
 
+\end_deeper
+\begin_layout Enumerate
+ᏦᏞᏍᏗ, ᎤᏍᎦᏃᎵ ᎭᎦᏔᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sit then turn around slowly.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 ᎯᎠ ᏥᏍᏚ.
- ᎩᏟ ᎤᏍᏉᏟᎢ ᎭᏒᏂᎦ.
+ ᏥᏍᎪᎵ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+This is rabbit.
+ Touch my head.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎩᏟ.
+ ᏥᏍᏚ ᎤᏍᏉᏟᎢ ᎭᏒᏂᎦ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This is dog.
+ Touch rabbit's stomach.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15751,31 +16079,71 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, ᎭᎴᏫᏍᏓ.
+ᎯᎠ ᏥᏍᏚ.
+ ᎩᏟ ᎤᏍᏉᏟᎢ ᎭᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏄᎾ ᎾᎥ ᎤᏍᎦᏃᎵ ᏦᏞᏍᏗ.
+This is rabbit.
+ Touch dog's stomach.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎯᎠ ᎩᏟ.
- ᏥᏍᏚ ᎠᏍᎪᎵ ᎭᏒᏂᎦ.
+ᏦᏞᏍᏗ, ᎦᏣᏄᎵ ᎯᏙᎨᏍᏗ.
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+Sit then stand quickly.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 ᎯᎠ ᏥᏍᏚ.
- ᎩᏟ ᎤᏍᏉᏟᎢ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
+ ᎩᏟ ᎠᏍᎪᎵ ᎭᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, ᎭᎦᏔᎲᎾ.
+This is rabbit.
+ Touch dog's head.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎩᏟ ᎾᎥ ᎭᎢᏎᏍᏗ.
+ᏅᏯ ᎾᎥ ᎦᏣᏄᎵ ᏦᏞᏍᏗ.
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+Sit quickly near the rock.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ, ᎭᎴᏫᏍᏓ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk slowly then stop.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎩᏟ.
+ ᏥᏍᏚ ᎤᏍᏉᏟᎢ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This is dog.
+ Touch rabbit's stomach twice.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15821,31 +16189,66 @@ raggedcolumns
 
 \begin_layout Enumerate
 ᎯᎠ ᏥᏍᏚ.
- ᎩᏟ ᎤᏍᏉᏟᎢ ᎭᏒᏂᎦ.
+ ᎩᏟ ᎠᏍᎪᎵ ᎭᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
+\begin_layout Enumerate
+This is rabbit.
+ Touch dog's head.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ ᎠᏎᏃ ᏥᏍᏚ ᎾᎥ Ꮭ ᏱᎭᎢᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk quickly but do not walk near the rabbit.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎭᎢᏎᏍᏗ, ᎤᏍᎦᏃᎵ ᎭᎦᏔᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk then slowly turn around.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᏄᎾ ᎾᎥ ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk quickly near the potato.
+\end_layout
+
+\end_deeper
 \begin_layout Enumerate
 ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ ᎠᏎᏃ ᏅᏯ ᎾᎥ Ꮭ ᏱᎭᎢᏎᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ, Ꮭ ᏥᎭᎴᏫᏍᏓ.
+Walk slowly but do not walk near the rock.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎯᎠ ᏥᏍᏚ.
- ᎠᎩᏍᏉᏟᎢ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
+ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ, Ꮭ ᏥᎭᎴᏫᏍᏓ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ ᎠᏎᏃ ᏅᏯ ᎾᎥ Ꮭ ᏱᎭᎢᏎᏍᏗ.
+Walk slowly, don't stop.
 \end_layout
 
-\begin_layout Enumerate
-ᎯᎠ ᎩᏟ.
- ᏥᏍᏚ ᎠᏍᎪᎵ ᎭᏒᏂᎦ.
-\end_layout
-
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15890,30 +16293,71 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
+ᎯᎠ ᎩᏟ.
+ ᏥᏍᎪᎵ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This is dog.
+ Touch my head.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎯᎠ ᎩᏟ.
+ ᏥᏍᏚ ᎤᏍᏉᏟᎢ ᎭᏒᏂᎦ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This is dog.
+ Touch rabbit's stomach.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
 ᎯᎠ ᏥᏍᏚ.
  ᎩᏟ ᎠᏍᎪᎵ ᎭᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ ᎠᏎᏃ ᎩᏟ ᎾᎥ Ꮭ ᏱᎭᎢᏎᏍᏗ.
+This is rabbit.
+ Touch dog's head.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎭᎦᏔᎲᎾ.
+ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ ᎠᏎᏃ ᏄᎾ ᎾᎥ Ꮭ ᏱᎭᎢᏎᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎦᏣᏄᎵ ᎯᏙᎨᏍᏗ.
+Walk quickly but do not walk near the potato.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ, ᏦᏞᏍᏗ.
+ᏄᎾ ᎭᏒᏂᎦ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᏦᏞᏍᏗ, ᎦᏣᏄᎵ ᎭᎦᏔᎲᎾ.
+Touch the potato.
 \end_layout
 
+\end_deeper
+\begin_layout Enumerate
+ᏦᏞᏍᏗ, ᎤᏍᎦᏃᎵ ᎭᎦᏔᎲᎾ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Sit then turn around slowly.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
@@ -15958,23 +16402,47 @@ raggedcolumns
 \end_layout
 
 \begin_layout Enumerate
-ᏥᏍᏚ ᎾᎥ ᎤᏍᎦᏃᎵ ᏦᏞᏍᏗ.
+ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ, ᎭᎴᏫᏍᏓ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎯᎠ ᎩᏟ.
- ᏥᏍᎪᎵ ᎭᏒᏂᎦ.
+Walk quickly then stop.
 \end_layout
 
+\end_deeper
 \begin_layout Enumerate
-ᎯᎠ ᎩᏟ.
- ᏥᏍᏚ ᎤᏍᏉᏟᎢ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
+ᎩᏟ ᎾᎥ ᎤᏍᎦᏃᎵ ᎭᎢᏎᏍᏗ.
 \end_layout
 
+\begin_deeper
 \begin_layout Enumerate
-ᎭᎢᏎᏍᏗ ᎠᏎᏃ ᏄᎾ ᎾᎥ Ꮭ ᏱᎭᎢᏎᏍᏗ.
+Walk slowly near the dog.
 \end_layout
 
+\end_deeper
+\begin_layout Enumerate
+ᎯᎠ ᏥᏍᏚ.
+ ᎠᎩᏍᏉᏟᎢ ᏔᎵ ᎢᎦ ᎭᏒᏂᎦ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+This is rabbit.
+ Touch my stomach.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+ᎦᏣᏄᎵ ᎭᎢᏎᏍᏗ ᎠᏎᏃ ᏥᏍᏚ ᎾᎥ Ꮭ ᏱᎭᎢᏎᏍᏗ.
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+Walk quickly but do not walk near the rabbit.
+\end_layout
+
+\end_deeper
 \begin_layout Standard
 \begin_inset ERT
 status collapsed
