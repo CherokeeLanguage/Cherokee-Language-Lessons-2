@@ -374,11 +374,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.018 $
+$Revision: 2.019 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2017/05/21 14:40:30 $ UTC
+$Date: 2017/05/21 14:45:04 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -506,7 +506,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.018 $
+$Revision: 2.019 $
 \noun default
 .
 \end_layout
@@ -17268,7 +17268,7 @@ Label each card on the reverse as follows:
 \end_layout
 
 \begin_layout Itemize
-ᏗᏍᏗᏙᎨᏍᏗ, ᏗᏍᏙᏞᏍᏗ, ᏞᏍᏗ
+ᏕᏍᏗᏙᎨᏍᏗ, ᏕᏍᏙᏞᏍᏗ, ᏞᏍᏗ
 \begin_inset space ~
 \end_inset
 
@@ -17292,23 +17292,23 @@ Label each card on the reverse as follows:
 \begin_inset space ~
 \end_inset
 
-ᏥᏍᏓᏒᏂᎦ, ᏞᏍᏗ
+ᏥᏍᏓᏒᏂᎦ, Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏥᏙᏍᏗᏙᎨᏍᏗ, ᏞᏍᏗ
+ᏱᏗᏍᏗᏙᎨᏍᏗ, Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏥᏙᏍᏙᏞᏍᏗ, ᎡᏣᏒᏂᎦ.
+ᏱᏗᏍᏙᏞᏍᏗ, ᎡᏣᏒᏂᎦ.
 \end_layout
 
 \begin_layout Itemize
-ᎢᏣᎢᏎᏍᏗ, ᎢᏣᎦᏔᎲᎾ, ᎢᏣᎴᏫᏍᏓ, ᎢᏣᏒᏂᎦ, ᏗᏥᏙᎨᏍᏗ.
+ᎢᏣᎢᏎᏍᏗ, ᎢᏣᎦᏔᎲᎾ, ᎢᏣᎴᏫᏍᏓ, ᎢᏣᏒᏂᎦ, ᏕᏥᏙᎨᏍᏗ.
 \end_layout
 
 \begin_layout Itemize
-ᏗᏦᏞᏍᏗ, ᏞᏍᏗ
+ᏕᏦᏞᏍᏗ, ᏞᏍᏗ
 \begin_inset space ~
 \end_inset
 
@@ -17332,15 +17332,15 @@ Label each card on the reverse as follows:
 \begin_inset space ~
 \end_inset
 
-ᏥᎢᏣᏒᏂᎦ, ᏞᏍᏗ
+ᏥᎢᏣᏒᏂᎦ, Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏥᏙᏥᏙᎨᏍᏗ, ᏞᏍᏗ
+ᏱᏗᏥᏙᎨᏍᏗ, Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏥᏙᏦᏞᏍᏗ.
+ᏱᏗᏦᏞᏍᏗ.
 \end_layout
 
 \begin_layout Standard
