@@ -374,11 +374,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.020 $
+$Revision: 2.021 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2017/05/21 14:57:20 $ UTC
+$Date: 2017/05/21 15:14:45 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -506,7 +506,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.020 $
+$Revision: 2.021 $
 \noun default
 .
 \end_layout
@@ -27239,27 +27239,6 @@ end{multicols}
 
 \begin_layout Section
 ᏂᏔᏛᎦ 2
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status open
-
-\begin_layout Plain Layout
-Bad cards for 
-\begin_inset Quotes eld
-\end_inset
-
-let him/them
-\begin_inset Quotes erd
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
