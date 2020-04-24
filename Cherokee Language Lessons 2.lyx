@@ -1,5 +1,5 @@
-#LyX 2.2 created this file. For more info see http://www.lyx.org/
-\lyxformat 508
+#LyX 2.3 created this file. For more info see http://www.lyx.org/
+\lyxformat 544
 \begin_document
 \begin_header
 \save_transient_properties true
@@ -29,6 +29,8 @@
 \font_osf false
 \font_sf_scale 100 100
 \font_tt_scale 100 100
+\use_microtype false
+\use_dash_ligatures true
 \graphics none
 \default_output_format pdf4
 \output_sync 1
@@ -71,6 +73,7 @@
 \suppress_date true
 \justification true
 \use_refstyle 0
+\use_minted 0
 \branch smashwords
 \selected 0
 \filename_suffix 0
@@ -90,7 +93,10 @@
 \tocdepth 1
 \paragraph_separation skip
 \defskip smallskip
-\quotes_language english
+\is_math_indent 0
+\math_numbering_side default
+\quotes_style english
+\dynamic_quotes 0
 \papercolumns 1
 \papersides 2
 \paperpagestyle headings
@@ -278,6 +284,21 @@ Wyman Kirk
 \end_layout
 
 \begin_layout Itemize
+Cherokee 1 on RSU TV: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://rsu.tv/cherokee/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
 Classroom immersion materials produced by the Cherokee Nation of Oklahoma.
 \end_layout
 
@@ -354,6 +375,7 @@ Cherokee Language Lessons 2
 
 \begin_layout Standard
 \begin_inset Branch smashwords
+inverted 0
 status collapsed
 
 \begin_layout Standard
@@ -374,25 +396,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.021 $
+$Revision: 2.022 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2017/05/21 15:14:45 $ UTC
-\end_layout
-
-\begin_layout Standard
-This work is licensed to you under the 
-\noun on
-Creative Commons Attribution-Share Alike 3.0 United States License
-\noun default
-.
- This means you are free to copy, share, and update this material under
- the condition that attribution is kept, no endorsements are implied, and
- your work is also licensed the same.
- 
-\emph on
-Commercial use is permitted.
+$Date: 2017/05/21 15:17:25 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -460,6 +468,117 @@ pagestyle{plain}
 \end_layout
 
 \begin_layout Chapter*
+Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+\end_layout
+
+\begin_layout Section*
+You are free to:
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Description
+Share — copy and redistribute the material in any medium or format
+\end_layout
+
+\begin_layout Description
+Adapt — remix, transform, and build upon the material for any purpose, even
+ commercially.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
+The licensor cannot revoke these freedoms as long as you follow the license
+ terms.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Section*
+Under the following terms:
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Description
+Attribution — You must give appropriate credit, provide a link to the license,
+ and indicate if changes were made.
+ You may do so in any reasonable manner, but not in any way that suggests
+ the licensor endorses you or your use.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Description
+ShareAlike — If you remix, transform, or build upon the material, you must
+ distribute your contributions under the same license as the original.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Description
+No
+\begin_inset space ~
+\end_inset
+
+additional
+\begin_inset space ~
+\end_inset
+
+restrictions — You may not apply legal terms or technological measures that
+ legally restrict others from doing anything the license permits.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Section*
+Notices:
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
+You do not have to comply with the license for elements of the material
+ in the public domain or where your use is permitted by an applicable exception
+ or limitation.
+\end_layout
+
+\begin_layout Standard
+No warranties are given.
+ The license may not give you all of the permissions necessary for your
+ intended use.
+ For example, other rights such as publicity, privacy, or moral rights may
+ limit how you use the material.
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Commercial use is permitted.
+\end_layout
+
+\begin_layout Chapter*
 Preface
 \end_layout
 
@@ -506,7 +625,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.021 $
+$Revision: 2.022 $
 \noun default
 .
 \end_layout
