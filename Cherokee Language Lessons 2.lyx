@@ -396,11 +396,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.023 $
+$Revision: 2.024 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2020/04/24 12:32:02 $ UTC
+$Date: 2020/04/24 12:32:23 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -625,7 +625,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.023 $
+$Revision: 2.024 $
 \noun default
 .
 \end_layout
@@ -11051,6 +11051,11 @@ Write out each of the following Cherokee phrases with the number of its
  When done, compare your answers to the answers at the end of this section.
 \end_layout
 
+\begin_layout Standard
+The following list describes the special meanings each symbol or marking
+ on the cards have.
+\end_layout
+
 \begin_layout Itemize
 
 \emph on
@@ -12602,7 +12607,7 @@ For each group the first person is designated
 \begin_layout Standard
 ☞ 
 \emph on
-It is very important then any people in the 
+It is very important that any people in the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -12797,6 +12802,24 @@ Try this: Pre-record all of the challenges using a tablet, phone, or computer.
 \end_inset
 
  to indicate when to hit pause.)
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Use the 
+\begin_inset Quotes eld
+\end_inset
+
+are you ready
+\begin_inset Quotes erd
+\end_inset
+
+ indiom from RSU's Cherokee 1 course instead of ᎰᏩ.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection*
@@ -13471,6 +13494,21 @@ status collapsed
 
 \backslash
 end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Add a written exercise that has the person respond to questions about each
+ of a new set of pictures using the new vocabulary.
+ ᎭᏢ/ᎦᏙ/ᎦᏙ ᎤᏍᏗ/ᎦᎪ/ᎯᎳ ᎢᏯᏂ/ᎯᎳ ᎢᎦ
 \end_layout
 
 \end_inset
