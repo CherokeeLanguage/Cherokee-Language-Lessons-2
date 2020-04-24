@@ -396,11 +396,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.024 $
+$Revision: 2.025 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2020/04/24 12:32:23 $ UTC
+$Date: 2020/04/24 12:58:07 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -625,7 +625,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.024 $
+$Revision: 2.025 $
 \noun default
 .
 \end_layout
@@ -13506,6 +13506,28 @@ end{multicols}
 status open
 
 \begin_layout Plain Layout
+Add 
+\begin_inset Quotes eld
+\end_inset
+
+snippet
+\begin_inset Quotes erd
+\end_inset
+
+ pictures as a quick reference and reminder for each of the time frames
+ in use: remote past, recent past, now, ongoing, future.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
 Add a written exercise that has the person respond to questions about each
  of a new set of pictures using the new vocabulary.
  ᎭᏢ/ᎦᏙ/ᎦᏙ ᎤᏍᏗ/ᎦᎪ/ᎯᎳ ᎢᏯᏂ/ᎯᎳ ᎢᎦ
@@ -16113,6 +16135,43 @@ status collapsed
 
 \backslash
 end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Add 
+\begin_inset Quotes eld
+\end_inset
+
+snippet
+\begin_inset Quotes erd
+\end_inset
+
+ pictures as a quick reference and reminder for each of the time frames
+ in use: remote past, recent past, now, ongoing, future.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Add a written exercise that have the students respond to questions about
+ each of a new set of pictures using the new material.
+ ᎭᏢ/ᎦᏙ/ᎦᏙ ᎤᏍᏗ/ᎦᎪ/ᎯᎳ ᎢᏯᏂ/ᎯᎳ ᎢᎦ
 \end_layout
 
 \end_inset
@@ -19896,6 +19955,43 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Add 
+\begin_inset Quotes eld
+\end_inset
+
+snippet
+\begin_inset Quotes erd
+\end_inset
+
+ pictures as a quick reference and reminder for each of the time frames
+ in use: remote past, recent past, now, ongoing, future.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Add a written exercise that have the students respond to questions about
+ each of a new set of pictures using the new material.
+ ᎭᏢ/ᎦᏙ/ᎦᏙ ᎤᏍᏗ/ᎦᎪ/ᎯᎳ ᎢᏯᏂ/ᎯᎳ ᎢᎦ
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Chapter
 ᏑᏓᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
@@ -22122,6 +22218,21 @@ status collapsed
 
 \backslash
 end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Add a written exercise that have the students respond to questions about
+ each of a new set of pictures using the new material.
+ ᎭᏢ/ᎦᏙ/ᎦᏙ ᎤᏍᏗ/ᎦᎪ/ᎯᎳ ᎢᏯᏂ/ᎯᎳ ᎢᎦ
 \end_layout
 
 \end_inset
@@ -24528,6 +24639,21 @@ status collapsed
 
 \backslash
 end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Add a written exercise that have the students respond to questions about
+ each of a new set of pictures using the new material.
+ ᎭᏢ/ᎦᏙ/ᎦᏙ ᎤᏍᏗ/ᎦᎪ/ᎯᎳ ᎢᏯᏂ/ᎯᎳ ᎢᎦ
 \end_layout
 
 \end_inset
@@ -29165,6 +29291,21 @@ status collapsed
 
 \backslash
 end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Add a written exercise that have the students respond to questions about
+ each of a new set of pictures using the new material.
+ ᎭᏢ/ᎦᏙ/ᎦᏙ ᎤᏍᏗ/ᎦᎪ/ᎯᎳ ᎢᏯᏂ/ᎯᎳ ᎢᎦ
 \end_layout
 
 \end_inset
