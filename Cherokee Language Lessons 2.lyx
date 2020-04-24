@@ -7,9 +7,10 @@
 \textclass extbook
 \begin_preamble
 %\usepackage{wallpaper}
+\usepackage{graphicx}
 \usepackage{multicol}
-%\widowpenalty=10000
-%\clubpenalty=10000 
+\widowpenalty=10000
+\clubpenalty=10000 
 \raggedbottom
 \usepackage{pdflscape}
 \end_preamble
@@ -396,11 +397,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.025 $
+$Revision: 2.026 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2020/04/24 12:58:07 $ UTC
+$Date: 2020/04/24 13:07:40 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -475,10 +476,6 @@ Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 You are free to:
 \end_layout
 
-\begin_layout Standard
-
-\end_layout
-
 \begin_layout Description
 Share — copy and redistribute the material in any medium or format
 \end_layout
@@ -489,24 +486,12 @@ Adapt — remix, transform, and build upon the material for any purpose, even
 \end_layout
 
 \begin_layout Standard
-
-\end_layout
-
-\begin_layout Standard
 The licensor cannot revoke these freedoms as long as you follow the license
  terms.
 \end_layout
 
-\begin_layout Standard
-
-\end_layout
-
 \begin_layout Section*
 Under the following terms:
-\end_layout
-
-\begin_layout Standard
-
 \end_layout
 
 \begin_layout Description
@@ -516,17 +501,9 @@ Attribution — You must give appropriate credit, provide a link to the license,
  the licensor endorses you or your use.
 \end_layout
 
-\begin_layout Standard
-
-\end_layout
-
 \begin_layout Description
 ShareAlike — If you remix, transform, or build upon the material, you must
  distribute your contributions under the same license as the original.
-\end_layout
-
-\begin_layout Standard
-
 \end_layout
 
 \begin_layout Description
@@ -542,16 +519,8 @@ restrictions — You may not apply legal terms or technological measures that
  legally restrict others from doing anything the license permits.
 \end_layout
 
-\begin_layout Standard
-
-\end_layout
-
 \begin_layout Section*
 Notices:
-\end_layout
-
-\begin_layout Standard
-
 \end_layout
 
 \begin_layout Standard
@@ -566,10 +535,6 @@ No warranties are given.
  intended use.
  For example, other rights such as publicity, privacy, or moral rights may
  limit how you use the material.
-\end_layout
-
-\begin_layout Standard
-
 \end_layout
 
 \begin_layout Standard
@@ -625,7 +590,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.025 $
+$Revision: 2.026 $
 \noun default
 .
 \end_layout
@@ -12209,6 +12174,13 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 ᏂᏔᏛᎦ
 \end_layout
@@ -12803,7 +12775,7 @@ Try this: Pre-record all of the challenges using a tablet, phone, or computer.
 
  to indicate when to hit pause.)
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Use the 
@@ -13503,7 +13475,7 @@ end{multicols}
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Add 
@@ -13525,7 +13497,7 @@ snippet
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Add a written exercise that has the person respond to questions about each
@@ -13928,6 +13900,13 @@ status collapsed
 end{multicols}
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -16144,7 +16123,7 @@ end{multicols}
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Add 
@@ -16166,7 +16145,7 @@ snippet
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Add a written exercise that have the students respond to questions about
@@ -17077,7 +17056,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Standard
-\begin_inset Newpage cleardoublepage
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -19957,7 +19936,7 @@ end{multicols}
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Add 
@@ -19979,7 +19958,7 @@ snippet
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Add a written exercise that have the students respond to questions about
@@ -22227,7 +22206,7 @@ end{multicols}
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Add a written exercise that have the students respond to questions about
@@ -22554,6 +22533,13 @@ status collapsed
 end{multicols}
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -24648,7 +24634,7 @@ end{multicols}
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Add a written exercise that have the students respond to questions about
@@ -26106,7 +26092,7 @@ For him\SpecialChar ldots
 \end_deeper
 \begin_layout Standard
 \begin_inset ERT
-status open
+status collapsed
 
 \begin_layout Plain Layout
 
@@ -26239,6 +26225,13 @@ a while ago
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -27515,6 +27508,13 @@ status collapsed
 end{multicols}
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage clearpage
 \end_inset
 
 
@@ -29300,7 +29300,7 @@ end{multicols}
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Add a written exercise that have the students respond to questions about
@@ -29319,7 +29319,7 @@ Add a written exercise that have the students respond to questions about
 
 \begin_layout Standard
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Study all through Chapter 8 before picking up here.
@@ -29365,7 +29365,7 @@ He is eating a solid food.
 
  
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Eating a potato.
@@ -29464,7 +29464,7 @@ He is shopping.
 
  
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Pushing a shopping cart.
@@ -29563,7 +29563,7 @@ He knows it.
 
  
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 A light bulb in a thought balloon on 
@@ -29685,7 +29685,7 @@ He is baking it.
 
  
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 An oven.
@@ -29784,7 +29784,7 @@ He is speaking.
 
  
 \begin_inset Note Note
-status open
+status collapsed
 
 \begin_layout Plain Layout
 Two talking balloons on 
