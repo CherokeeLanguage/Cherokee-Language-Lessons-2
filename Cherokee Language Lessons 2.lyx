@@ -397,11 +397,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.026 $
+$Revision: 2.027 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2020/04/24 13:07:40 $ UTC
+$Date: 2020/04/24 18:41:40 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -590,7 +590,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.026 $
+$Revision: 2.027 $
 \noun default
 .
 \end_layout
@@ -13475,29 +13475,7 @@ end{multicols}
 
 \begin_layout Standard
 \begin_inset Note Note
-status collapsed
-
-\begin_layout Plain Layout
-Add 
-\begin_inset Quotes eld
-\end_inset
-
-snippet
-\begin_inset Quotes erd
-\end_inset
-
- pictures as a quick reference and reminder for each of the time frames
- in use: remote past, recent past, now, ongoing, future.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Note Note
-status collapsed
+status open
 
 \begin_layout Plain Layout
 Add a written exercise that has the person respond to questions about each
