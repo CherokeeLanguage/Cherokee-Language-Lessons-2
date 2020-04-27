@@ -286,11 +286,22 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.030 $
+$Revision: 2.031 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2020/04/27 00:22:46 $ UTC
+$Date: 2020/04/27 17:34:33 $ UTC
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+This work is licensed under the 
+\noun on
+Creative Commons Attribution-Share Alike 4.0 International License
+\emph on
+\noun default
+.
 \end_layout
 
 \begin_layout Standard
@@ -479,7 +490,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.030 $
+$Revision: 2.031 $
 \noun default
 .
 \end_layout

@@ -1,0 +1,924 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass extbook
+\begin_preamble
+\usepackage{multicol}
+\usepackage{wallpaper}
+\end_preamble
+\use_default_options false
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman FreeSerif
+\font_sans FreeSans
+\font_typewriter FreeMono
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf true
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics none
+\default_output_format pdf4
+\output_sync 1
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_author "Michael Joyner"
+\pdf_subject "Cherokee Language"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 0
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "unicode=true,plainpages=false,pdfpagelabels,baseurl=http://www.CherokeeLessons.com/,pdfpagelayout=OneColumn"
+\papersize custom
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\justification true
+\use_refstyle 0
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6in
+\paperheight 9in
+\leftmargin 0.6in
+\topmargin 0.5in
+\rightmargin 0.4in
+\bottommargin 0.5in
+\secnumdepth 0
+\tocdepth 1
+\paragraph_separation skip
+\defskip smallskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle plain
+\bullet 0 0 8 5
+\bullet 1 0 0 5
+\bullet 2 0 6 5
+\bullet 3 0 10 5
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict true
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+I\SpecialChar \ldots{}
+him
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮵ-, ᏥᏯ͓- (ji-, ji²y-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I\SpecialChar \ldots{}
+it.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꮵ̣-, Ꭶ͓- (jị-, g-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I\SpecialChar \ldots{}
+them (animate).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²jiy-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: ᎦᏥ-, ᎦᏥᏯ͓- (ga²ji-, ga²ji²y-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+I\SpecialChar \ldots{}
+them (inanimate).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᏕᏥ-, ᏕᎦ͓- (de²ji-, g-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮣ̣Ꭹ̣-, Ꮣ̣Ꮖ͓- (dạ²gị-, dạ²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He\SpecialChar \ldots{}
+me.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓- (ạ²gị-, ạ²gw-)
+\end_layout
+
+\begin_layout Itemize
+Set B: 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꭰ̣Ꭹ̣-, Ꭰ̣Ꮖ͓-​ (ạ²gị-, ạ²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They\SpecialChar \ldots{}
+me.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎬᎩ̣-, ᎬᏆ͓- (gv²gị-, gv²gw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He\SpecialChar \ldots{}
+he or it.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꭰ̣-, Ꭶ̣- (ạ-, gạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꭴ-, Ꭴ̣Ꮹ͓- (u-, ụw-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He\SpecialChar \ldots{}
+them.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮣ̣-, ᏕᎦ̣- (dạ-, de²gạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮪ-, Ꮪ̣Ꮹ͓- (du-, dụ²w-)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+columnbreak{}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+You\SpecialChar \ldots{}
+him.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꭿ-, ᎯᏯ͓- (hi-, hi²y-) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You\SpecialChar \ldots{}
+it.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: Ꭿ̣- (hị-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: Ꮳ̣- (jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You\SpecialChar \ldots{}
+them (animate).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: ᎦᎯ-, ᎦᎯᏯ͓- (ga²hi-, ga²hiy-) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You\SpecialChar \ldots{}
+them (inanimate).
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: ᏕᎯ̣- (de²hị-) 
+\end_layout
+
+\begin_layout Itemize
+Set B: ᏕᏣ̣- (de²jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+He\SpecialChar \ldots{}
+you.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A: 
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+Ꮳ̣ (jạ-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮳ̣ (jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They\SpecialChar \ldots{}
+you.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎨᏣ̣- (ge²jạ-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They\SpecialChar \ldots{}
+him or it.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꭰ̣Ꮒ- (ạ²ni-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ ᎤᏂ- (u¹ni-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+They\SpecialChar \ldots{}
+them.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Set A:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ Ꮣ̣Ꮒ- (dạ²ni-)
+\end_layout
+
+\begin_layout Itemize
+Set B:
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ ᏚᏂ- (du¹ni-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+You two\SpecialChar \ldots{}
+it.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᏍᏗ- (²sdi-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\lang english
+He\SpecialChar \ldots{}
+you two.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᏍᏗ- (²sdi-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\lang english
+He\SpecialChar \ldots{}
+you all.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎢᏥ- (i²ji-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+You all\SpecialChar \ldots{}
+it.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎢᏥ- (i²ji-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+You two\SpecialChar \ldots{}
+being.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎡᏍᏗ- (e²sdi-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+You two\SpecialChar \ldots{}
+him.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎡᏍᏗ- (e²sdi-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\lang english
+You all\SpecialChar \ldots{}
+being.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎡᏥ- (e²ji-)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+You all\SpecialChar \ldots{}
+him.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\family roman
+\series medium
+\shape up
+\size normal
+\emph off
+\bar no
+\strikeout off
+\uuline off
+\uwave off
+\noun off
+\color none
+\lang english
+ᎡᏥ- (e²ji-)
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
