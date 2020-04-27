@@ -238,117 +238,6 @@ If our language and culture die, as a people, so do we.
 
 \end_layout
 
-\begin_layout Section*
-Sources
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-begin{multicols}{2}
-\backslash
-raggedcolumns
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-The Cherokee-English Dictionary - 
-\emph on
-Durbin Feeling.
-\end_layout
-
-\begin_layout Itemize
-A Reference Grammar of Oklahoma Cherokee - 
-\emph on
-Brad Montgomery-Anderson
-\end_layout
-
-\begin_layout Itemize
-A Learner’s Guide to the Cherokee-English Dictionary (CED)
-\emph on
- - Christian Koops
-\end_layout
-
-\begin_layout Itemize
-Verb Reference Book : Didehloqwasgi 2012 - 
-\emph on
-Wyman Kirk
-\end_layout
-
-\begin_layout Itemize
-Cherokee 1 on RSU TV: 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-https://rsu.tv/cherokee/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-Classroom immersion materials produced by the Cherokee Nation of Oklahoma.
-\end_layout
-
-\begin_layout Itemize
-The public domain comic book site: 
-\begin_inset Flex URL
-status collapsed
-
-\begin_layout Plain Layout
-
-http://digitalcomicmuseum.com/
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Itemize
-Help by e-mail and discussion groups from various much appreciated individuals.
-\end_layout
-
-\begin_layout Itemize
-Other materials too numerous to mention.
-\end_layout
-
-\begin_layout Standard
-\begin_inset ERT
-status collapsed
-
-\begin_layout Plain Layout
-
-
-\backslash
-end{multicols}
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage cleardoublepage
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 \begin_inset space ~
 \end_inset
@@ -397,11 +286,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.029 $
+$Revision: 2.030 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2020/04/27 00:11:51 $ UTC
+$Date: 2020/04/27 00:22:46 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -590,7 +479,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.029 $
+$Revision: 2.030 $
 \noun default
 .
 \end_layout
@@ -37326,7 +37215,45 @@ Congratulations! You are ready to move on to the next book.
 
 \begin_layout Chapter
 \start_of_appendix
+ᏗᏕᏠᏆᏍᏗ
+\lang english
+
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+
+\lang english
+Dictionary
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+x
+\end_layout
+
+\begin_layout Chapter
 ᏴᏫ
+\lang english
+
+\begin_inset Argument 1
+status collapsed
+
+\begin_layout Plain Layout
+
+\lang english
+Bound Pronouns
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Section
@@ -65019,6 +64946,117 @@ status collapsed
 end{landscape}
 \end_layout
 
+\end_inset
+
+
+\end_layout
+
+\begin_layout Chapter
+Sources and Acknowledgments
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The Cherokee-English Dictionary - 
+\emph on
+Durbin Feeling.
+\end_layout
+
+\begin_layout Itemize
+A Reference Grammar of Oklahoma Cherokee - 
+\emph on
+Brad Montgomery-Anderson
+\end_layout
+
+\begin_layout Itemize
+A Learner’s Guide to the Cherokee-English Dictionary (CED)
+\emph on
+ - Christian Koops
+\end_layout
+
+\begin_layout Itemize
+Verb Reference Book : Didehloqwasgi 2012 - 
+\emph on
+Wyman Kirk
+\end_layout
+
+\begin_layout Itemize
+Cherokee 1 on RSU TV: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+https://rsu.tv/cherokee/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Classroom immersion materials produced by the Cherokee Nation of Oklahoma.
+\end_layout
+
+\begin_layout Itemize
+The public domain comic book site: 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://digitalcomicmuseum.com/
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Help by e-mail and discussion groups from various much appreciated individuals.
+\end_layout
+
+\begin_layout Itemize
+Other materials too numerous to mention.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage cleardoublepage
 \end_inset
 
 
