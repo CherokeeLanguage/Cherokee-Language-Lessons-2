@@ -397,11 +397,11 @@ ISBN: 978-x-xxx-xxxxx-x
 \end_layout
 
 \begin_layout Standard
-$Revision: 2.028 $
+$Revision: 2.029 $
 \end_layout
 
 \begin_layout Standard
-$Date: 2020/04/26 16:01:04 $ UTC
+$Date: 2020/04/27 00:11:51 $ UTC
 \end_layout
 
 \begin_layout Standard
@@ -590,7 +590,7 @@ http://www.cherokeelessons.com/
 When referencing this material, please be sure to notate the document title,
  the volume number, and the revision tag: 
 \noun on
-$Revision: 2.028 $
+$Revision: 2.029 $
 \noun default
 .
 \end_layout
@@ -7956,7 +7956,7 @@ Your answers should match the Syllabary in the previous practice.
 \emph on
 Remember that it is through the exercises in the lesson material that you
  will learn how to understand and speak Cherokee, not by memorizing word
- lists.
+ lists or grammatical rules.
 \end_layout
 
 \begin_layout Standard
@@ -8779,7 +8779,7 @@ one
 \end_layout
 
 \begin_layout Standard
-[picture]
+[picture set]
 \end_layout
 
 \begin_layout Standard
@@ -8799,7 +8799,7 @@ one
 \end_layout
 
 \begin_layout Chapter
-ᏔᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏦᎢᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -12590,7 +12590,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Chapter
-ᏦᎢᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏅᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -14344,7 +14344,7 @@ Add a written exercise that has the person respond to questions about each
 \end_layout
 
 \begin_layout Chapter
-ᏅᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᎯᏍᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -16992,7 +16992,7 @@ Add a written exercise that have the students respond to questions about
 \end_layout
 
 \begin_layout Chapter
-ᎯᏍᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏑᏓᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -20805,7 +20805,7 @@ Add a written exercise that have the students respond to questions about
 \end_layout
 
 \begin_layout Chapter
-ᏑᏓᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᎦᎵᏉᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -23053,7 +23053,7 @@ Add a written exercise that have the students respond to questions about
 \end_layout
 
 \begin_layout Chapter
-ᎦᎵᏉᎩᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏣᏁᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -25481,7 +25481,7 @@ Add a written exercise that have the students respond to questions about
 \end_layout
 
 \begin_layout Chapter
-ᏣᏁᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏐᏁᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -30147,7 +30147,7 @@ Add a written exercise that have the students respond to questions about
 \end_layout
 
 \begin_layout Chapter
-ᏐᏁᎵᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏍᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Standard
@@ -31247,7 +31247,7 @@ Challenges
 \end_layout
 
 \begin_layout Chapter
-ᏍᎪᎯᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏌᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -32761,7 +32761,7 @@ Challenges
 \end_layout
 
 \begin_layout Chapter
-ᏌᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏔᎵᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -33392,7 +33392,7 @@ Challenges
 \end_layout
 
 \begin_layout Chapter
-ᏔᎵᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏦᎦᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -34332,7 +34332,7 @@ Challenges
 \end_layout
 
 \begin_layout Chapter
-ᏦᎦᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏂᎦᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -35492,7 +35492,7 @@ Challenges
 \end_layout
 
 \begin_layout Chapter
-ᏂᎦᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏍᎩᎦᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
@@ -36303,7 +36303,7 @@ Challenges
 \end_layout
 
 \begin_layout Chapter
-ᏍᎩᎦᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
+ᏓᎳᏚᏏᏁᎢ ᎠᏕᎶᏆᏍᏗ
 \end_layout
 
 \begin_layout Section
