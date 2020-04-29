@@ -11,3 +11,7 @@ settings.sample.json
 /ref/
 _OLD/
 Cherokee Language Lessons 2.txt
+*.aux
+*.log
+*.out
+Running-Vocab-List-V1.tex
