@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg6682"
+   sodipodi:docname="Stickman.svg"
+   viewBox="0 0 366 915"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   width="390.39999"
+   height="976">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="-4"
+     fit-margin-left="0"
+     pagecolor="#ffffff"
+     inkscape:window-height="998"
+     inkscape:window-maximized="1"
+     inkscape:zoom="0.35"
+     inkscape:window-x="96"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="294.31796"
+     inkscape:cy="843.49556"
+     fit-margin-top="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1180"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-189.05,-68.681)">
+    <circle
+       id="path6698"
+       style="fill:#000000"
+       transform="matrix(0.75806,0,0,0.75806,42.831,85.301)"
+       cx="434.28571"
+       cy="155.21933"
+       r="177.14285" />
+    <path
+       id="path7210"
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round"
+       d="m 209.49,968.68 c 2.8571,-20 -25.714,-237.14 157.14,-231.43"
+       inkscape:transform-center-x="73.571426"
+       inkscape:transform-center-y="111.78994"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       id="path7214"
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round"
+       d="m 534.6,968.68 c -2.8571,-20 25.714,-237.14 -157.14,-231.43"
+       inkscape:transform-center-x="-73.57143"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-y="111.78994"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path7216"
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round"
+       d="m 367.05,322.97 c 0,0 -168.57,54.286 -162.86,214.29"
+       inkscape:transform-center-x="73.642464"
+       inkscape:transform-center-y="105"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path7218"
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round"
+       d="m 377.05,325.82 c 0,0 168.57,54.286 162.86,214.29"
+       inkscape:transform-center-x="-73.642459"
+       inkscape:transform-center-y="105"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path6700"
+       sodipodi:nodetypes="cc"
+       style="fill:none;stroke:#000000;stroke-width:30;stroke-linecap:round"
+       inkscape:connector-curvature="0"
+       d="M 372.05,333.54 V 727.83" />
+  </g>
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/publicdomain/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Stickman (poseable)</dc:title>
+        <dc:date>2010-12-01T23:31:18</dc:date>
+        <dc:description>A stickman you can pose by using the node tool in Inkscape or its equilivent in your software.</dc:description>
+        <dc:source>https://openclipart.org/detail/99079/stickman-(poseable)-by-tristanluigi</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>TristanLuigi</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>man</rdf:li>
+            <rdf:li>men</rdf:li>
+            <rdf:li>persion</rdf:li>
+            <rdf:li>pose</rdf:li>
+            <rdf:li>poseable</rdf:li>
+            <rdf:li>stick</rdf:li>
+            <rdf:li>stickman</rdf:li>
+            <rdf:li>stickmen</rdf:li>
+            <rdf:li>stickperson</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

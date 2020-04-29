@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg14350"
+   sodipodi:docname="arrow-u-turn.svg"
+   viewBox="0 0 30.273559 38.582429"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.92.1 r15371"
+   width="32.291798"
+   height="41.154591">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     inkscape:window-y="22"
+     pagecolor="#ffffff"
+     inkscape:window-height="968"
+     inkscape:zoom="4.9323688"
+     inkscape:window-x="0"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="18.688705"
+     inkscape:cy="-23.797117"
+     inkscape:window-width="1280"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-606.1793,-25.114454)">
+    <path
+       inkscape:connector-curvature="0"
+       d="m 624.15262,25.287509 c -9.97201,-0.09265 -11.66489,6.729418 -11.63962,10.359429 0,0.09265 0.0168,0.185291 0.0337,0.269514 h -0.0337 v 3.99217 c 0,0 -3.24259,-1.297034 -4.77545,-1.271767 -1.54128,0.02527 -1.38125,1.381257 -1.38125,1.381257 l 9.68564,14.494778 9.61827,-13.854683 c 0,0 0.66536,-2.383511 -0.74116,-2.071886 -1.68446,0.370581 -5.45765,1.2465 -5.45765,1.2465 v -3.815302 h -0.10107 c 0.0253,-0.0084 0.10949,-0.05053 0.10949,-0.05053 0,0 0.23582,-3.933214 5.0618,-3.933214 4.82598,0 5.20498,4.716488 5.20498,4.716488 v 26.774492 h 6.54413 V 35.301628 c 0,-0.825386 -2.15611,-9.913047 -12.12811,-10.014115 z"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-width:0.34425309px"
+       id="path3600" />
+  </g>
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title />
+        <dc:date>2007-10-20T00:13:08</dc:date>
+        <dc:description />
+        <dc:source>https://openclipart.org/detail/7249/sign_no-u-turn-by-leomarc</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Leomarc</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>roadsign</rdf:li>
+            <rdf:li>sign</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
