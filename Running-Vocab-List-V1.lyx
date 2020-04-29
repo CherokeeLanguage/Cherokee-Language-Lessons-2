@@ -154,6 +154,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᏲ! [ạ²yo] 
 \begin_inset Quotes eld
 \end_inset
@@ -166,7 +168,13 @@ Ouch!
 \end_layout
 
 \begin_layout Description
-ᎣᏍᏓ [o⁴sda] 
+
+\lang english
+ᎣᏍᏓ,
+\begin_inset space ~
+\end_inset
+
+ᎣᏍᏛ [o⁴sda, o⁴sdv] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -179,6 +187,8 @@ Good.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎣᏏᏲ,
 \begin_inset space ~
 \end_inset
@@ -205,6 +215,8 @@ all is just fine
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎤᏲᎢ [u²yo⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -217,6 +229,8 @@ Bad.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎥᎥ [v²v] 
 \begin_inset Quotes eld
 \end_inset
@@ -229,6 +243,8 @@ Yes.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎥᏍᎩᎩ? [v¹sgị²gi?] 
 \begin_inset Quotes eld
 \end_inset
@@ -241,11 +257,13 @@ Really?
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎥᏝ,
 \begin_inset space ~
 \end_inset
 
-Ꮭ [vtla, vhla, tla, hla] 
+Ꮭ [ṿ²tla, ṿ²hla, tla, hla] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -257,6 +275,8 @@ No.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎰᏩ [họ²wa] 
 \begin_inset Quotes eld
 \end_inset
@@ -271,6 +291,8 @@ Okay.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮒ! [ni!] 
 \begin_inset Quotes eld
 \end_inset
@@ -283,6 +305,8 @@ Look at that!
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏣᎳᎩ [jạ²lạ²gi] 
 \begin_inset Quotes eld
 \end_inset
@@ -295,6 +319,8 @@ Cherokee.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏩᏙ [wạ²do] 
 \begin_inset Quotes eld
 \end_inset
@@ -307,6 +333,8 @@ Thanks.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏲᏁᎦ,
 \begin_inset space ~
 \end_inset
@@ -345,6 +373,22 @@ Chapter 5
 \begin_layout Standard
 
 \lang english
+Review the following vocabulary then do the exercises.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+☞ 
+\emph on
+Reminder: Animacy refers to whether a thing is alive or not.
+ Most alive things are considered animate.
+ Most non-living things are considered inanimate.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -363,6 +407,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎦᏙ
 \begin_inset space ~
 \end_inset
@@ -379,6 +425,8 @@ Which one?
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎯᎳ
 \begin_inset space ~
 \end_inset
@@ -405,6 +453,8 @@ How many?
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎯᎳ
 \begin_inset space ~
 \end_inset
@@ -431,10 +481,14 @@ How many?
 \end_layout
 
 \begin_layout Subsection
+
+\lang english
 ᏗᏎᏍᏗ (Numbers)
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏌᏊ [sa¹gwu⁴] 
 \begin_inset Quotes eld
 \end_inset
@@ -447,6 +501,8 @@ One.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏔᎵ [tạɂ³li] 
 \begin_inset Quotes eld
 \end_inset
@@ -459,6 +515,8 @@ Two.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᏂᏔᎵ [a²nị²tạɂ³li] 
 \begin_inset Quotes eld
 \end_inset
@@ -473,6 +531,8 @@ This is a special form of ᏔᎵ used when referring to anything animate.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏦᎢ [jọ²ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -485,6 +545,8 @@ Three.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᏂᏦᎢ [a²nị²jọ²ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -499,6 +561,8 @@ This is a special form of ᏦᎢ used when referring to anything animate.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏅᎩ [nvh²gi] 
 \begin_inset Quotes eld
 \end_inset
@@ -511,6 +575,8 @@ Four.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎯᏍᎩ [hị²sgi] 
 \begin_inset Quotes eld
 \end_inset
@@ -523,6 +589,8 @@ Five.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏑᏓᎵ [su²³dạ³li] 
 \begin_inset Quotes eld
 \end_inset
@@ -535,6 +603,8 @@ Six.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎦᎵᏉᎩ [gahl²gwo²³gi] 
 \begin_inset Quotes eld
 \end_inset
@@ -547,6 +617,8 @@ Seven.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -583,6 +655,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎢᎬᏱᎢ [ị²gv²yi⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -595,6 +669,8 @@ First.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏔᎵᏁᎢ [tạɂ²li²ne⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -607,6 +683,8 @@ Second.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏦᎢᏁᎢ [jọ²ɂi²ne⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -619,6 +697,8 @@ Third.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏅᎩᏁᎢ [nvh²gi²ne⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -631,6 +711,8 @@ Fourth.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎯᏍᎩᏁᎢ [hị²sgi²ne⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -643,6 +725,8 @@ Fifth.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏑᏓᎵᏁᎢ [su²³dạ³li²ne⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -655,6 +739,8 @@ Sixth.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎦᎵᏉᎩᏁᎢ [gahl²gwo²³gi²ne⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -667,6 +753,8 @@ Seventh.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -707,6 +795,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᎪᏩᏘᎭ [a¹gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -719,6 +809,8 @@ He sees him or it.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᏂᎪᏩᏘᎭ [a¹nị²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -731,6 +823,8 @@ They see him or it.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏓᎪᏩᏘᎭ [da¹gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -743,6 +837,8 @@ He sees them.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏓᏂᎪᏩᏘᎭ [da¹nị²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -755,6 +851,8 @@ They see them.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᎴ,
 \begin_inset space ~
 \end_inset
@@ -772,6 +870,8 @@ And.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᎨᏯ [ạ²ge²³hya] 
 \begin_inset Quotes eld
 \end_inset
@@ -781,14 +881,12 @@ A woman.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 ᎠᏂᎨᏯ [ạ²ni²ge²³hya] 
 \begin_inset Quotes eld
 \end_inset
@@ -802,6 +900,8 @@ Women.
 
 \end_deeper
 \begin_layout Description
+
+\lang english
 ᎠᏍᎦᏯ [ạ²sgạ²ya] 
 \begin_inset Quotes eld
 \end_inset
@@ -811,14 +911,12 @@ A man.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 ᎠᏂᏍᎦᏯ [ạ²ni²sgạ²ya] 
 \begin_inset Quotes eld
 \end_inset
@@ -832,6 +930,8 @@ Men.
 
 \end_deeper
 \begin_layout Description
+
+\lang english
 ᎦᏙ
 \begin_inset space ~
 \end_inset
@@ -851,6 +951,8 @@ Used when the person asking a question is expecting a response about two
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎦᏙ
 \begin_inset space ~
 \end_inset
@@ -870,6 +972,8 @@ Used when the person asking a question is expecting a response about two
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎩᏟ [gi²hli] 
 \begin_inset Quotes eld
 \end_inset
@@ -883,6 +987,8 @@ A dog.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏄᎾ [nu²³na] 
 \begin_inset Quotes eld
 \end_inset
@@ -896,6 +1002,8 @@ A potato.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏅᏯ [nv¹ya] 
 \begin_inset Quotes eld
 \end_inset
@@ -909,6 +1017,8 @@ A rock.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏪᏌ [we²³sa] 
 \begin_inset Quotes eld
 \end_inset
@@ -922,6 +1032,8 @@ A cat.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -962,6 +1074,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏥᎪᏩᏘᎭ [ji²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -974,6 +1088,8 @@ I see him.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮵ̣ᎪᏩᏘᎭ [jị²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -986,6 +1102,8 @@ I see it.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎦᏥᎪᏩᏘᎭ [ga²ji²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -998,6 +1116,8 @@ I see them-animate.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏕᏥ̣ᎪᏩᏘᎭ [de²jị²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -1010,6 +1130,8 @@ I see them-inanimate.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎯᎪᏩᏘᎭ [hi²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -1022,6 +1144,8 @@ You see him.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꭿ̣ᎪᏩᏘᎭ [hị²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -1034,6 +1158,8 @@ You see it.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎦᎯᎪᏩᏘᎭ [ga²hi²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -1046,6 +1172,8 @@ You see them-animate.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏕᎯ̣ᎪᏩᏘᎭ [de²hị²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -1058,6 +1186,8 @@ You see them-inanimate.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᎭᏂ,
 \begin_inset space ~
 \end_inset
@@ -1074,6 +1204,8 @@ Here.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎢᎾ [i⁴na] 
 \begin_inset Quotes eld
 \end_inset
@@ -1086,6 +1218,8 @@ Far.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎤᎿ [u¹hna⁴] 
 \begin_inset Quotes eld
 \end_inset
@@ -1098,6 +1232,8 @@ There.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎾᎥ [nạ²ɂv] 
 \begin_inset Quotes eld
 \end_inset
@@ -1111,6 +1247,8 @@ Near.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -1151,6 +1289,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᏴ,
 \begin_inset space ~
 \end_inset
@@ -1168,6 +1308,8 @@ I.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎥᏍᎩᎾ [v¹sgị²na] 
 \begin_inset Quotes eld
 \end_inset
@@ -1181,26 +1323,28 @@ He.
 \end_inset
 
  
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 ᎥᏍᎩ [v¹sgị] - 
 \emph on
 Alternate pronunciation.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏍᎩᎾ [sgị²na] - 
 \emph on
 Alternate pronunciation.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎾᏍᎩ [na¹sgi] - 
 \emph on
 Alternate pronunciation.
@@ -1208,6 +1352,22 @@ Alternate pronunciation.
 
 \end_deeper
 \begin_layout Description
+
+\lang english
+ᎭᏢ [ha²dlv] 
+\begin_inset Quotes eld
+\end_inset
+
+Where?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
 ᎯᎠ,
 \begin_inset space ~
 \end_inset
@@ -1228,6 +1388,8 @@ He.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮎ [na] 
 \begin_inset Quotes eld
 \end_inset
@@ -1240,6 +1402,8 @@ That, Those
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏂᎯ [nị²hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1254,6 +1418,8 @@ You.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -1280,6 +1446,81 @@ end{multicols}
 Chapter 9
 \end_layout
 
+\begin_layout Description
+
+\lang english
+-Ꮂ [-hv] 
+\begin_inset Quotes eld
+\end_inset
+
+But?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+-Ꮎ [-na] 
+\begin_inset Quotes eld
+\end_inset
+
+What of? What about?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+-ᏍᎪ,
+\begin_inset space ~
+\end_inset
+
+-Ꮝ [-sgo, -s] 
+\begin_inset Quotes eld
+\end_inset
+
+Yes or No?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+-Ꮚ [-gwu] 
+\begin_inset Quotes eld
+\end_inset
+
+Just.
+ Only.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+-Ꮷ [-ju] 
+\begin_inset Quotes eld
+\end_inset
+
+It is, isn't it? Right?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 
 \lang english
@@ -1301,6 +1542,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᎭᏫ,
 \begin_inset space ~
 \end_inset
@@ -1318,6 +1561,8 @@ A deer.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎪᏪᎵ [go²hwe²li] 
 \begin_inset Quotes eld
 \end_inset
@@ -1327,14 +1572,12 @@ A sheet of paper.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 ᏗᎪᏪᎵ [dị²go²hwe²li] 
 \begin_inset Quotes eld
 \end_inset
@@ -1348,6 +1591,8 @@ Sheets of paper.
 
 \end_deeper
 \begin_layout Description
+
+\lang english
 ᎫᎴ [gu²le] 
 \begin_inset Quotes eld
 \end_inset
@@ -1361,6 +1606,8 @@ An acorn.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏙᏯ [do²ya] 
 \begin_inset Quotes eld
 \end_inset
@@ -1374,6 +1621,8 @@ A beaver.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏚᏯ [tu²³ya] 
 \begin_inset Quotes eld
 \end_inset
@@ -1387,6 +1636,8 @@ A bean.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏥᏍᏚ [ji²sdu] 
 \begin_inset Quotes eld
 \end_inset
@@ -1400,6 +1651,8 @@ A rabbit.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏩᎭᏯ,
 \begin_inset space ~
 \end_inset
@@ -1434,6 +1687,29 @@ end{multicols}
 
 \end_layout
 
+\begin_layout Description
+
+\lang english
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+_____
+\begin_inset space ~
+\end_inset
+
+ᏱᎩ.
+ 
+\begin_inset Quotes eld
+\end_inset
+
+It isn't _____.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Chapter 10
 \end_layout
@@ -1459,6 +1735,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᏂᎠᏫ [a¹ni²ɂạ²hwi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1471,6 +1749,8 @@ The deer people.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᏂᎩᏟ [a¹ni²gi²hli] 
 \begin_inset Quotes eld
 \end_inset
@@ -1483,6 +1763,8 @@ The dog people.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᏂᏥᏍᏚ [a¹ni²ji²sdu] 
 \begin_inset Quotes eld
 \end_inset
@@ -1495,6 +1777,8 @@ The rabbit people.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᏂᏩᎭᏯ [a¹ni²wạ²hạ²ya] 
 \begin_inset Quotes eld
 \end_inset
@@ -1507,6 +1791,8 @@ The wolf people.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᏂᏪᏌ [a¹ni²we²³sa] 
 \begin_inset Quotes eld
 \end_inset
@@ -1519,6 +1805,8 @@ The cat people.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏙᎯ [to¹hi⁴] 
 \begin_inset Quotes eld
 \end_inset
@@ -1532,6 +1820,8 @@ Peaceful.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏙᎯᏧ [to¹hi⁴ju] 
 \begin_inset Quotes eld
 \end_inset
@@ -1556,6 +1846,8 @@ Things are well, aren't they?
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏙᎯᏊ [to¹hi⁴gwu] 
 \begin_inset Quotes eld
 \end_inset
@@ -1580,6 +1872,8 @@ Things are just well.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏛᎬᎪᎯ [dv²gv²go²hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1592,6 +1886,8 @@ I will see you one again.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏛᏍᎩᎪᎯ [dv²sgi²go²hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1604,6 +1900,8 @@ You one will see me again.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏛᏍᏛᎪᎯ [dv²sdv²go²hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1640,6 +1938,8 @@ We two will see you two again.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏛᏍᎩᏂᎪᎯ [dv²sgị²ni²go²hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1664,6 +1964,8 @@ You two will see me or us two again.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏛᎢᏨᎪᎯ [dv²ɂi¹jv²go²hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1700,6 +2002,8 @@ We all will see you one or you two or you all again.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏛᎢᏍᎩᎪᎯ [dv²ɂi¹sgi²go²hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1736,6 +2040,8 @@ You all will see me or us two or us all again.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏙᎾᏓᎪᎲᎢ [dọ²nạ²da²go²hv²ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1748,6 +2054,8 @@ Later let us two see each other again.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏙᏓᏓᎪᎲᎢ [dọ²dạ²da²go²hv²ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1760,6 +2068,8 @@ Later let us all see each other again.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -1800,6 +2110,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᎨᏳᏣ [ạ²ge²hyu⁴ja] 
 \begin_inset Quotes eld
 \end_inset
@@ -1809,14 +2121,12 @@ A girl.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 ᎠᏂᎨᏳᏣ [ạ²ni²ge²hyu⁴ja] 
 \begin_inset Quotes eld
 \end_inset
@@ -1830,6 +2140,8 @@ Girls.
 
 \end_deeper
 \begin_layout Description
+
+\lang english
 ᎠᏧᏣ [ạ²chu⁴ja] 
 \begin_inset Quotes eld
 \end_inset
@@ -1839,14 +2151,12 @@ A boy.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 ᎠᏂᏧᏣ [ạ²ni²chu⁴ja] 
 \begin_inset Quotes eld
 \end_inset
@@ -1860,6 +2170,8 @@ Boys.
 
 \end_deeper
 \begin_layout Description
+
+\lang english
 ᎦᏙ
 \begin_inset space ~
 \end_inset
@@ -1868,12 +2180,8 @@ Boys.
 \begin_inset Quotes eld
 \end_inset
 
-What is he/she doing?
+What is he doing?
 \begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -1881,6 +2189,8 @@ What is he/she doing?
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 ᎦᏙ
 \begin_inset space ~
 \end_inset
@@ -1898,6 +2208,8 @@ What are they doing?
 
 \end_deeper
 \begin_layout Description
+
+\lang english
 ᏌᎶᎵ [sạ²lo²³li] 
 \begin_inset Quotes eld
 \end_inset
@@ -1911,6 +2223,8 @@ A squirrel.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏌᏛᏗ [sạ²dv³di] 
 \begin_inset Quotes eld
 \end_inset
@@ -1920,14 +2234,12 @@ A trap.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 ᏗᏌᏛᏗ [di²sạ²dv³di] 
 \begin_inset Quotes eld
 \end_inset
@@ -1941,6 +2253,8 @@ Traps.
 
 \end_deeper
 \begin_layout Description
+
+\lang english
 ᏐᏈᎵ [so²³gwị³li] 
 \begin_inset Quotes eld
 \end_inset
@@ -1954,6 +2268,8 @@ A horse.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏡᎬᎢ [hlgv⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1963,14 +2279,12 @@ A tree.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 ᏕᏡᎬᎢ [de²³hlgv⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -1984,6 +2298,8 @@ Trees.
 
 \end_deeper
 \begin_layout Description
+
+\lang english
 ᏲᎾ [yo²³na] 
 \begin_inset Quotes eld
 \end_inset
@@ -1997,6 +2313,8 @@ A bear.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -2013,6 +2331,8 @@ end{multicols}
 \end_layout
 
 \begin_layout Subsection
+
+\lang english
 ᏗᏎᏍᏗ (Numbers)
 \end_layout
 
@@ -2037,6 +2357,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏃᏘ [not², nọ²ti] 
 \begin_inset Quotes eld
 \end_inset
@@ -2050,6 +2372,8 @@ Naught.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎧᏂᎩᏓ [ka²nị²³gị³²da] 
 \begin_inset Quotes eld
 \end_inset
@@ -2064,6 +2388,8 @@ None.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏣᏁᎳ,
 \begin_inset space ~
 \end_inset
@@ -2080,6 +2406,8 @@ Eight.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏐᏁᎳ [sọ³hne²³la] 
 \begin_inset Quotes eld
 \end_inset
@@ -2092,6 +2420,8 @@ Nine.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏍᎪᎯ [sgo²³hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -2104,6 +2434,8 @@ Ten.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏌᏚ [sa²ɂdu] 
 \begin_inset Quotes eld
 \end_inset
@@ -2116,6 +2448,8 @@ Eleven.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏔᎵᏚ [tạ²ɂldu] 
 \begin_inset Quotes eld
 \end_inset
@@ -2128,6 +2462,8 @@ Twelve.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏦᎦᏚ [jọ²ɂga²ɂdu] 
 \begin_inset Quotes eld
 \end_inset
@@ -2140,6 +2476,8 @@ Thirteen.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏂᎦᏚ [nị²ga²ɂdu] 
 \begin_inset Quotes eld
 \end_inset
@@ -2152,6 +2490,8 @@ Fourteen.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏍᎩᎦᏚ [sgị²ga²ɂdu] 
 \begin_inset Quotes eld
 \end_inset
@@ -2164,6 +2504,8 @@ Fifteen.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏓᎳᏚ [da²la²du] 
 \begin_inset Quotes eld
 \end_inset
@@ -2176,6 +2518,8 @@ Sixteen.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎦᎵᏆᏚ [gahl²gwa²³du] 
 \begin_inset Quotes eld
 \end_inset
@@ -2188,6 +2532,8 @@ Seventeen.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏁᎳᏚ [ne²³la²du] 
 \begin_inset Quotes eld
 \end_inset
@@ -2200,6 +2546,8 @@ Eighteen.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏐᏁᎳᏚ [soh³nẹ²³la²du] 
 \begin_inset Quotes eld
 \end_inset
@@ -2212,6 +2560,8 @@ Nineteen.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏔᎵᏍᎪᎯ [tạ³ɂlsgo²³hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -2225,6 +2575,8 @@ Twenty.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏦᏍᎪᎯ [jọ²ɂsgo²³hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -2238,6 +2590,8 @@ Thirty.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏅᎩᏍᎪᎯ [nvk²sgo²³hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -2251,6 +2605,8 @@ Forty.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎯᎩᏍᎪᎯ [hik²sgo²³hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -2264,6 +2620,8 @@ Fifty.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏑᏓᎵᏍᎪᎯ [su²³dal³sgo²³hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -2277,6 +2635,8 @@ Sixty.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎦᎵᏆᏍᎪᎯ [gahl²gwa²³sgo²³hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -2290,6 +2650,8 @@ Seventy.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏁᎳᏍᎪᎯ [nel³sgo²³hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -2303,6 +2665,8 @@ Eighty.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏐᏁᎳᏍᎪᎯ [sọ³hnel³sgo²³hi] 
 \begin_inset Quotes eld
 \end_inset
@@ -2316,6 +2680,8 @@ Ninety.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏍᎪᎯᏥᏆ [sgo²³hị³tsgwa] 
 \begin_inset Quotes eld
 \end_inset
@@ -2328,6 +2694,8 @@ One hundred.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -2341,75 +2709,6 @@ end{multicols}
 \end_inset
 
 
-\end_layout
-
-\begin_layout Standard
-☞
-\emph on
- ᏃᏘ is an import of the English word 
-\begin_inset Quotes eld
-\end_inset
-
-naught
-\begin_inset Quotes erd
-\end_inset
-
-.
- It was used in 19th century school books and other publications.
-\end_layout
-
-\begin_layout Standard
-☞
-\emph on
- 
-\begin_inset Quotes eld
-\end_inset
-
-ᏔᎵᏍᎪᎯ
-\begin_inset Quotes erd
-\end_inset
-
- is a combination of 
-\begin_inset Quotes eld
-\end_inset
-
-ᏔᎵ
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-ᏍᎪᎯ
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-ᏦᏍᎪᎯ
-\begin_inset Quotes erd
-\end_inset
-
- is a combination of 
-\begin_inset Quotes eld
-\end_inset
-
-ᏦᎢ
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-ᏍᎪᎯ
-\begin_inset Quotes erd
-\end_inset
-
-.
 \end_layout
 
 \begin_layout Section
@@ -2437,12 +2736,13 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏓᏆᏙᎠ [da¹gwạ²do³a] 
+
+\lang english
+ᎭᏢ [ha²dlv] 
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar ldots
- is what I am called.
+Where?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2450,12 +2750,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏙᎩᎾᏙᎠ [do¹gi²nạ²do³a] 
+
+\lang english
+ᎯᎳ
+\begin_inset space ~
+\end_inset
+
+ᎢᎦ [hị²la⁴ i²³ga⁴] 
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar ldots
- is what we two are called.
+How many?
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph on
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How many inanimate things?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2463,12 +2778,27 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏙᎦᏙᎠ [do¹gạ²do³a] 
+
+\lang english
+ᎯᎳ
+\begin_inset space ~
+\end_inset
+
+ᎢᏯᏂ [hị²la⁴ ị²yạ³ni] 
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar ldots
- is what we all are called.
+How many?
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph on
+ 
+\begin_inset Quotes eld
+\end_inset
+
+How many animate things?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2476,12 +2806,13 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏙᎠ? [de²³jạ³do³ɂa] 
+
+\lang english
+ᎯᎳᏴᎢ [hị²la³²yv⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar ldots
- is what you are called.
+When?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2489,12 +2820,13 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏍᏓᏙᎠ? [de²³sdạ³do³ɂa] 
+
+\lang english
+ᎦᎪ [ga³go²] 
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar ldots
- is what you two are called.
+Who?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2502,12 +2834,13 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏕᏣᏙᎠ? [de¹jạ³do³ɂa] 
+
+\lang english
+ᎦᎩ [ga³²gi³] 
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar ldots
- is what you all are called.
+Who again?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2515,12 +2848,44 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏚᏙᎠ [du¹do³ɂa] 
+
+\lang english
+ᎦᏙ [gạ²do¹] 
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar ldots
- is what he or she is called.
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ ☞ 
+\emph on
+For when the question is about some doing or happening.
+ 
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎦᏙ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᏗ [gạ²do² u²sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+What?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+What thing?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2528,66 +2893,18 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
-ᏚᎾᏙᎠ [du¹nạ²do³ɂa] 
+
+\lang english
+ᎦᏙ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᏗ [gạ²do² u⁴sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-\SpecialChar ldots
- is what they are called.
+Which one?
 \begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎢᎮᏙᎸᎢ [ị³he²³do³²lv²ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-You come around again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎢᏍᏕᏙᎸᎢ [ị³sde²³do³²lv²ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-You two come around again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎢᎢᏤᏙᎸᎢ [ị³ɂi¹je²³do³²lv²ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-You all come around again.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\begin_layout Description
-ᎣᏍᏓ [o⁴sda] 
-\begin_inset Quotes eld
-\end_inset
-
-Good.
- Well.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
 \end_inset
 
 
@@ -2595,11 +2912,55 @@ Good.
 
 \begin_deeper
 \begin_layout Description
-ᎠᏃᏍᏓ [a¹no⁴sda] 
+
+\lang english
+ᎦᏙ
+\begin_inset space ~
+\end_inset
+
+ᎤᎾᏍᏗ [gạ²do² un⁴sdi] 
 \begin_inset Quotes eld
 \end_inset
 
-Good (them).
+Which ones?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Which animate things?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎦᏙ
+\begin_inset space ~
+\end_inset
+
+ᏧᏍᏗ [gạ²do² ju⁴sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Which ones?
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Which inanimate things?
 \begin_inset Quotes erd
 \end_inset
 
@@ -2608,211 +2969,49 @@ Good (them).
 
 \end_deeper
 \begin_layout Description
-ᎤᏲᎢ [u²yo⁴ɂi] 
+
+\lang english
+ᎦᏙᎲ [gạ²do¹hv⁴] 
 \begin_inset Quotes eld
 \end_inset
 
-Bad.
+Why?
 \begin_inset Quotes erd
 \end_inset
 
-
-\begin_inset Separator latexpar
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎤᏂᏲᎢ [u²nị²yo⁴ɂi] 
+ ☞ 
+\emph on
+This is 
 \begin_inset Quotes eld
 \end_inset
 
-Bad (them).
+ᎦᏙ
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎩᎵᏏ [gị²li²si] 
+ with the 
 \begin_inset Quotes eld
 \end_inset
 
-English.
+-Ꮂ
 \begin_inset Quotes erd
 \end_inset
 
-
-\end_layout
-
-\begin_layout Description
-ᏴᏫ [yv²wi] 
+ ending added.
+ 
 \begin_inset Quotes eld
 \end_inset
 
-A person.
- People.
+But for what?
 \begin_inset Quotes erd
 \end_inset
 
 
 \end_layout
 
-\begin_layout Description
-ᎠᎩᎵᏏ [ạ²gị²li²si] 
-\begin_inset Quotes eld
-\end_inset
-
-An English person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᎩᎵᏏ [ạ²ni²gị²li²si] 
-\begin_inset Quotes eld
-\end_inset
-
-English people.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᏣᎳᎩ [ạ²jạ²lạ²gi] 
-\begin_inset Quotes eld
-\end_inset
-
-A Cherokee person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏣᎳᎩ [ạ²ni²jạ²lạ²gi] 
-\begin_inset Quotes eld
-\end_inset
-
-Cherokee people.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᏲᏁᎦ [ạ²yo³ne²ga] 
-\begin_inset Quotes eld
-\end_inset
-
-An English person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏲᏁᎦ [ạ²ni²yo³ne²ga] 
-\begin_inset Quotes eld
-\end_inset
-
-English people.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᏴᏫ [ạ²yv²wi] 
-\begin_inset Quotes eld
-\end_inset
-
-A person.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏴᏫ [ạ²ni²yv²wi] 
-\begin_inset Quotes eld
-\end_inset
-
-People.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
-\begin_layout Description
-ᎠᏴᏫᏯᎢ [ạ²yv²wi²ya⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-A Native American.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Separator latexpar
-\end_inset
-
-
-\end_layout
-
-\begin_deeper
-\begin_layout Description
-ᎠᏂᏴᏫᏯᎢ [ạ²ni²yv²wi²ya⁴ɂi] 
-\begin_inset Quotes eld
-\end_inset
-
-Native Americans.
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_deeper
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -2849,10 +3048,454 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
+ᏓᏆᏙᎠ [da¹gwạ²do³a] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar ldots
+ is what I am called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏙᎩᎾᏙᎠ [do¹gi²nạ²do³a] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar ldots
+ is what we two are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏙᎦᏙᎠ [do¹gạ²do³a] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar ldots
+ is what we all are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏕᏣᏙᎠ? [de²³jạ³do³ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar ldots
+ is what you are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏕᏍᏓᏙᎠ? [de²³sdạ³do³ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar ldots
+ is what you two are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏕᏣᏙᎠ? [de¹jạ³do³ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar ldots
+ is what you all are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏚᏙᎠ [du¹do³ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar ldots
+ is what he is called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏚᎾᏙᎠ [du¹nạ²do³ɂa] 
+\begin_inset Quotes eld
+\end_inset
+
+\SpecialChar ldots
+ is what they are called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎢᎮᏙᎸᎢ [ị³he²³do³²lv²ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+You come around again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎢᏍᏕᏙᎸᎢ [ị³sde²³do³²lv²ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+You two come around again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎢᎢᏤᏙᎸᎢ [ị³ɂi¹je²³do³²lv²ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+You all come around again.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎣᏍᏓ [o⁴sda] 
+\begin_inset Quotes eld
+\end_inset
+
+Good.
+ Well.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\lang english
+ᎠᏃᏍᏓ [a¹no⁴sda] 
+\begin_inset Quotes eld
+\end_inset
+
+Good (them).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\lang english
+ᎤᏲᎢ [u²yo⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Bad.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\lang english
+ᎤᏂᏲᎢ [u²nị²yo⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Bad (them).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\lang english
+ᎩᎵᏏ [gị²li²si] 
+\begin_inset Quotes eld
+\end_inset
+
+English.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏴᏫ [yv²wi] 
+\begin_inset Quotes eld
+\end_inset
+
+A person.
+ People.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᎩᎵᏏ [ạ²gị²li²si] 
+\begin_inset Quotes eld
+\end_inset
+
+An English person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\lang english
+ᎠᏂᎩᎵᏏ [ạ²ni²gị²li²si] 
+\begin_inset Quotes eld
+\end_inset
+
+English people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\lang english
+ᎠᏣᎳᎩ [ạ²jạ²lạ²gi] 
+\begin_inset Quotes eld
+\end_inset
+
+A Cherokee person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\lang english
+ᎠᏂᏣᎳᎩ [ạ²ni²jạ²lạ²gi] 
+\begin_inset Quotes eld
+\end_inset
+
+Cherokee people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\lang english
+ᎠᏲᏁᎦ [ạ²yo³ne²ga] 
+\begin_inset Quotes eld
+\end_inset
+
+An English person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\lang english
+ᎠᏂᏲᏁᎦ [ạ²ni²yo³ne²ga] 
+\begin_inset Quotes eld
+\end_inset
+
+English people.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\lang english
+ᎠᏴᏫ [ạ²yv²wi] 
+\begin_inset Quotes eld
+\end_inset
+
+A person.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\lang english
+ᎠᏂᏴᏫ [ạ²ni²yv²wi] 
+\begin_inset Quotes eld
+\end_inset
+
+People.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Description
+
+\lang english
+ᎠᏴᏫᏯᎢ [ạ²yv²wi²ya⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+A Native American.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\lang english
+ᎠᏂᏴᏫᏯᎢ [ạ²ni²yv²wi²ya⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Native Americans.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
 ᎠᎵᏌᏇᏘ [a²li³sa²gwe²ti] “Elizabeth”
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎡᏂᏙᏂ [en³to²ni] 
 \begin_inset Quotes eld
 \end_inset
@@ -2865,22 +3508,32 @@ Anthony.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎵᏂᏓ [li³nị²da] “Linda”
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎹᎦᎵ [ma²ga³li] “Michael”
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎹᎦᏰᏘ [ma³gạ²ye²tị] “Margaret”
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎺᎵ [me³li] “Mary”
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏆᏆᎠ [gwa²gwạ²ɂa] 
 \begin_inset Quotes eld
 \end_inset
@@ -2893,26 +3546,38 @@ Barbara.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏑᏌᏃ [su³sạ²no] “Susan”
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏙᎹᏏ [to³mạ²si] “Thomas”
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏕᏫᏗ [de³wị²di] “David”
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏣᎵ [cha³li] “Charles”
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏣᏂ [ja³ni] “John”
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -2953,6 +3618,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮟ [si] 
 \begin_inset Quotes eld
 \end_inset
@@ -2971,14 +3638,12 @@ still)
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 ᏝᏏ,
 \begin_inset space ~
 \end_inset
@@ -3005,6 +3670,8 @@ no longer still)
 
 \end_deeper
 \begin_layout Description
+
+\lang english
 ᎪᎱᏍᏗ,
 \begin_inset space ~
 \end_inset
@@ -3020,14 +3687,12 @@ Something.
 \end_inset
 
 
-\begin_inset Separator latexpar
-\end_inset
-
-
 \end_layout
 
 \begin_deeper
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3047,6 +3712,8 @@ Not anything.
 
 \end_deeper
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3087,6 +3754,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎢᏤᎢ [ị¹je⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -3099,6 +3768,8 @@ Green of fruit or vegetable.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎢᏤᎢᏳᏍᏗ [ị²je³ɂị²yu⁴sdi] 
 \begin_inset Quotes eld
 \end_inset
@@ -3111,6 +3782,8 @@ Green colored.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎤᏁᎦ [u²ne⁴ga] 
 \begin_inset Quotes eld
 \end_inset
@@ -3123,6 +3796,8 @@ White.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎤᏍᎪᎸᎢ [u¹sgo²³lv⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -3136,6 +3811,8 @@ Dim.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎤᏬᏗᎨᎢ [ụ²wo²³dị³ge⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -3148,6 +3825,8 @@ Brown.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎩᎦᎨᎢ,
 \begin_inset space ~
 \end_inset
@@ -3164,6 +3843,8 @@ Red.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎬᎿᎨᎢ,
 \begin_inset space ~
 \end_inset
@@ -3180,6 +3861,8 @@ Black.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏌᎪᏂᎨᎢ [sạ²ko²³nị³ge⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -3192,6 +3875,8 @@ Blue.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏓᎭᎵᎨᎢ [dạ²ha²lị²ge⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -3204,6 +3889,8 @@ Purple.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏓᎶᏂᎨᎢ [dạ²lo²³nị³ge⁴ɂi] 
 \begin_inset Quotes eld
 \end_inset
@@ -3216,6 +3903,381 @@ Yellow.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+☞ 
+\emph on
+ᎢᏤᎢ is only used when referring to fruits and vegetables that are still
+ green.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+☞ 
+\emph on
+ᎢᏤᎢᏳᏍᏗ - Think 
+\begin_inset Quotes eld
+\end_inset
+
+like a new fruit or vegetable
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᎩᎦᎨᎢ,
+\begin_inset space ~
+\end_inset
+
+ᎠᎩᎨᎢ [ạ²gi²³gạ³ge⁴ɂi, ạ²gi²³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Red.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᎬᎿᎨᎢ,
+\begin_inset space ~
+\end_inset
+
+ᎠᎬᏂᎨᎢ [ạ²gv²³hnạ³ge⁴ɂi, ạ²gv²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Black.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏌᎪᏂᎨᎢ [ạ²sạ²ko²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Blue.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏓᎭᎵᎨᎢ [ạ²dạ²ha²lị²ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Purple.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏓᎶᏂᎨᎢ [ạ²dạ²lo²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Yellow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎩᎦᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸᎢ [gi²³gạ³ge u¹sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Pink.
+ (Red-faded).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎬᎿᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸᎢ [gv²³hnạ³ge u¹sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Grey.
+ (Black-faded).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏌᎪᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸᎢ [sạ²ko²³nị³ge⁴ɂi u¹sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Grey.
+ (Blue-faded).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏓᎶᏂᎨ
+\begin_inset space ~
+\end_inset
+
+ᎤᏍᎪᎸᎢ [dạ²lo²³nị³ge u¹sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Orange.
+ (Yellow-dim).
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+☞ 
+\emph on
+Some communities use ᎠᏓᎶᏂᎨᎢ or ᎠᏂᏥ for 
+\begin_inset Quotes eld
+\end_inset
+
+orange
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Section
+Chapter 15
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏂᏤᎢ [ạ²ni²je⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Green of fruit or vegetable.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏂᏤᎢᏳᏍᏗ [ạ²ni²je³ɂị²yu⁴sdi] 
+\begin_inset Quotes eld
+\end_inset
+
+Green colored.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏂᎩᎦᎨᎢ [ạ²ni²gi²³gạ³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Red.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏂᏓᎭᎵᎨᎢ [ạ²ni²dạ²ha²lị²ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Purple.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏂᎬᎿᎨᎢ [ạ²ni²gv²³hnạ³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Black.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏂᏌᎪᏂᎨᎢ [ạ²ni²sạ²ko²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Blue.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎠᏂᏓᎶᏂᎨᎢ [ạ²ni²dạ²lo²³nị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Yellow.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3256,6 +4318,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎤᎭ [u²³ha]
 \begin_inset Quotes eld
 \end_inset
@@ -3268,6 +4332,8 @@ He has it, something solid.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎤᏂᎭ [u¹ni²³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3280,6 +4346,8 @@ They have it, something solid.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᎩᎭ [a¹gị²ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3292,6 +4360,8 @@ I have it, something solid.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏣᎭ [jạ²ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3304,6 +4374,8 @@ You have it, something solid.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎤᏩᎧᎭ [u¹wa²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3316,11 +4388,13 @@ He has it, something alive.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎤᏂᎧᎭ [u¹ni²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
-He has them, something alive.
+They have it, something alive.
 \begin_inset Quotes erd
 \end_inset
 
@@ -3328,7 +4402,9 @@ He has them, something alive.
 \end_layout
 
 \begin_layout Description
-ᏥᏯᎧᎭ [ji²ya²kạ³ha] 
+
+\lang english
+ᎠᎩᎧᎭ [a¹gị²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3340,7 +4416,9 @@ I have it, something alive.
 \end_layout
 
 \begin_layout Description
-ᎯᏯᎧᎭ [hi²ya²kạ³ha] 
+
+\lang english
+ᏣᎧᎭ [jạ²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3352,6 +4430,171 @@ You have it, something alive.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎥᏍᎩᎾ [v¹sgị²na] 
+\begin_inset Quotes eld
+\end_inset
+
+He.
+ She.
+ They.
+ That.
+ Those.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+
+\lang english
+ᎥᏍᎩ [v¹sgị] - 
+\emph on
+Alternate pronunciation.
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏍᎩᎾ [sgị²na] - 
+\emph on
+Alternate pronunciation.
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎾᏍᎩ [na¹sgi] - 
+\emph on
+Alternate pronunciation.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+end{multicols}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+begin{multicols}{2}
+\backslash
+raggedcolumns
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎤᏂᏁᎦ [u²ni²ne⁴ga] 
+\begin_inset Quotes eld
+\end_inset
+
+White.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᎤᏂᏍᎪᎸᎢ [u¹nị²sgo²³lv⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Dim.
+ Faded.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏧᏃᏗᎨᎢ [ju²no²³dị³ge⁴ɂi] 
+\begin_inset Quotes eld
+\end_inset
+
+Brown.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3392,6 +4635,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎠᎩᎪᏩᏘᎭ [ạ²gị²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3404,6 +4649,8 @@ He sees me.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3426,6 +4673,8 @@ He doesn't see me.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏣᎪᏩᏘᎭ [jạ²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3438,6 +4687,8 @@ He sees you.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3454,6 +4705,8 @@ He doesn't see you.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3476,6 +4729,8 @@ He doesn't have it, something solid.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3492,6 +4747,8 @@ They don't have it, something solid.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3508,6 +4765,8 @@ I don't have it, something solid.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3524,6 +4783,8 @@ You don't have it, something solid.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3540,6 +4801,8 @@ He doesn't have it, something alive.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3556,11 +4819,13 @@ They don't have it, something alive.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏱᏥᏯᎧᎭ [hla yị²ji²ya²kạ³ha] 
+ᏯᎩᎧᎭ [hla ya¹gị²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3572,11 +4837,13 @@ I don't have it, something alive.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏱᏯᎧᎭ [hla hyi²yạ²kạ³ha] 
+ᏱᏣᎧᎭ [hla yị²jạ²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3585,15 +4852,11 @@ You don't have it, something alive.
 \end_inset
 
 
-\begin_inset Newline newline
-\end_inset
-
-☞ 
-\emph on
-Ᏹ- (yị-) followed by Ꭿ- (hi-) combine and become Ᏹ- (hyi-).
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3634,6 +4897,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎬᎩᎪᏩᏘᎭ [gv²gị²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3646,6 +4911,8 @@ They see me.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3662,6 +4929,8 @@ They don't see me.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᎨᏣᎪᏩᏘᎭ [ge²jạ²gowh²tị³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3674,6 +4943,8 @@ They see you.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3690,6 +4961,8 @@ They don't see you.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3726,6 +4999,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏚᎭ [du²³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3738,6 +5013,8 @@ He has them, some solid things.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏚᏂᎭ [du¹ni²³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3750,6 +5027,8 @@ They have them, some solid things.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏓᎩᎭ [da¹gị²ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3762,6 +5041,8 @@ I have them, some solid things.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏕᏣᎭ [de²jạ²ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3774,6 +5055,8 @@ You have them, some solid things.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 ᏚᏩᎧᎭ [du¹wa²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
@@ -3786,7 +5069,23 @@ He has them, some alive things.
 \end_layout
 
 \begin_layout Description
-ᎦᏥᏯᎧᎭ [ga²ji²ya²kạ³ha] 
+
+\lang english
+ᏚᏂᎧᎭ [du¹ni²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They have them, some alive things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+ᏓᎩᎧᎭ [da¹gị²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3798,7 +5097,9 @@ I have them, some alive things.
 \end_layout
 
 \begin_layout Description
-ᎦᎯᏯᎧᎭ [ga²hi²yạ²kạ³ha] 
+
+\lang english
+ᏕᏣᎧᎭ [de²jạ²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3810,6 +5111,8 @@ You have them, some alive things.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -3846,6 +5149,8 @@ raggedcolumns
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3862,6 +5167,8 @@ He doesn't have them, some solid things.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3878,6 +5185,8 @@ They don't have them, some solid things.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3894,11 +5203,13 @@ I don't have them, some solid things.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏱᏕᏣᎭ [hla yị²de²jạ²ha] 
+ᏱᏗᏣᎭ [hla yị²di²jạ²ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3910,6 +5221,8 @@ You don't have them, some solid things.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
@@ -3926,11 +5239,31 @@ He doesn't have them, some alive things.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏱᎦᏥᏯᎧᎭ [hla yị²ga²ji²ya²kạ³ha] 
+ᏱᏚᏂᎧᎭ [hla yị²du¹ni²kạ³ha] 
+\begin_inset Quotes eld
+\end_inset
+
+They don't have them, some alive things.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+
+\lang english
+Ꮭ
+\begin_inset space ~
+\end_inset
+
+ᏱᏓᎩᎧᎭ [hla yị²da²gị²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3942,11 +5275,13 @@ I don't have them, some alive things.
 \end_layout
 
 \begin_layout Description
+
+\lang english
 Ꮭ
 \begin_inset space ~
 \end_inset
 
-ᏱᎦᎯᏯᎧᎭ [hla yị²ga²hi²yạ²kạ³ha] 
+ᏱᏗᏣᎧᎭ [hla yị²di²jạ²kạ³ha] 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3958,6 +5293,8 @@ You don't have them, some alive things.
 \end_layout
 
 \begin_layout Standard
+
+\lang english
 \begin_inset ERT
 status collapsed
 
@@ -4725,7 +6062,7 @@ end{multicols}
 \end_layout
 
 \begin_layout Section
-Chapter 21
+Chapter 22
 \end_layout
 
 \begin_layout Standard
