@@ -1,0 +1,921 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options false
+\begin_modules
+fixltx2e
+\end_modules
+\maintain_unincluded_children false
+\language american
+\language_package default
+\inputencoding utf8-plain
+\fontencoding global
+\font_roman FreeSerif
+\font_sans FreeSans
+\font_typewriter FreeMono
+\font_default_family default
+\use_non_tex_fonts true
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics none
+\default_output_format pdf4
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Cherokee Language Lessons"
+\pdf_author "Michael Joyner"
+\pdf_subject "Cherokee Language"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered true
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\pdf_quoted_options "unicode=true"
+\papersize letterpaper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date true
+\use_refstyle 0
+\branch ANSWERS
+\selected 0
+\filename_suffix 1
+\color #ffaaff
+\end_branch
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\paperwidth 6.625in
+\paperheight 10.25in
+\leftmargin 0.5in
+\topmargin 0.75in
+\rightmargin 0.25in
+\bottommargin 0.75in
+\secnumdepth 3
+\tocdepth 1
+\paragraph_separation skip
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 2
+\paperpagestyle fancy
+\bullet 0 0 8 5
+\bullet 1 0 0 5
+\bullet 2 0 6 5
+\bullet 3 0 10 5
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagestyle{fancy}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+renewcommand{
+\backslash
+headrulewidth}{0pt}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+rfoot[Copyright 2014]{Translation by Michael Joyner}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+lfoot[http://www.CherokeeLessons.com/]{Public Domain}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+chead{}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+rhead[]{Ꮋ, Ꮉ, ᎠᎴ Ꮌ Issue 
+\backslash
+#2}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+lhead[Ꮋ, Ꮉ, ᎠᎴ Ꮌ Issue 
+\backslash
+#2]{}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+cfoot{
+\backslash
+thepage{} of 
+\backslash
+pageref{LastPage}}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/01.jpg
+	lyxscale 30
+	height 5.9in
+	groupId full
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/02.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/03.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/04.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/05.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/06.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/07.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/08.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/09.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/10.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/11.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/12.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/13.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/14.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/15.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/16.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/17.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/18.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/19.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/20.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/21.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/22.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/23.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/24.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/25.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/26.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/27.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/28.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/29.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/30.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/31.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/32.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/33.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/34.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/35.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/36.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/37.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/38.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/39.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/40.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/41.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/42.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset space \hfill{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/43.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \quad{}
+\end_inset
+
+
+\begin_inset Graphics
+	filename panels.lyx/44.jpg
+	lyxscale 30
+	height 3.1in
+	groupId half
+
+\end_inset
+
+
+\begin_inset space \hfill{}
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "LastPage"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
