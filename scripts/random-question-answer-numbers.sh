@@ -3,6 +3,10 @@
 QUESTIONS=10
 ANSWERS=4
 
+echo "Q: question # to use"
+echo "*: the correct answer location"
+echo "N: the incorrect answer to get from question# N"
+
 for r in $(
 	for y in $(seq $(($QUESTIONS * 10))); do
 		let "q = $RANDOM % $QUESTIONS + 1"
@@ -12,8 +16,8 @@ for r in $(
 	echo "Q: $r"
 	correct=0
 	counter=0
-	for y in $(seq $(($QUESTIONS * 10))); do
-		let "q = $RANDOM % $ANSWERS + 1"
+	for y in $(seq $(($ANSWERS * 10))); do
+		let "q = $RANDOM % $QUESTIONS + 1"
 		if [ $correct = 0 ]; then
 			let "s = $RANDOM % 3"
 			if [ $counter = 4 ]; then s=0; fi
@@ -23,7 +27,7 @@ for r in $(
 			fi
 		fi
 		echo "   $q"
-	done | awk '!seen[$0]++' 
+	done | awk '!seen[$0]++' | grep -v "$r" | head -n 4
 	echo
 done
 
