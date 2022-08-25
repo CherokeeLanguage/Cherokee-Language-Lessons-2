@@ -331,6 +331,18 @@ def adjectives_list() -> list[Adjective]:
 def sentence_templates() -> list[str]:
     st: list[str] = list()
 
+    st.append("{subject} ᏲᏁᎦ ᎦᏬᏂᎭ")
+    st.append("{subject} ᏣᎳᎩ ᎦᏬᏂᎭ")
+    st.append("{subject} ᎩᎵᏏ ᎦᏬᏂᎭ")
+
+    st.append("ᏣᎳᎩ ᏥᏬᏂᎭ")
+    st.append("ᎩᎵᏏ ᏥᏬᏂᎭ")
+    st.append("ᏲᏁᎦ ᏥᏬᏂᎭ")
+    st.append("ᏣᎳᎩ ᎯᏬᏂᎭ")
+    st.append("ᎩᎵᏏ ᎯᏬᏂᎭ")
+    st.append("ᏲᏁᎦ ᎯᏬᏂᎭ")
+
+
     st.append("{adjective} {object} ᏐᎢᏱ")
     st.append("ᎥᏝ {adjective} {object} ᏐᎢᏱ ᏱᎩ")
     st.append("{adjective} {object} ᏐᎢᏱ ᎨᏎᎢ")
@@ -339,13 +351,13 @@ def sentence_templates() -> list[str]:
     st.append("ᎥᏝ {adjective} {object} ᎦᏘᏲᎢ ᏱᎨᏎᏍᏗ")
 
     st.append("{subject} {object} {adjective} ᎠᏗᎭ")
-    st.append("{object} {adjective} ᎦᏗᎭ")
+    st.append("{object} {adjective} ᎦᏗᎠ")
 
     st.append("{subject} {object} {adjective} ᎤᏅᏔ")
     st.append("{object} {adjective} ᎠᏆᏅᏔ")
 
     st.append("{subject} ᎥᏝ {object} {adjective} ᏯᏗᎭ")
-    st.append("ᎥᏝ {object} {adjective} ᏱᎦᏗᎭ")
+    st.append("ᎥᏝ {object} {adjective} ᏱᎦᏗᎠ")
 
     st.append("{subject} ᎥᏝ {object} {adjective} ᏳᏅᏔ")
     st.append("ᎥᏝ {object} {adjective} ᏯᏆᏅᏔ")
@@ -437,14 +449,20 @@ def less_used_words(already_text: str) -> bool:
     return less_count > math.ceil(word_count*3/4)
 
 
+required_set: set[str] = set()
+
+
 def has_required_vocabulary(text: str) -> bool:
-    required_count: int = 0
+    if not required_set:
+        for word in required.split():
+            required_set.add(word.strip())
     for word in text.split():
         word = word.strip()
-        cnt: int
-        if word in required:
-            required_count += 1
-    return required_count > 0
+        if word in required_set:
+            required_set.remove(word)
+            return True
+    return False
+
 
 def less_used_add(already_text) -> None:
     global less_used
@@ -569,12 +587,15 @@ def main() -> None:
             sentence = sentence.replace("{verb}", alt_verb(verb.form))
             already_text += verb.form
             already_text += " "
+        if not already_text:
+            already_text = sentence
         already_text = re.sub("\\s+", " ", already_text).strip()
-        if not has_required_vocabulary(already_text):
-            continue
         if already_text in already:
             continue
-        if not less_used_words(already_text) and less_used_retries < 10_000:
+        # if not less_used_words(already_text) and less_used_retries < 100_000:
+        #     less_used_retries += 1
+        #     continue
+        if not has_required_vocabulary(sentence) and less_used_retries < 1_000:
             less_used_retries += 1
             continue
         less_used_retries = 0
