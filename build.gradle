@@ -33,3 +33,8 @@ mkdocs.sourcesDir = "."
 mkdocs.publish.docPath = ''
 mkdocs.strict = true
 
+idea {
+    module {
+        name = "CLL2"
+    }
+}
