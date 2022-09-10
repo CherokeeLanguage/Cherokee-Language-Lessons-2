@@ -1,0 +1,80 @@
+#pragma: setsize=6 layout=Enumerate depth=1 sep= random
+
+#random: a1=ᏲᎾ=bear, ᏌᎶᎵ=squirrel
+#random: a2=ᎠᎩᏍᏉᏟᎢ=my stomach, ᏥᏍᎪᎵ=my head
+#random: a3=ᎠᏍᎪᎵ=stomach, ᎤᏍᏉᏟᎢ=head
+#random: a4=ᏗᎪᏪᎶᏗ=writing utensil, ᎤᏯᏖᎾ=board, ᎦᎶᎯᏍᏗᎢ=door, ᎤᏍᎧ=detached head
+#random: s=ᎠᏯᏄᎵ=quickly, ᎦᏣᏄᎵ=quickly, ᎤᏍᎦᏃᎵ=slowly,=,=,=,=,=,=
+#random: a5=ᎩᏟ=dog, ᏥᏍᏚ=rabbit, ᏅᏯ=rock, ᏄᎾ=potato
+
+<a1> ᎯᏯᏒᏂᎦ.|You one, touch the <=a1>.
+<a1> ᎡᏍᏓᏯᏒᏂᎦ.|You two, touch the <=a1>.
+<a1> ᎡᏣᏯᏒᏂᎦ.|You all, touch the <=a1>.
+<a1> ᏔᎵ ᎢᎦ ᏘᏯᏒᏂᎦ.|You one, touch the <=a1> twice.
+
+ᎯᎠ <a1>. <a2> ᎭᏒᏂᎦ.|This is <=a1>. You one, touch <=a2>.
+ᎯᎠ <a1>. <a2> ᏍᏓᏒᏂᎦ.|This is <=a1>. You two, touch <=a2>.
+ᎯᎠ <a1>. <a2> ᎢᏣᏒᏂᎦ.|This is <=a1>. You all, touch <=a2>.
+ᎯᎠ <a1>. <a2> ᏔᎵ ᎢᎦ ᏗᏍᏓᏒᏂᎦ.|This is <=a1>. You two, touch <=a2> twice.
+
+ᎯᎠ ᏲᎾ. ᏌᎶᎵ <a3> ᎭᏒᏂᎦ.|This is bear. You one, touch squirrel's <=a3>.
+ᎯᎠ ᏲᎾ. ᏌᎶᎵ <a3> ᏍᏓᏒᏂᎦ.|This is bear. You two, touch squirrel's <=a3>.
+ᎯᎠ ᏲᎾ. ᏌᎶᎵ <a3> ᎢᏣᏒᏂᎦ.|This is bear. You all, touch squirrel's <=a3>.
+ᎯᎠ ᏲᎾ. ᏌᎶᎵ <a3> ᏔᎵ ᎢᎦ ᏗᏣᏒᏂᎦ.|This is bear. You all, touch squirrel's <=a3> twice.
+
+ᎯᎠ ᏌᎶᎵ. ᏲᎾ <a3> ᎭᏒᏂᎦ.|This is squirrel. You one, touch bear's <=a3>.
+ᎯᎠ ᏌᎶᎵ. ᏲᎾ <a3> ᏍᏓᏒᏂᎦ.|This is squirrel. You two, touch bear's <=a3>.
+ᎯᎠ ᏌᎶᎵ. ᏲᎾ <a3> ᎢᏣᏒᏂᎦ.|This is squirrel. You all, touch bear's <=a3>.
+ᎯᎠ ᏌᎶᎵ. ᏲᎾ <a3> ᏔᎵ ᎢᎦ ᏔᏒᏂᎦ.|This is squirrel. You one, touch bear's <=a3> twice.
+
+<a4> ᎭᏒᏂᎦ.|You one, touch the <=a4>.
+<a4> ᏍᏓᏒᏂᎦ.|You two, touch the <=a4>.
+<a4> ᎢᏣᏒᏂᎦ.|You all, touch the <=a4>.
+<a4> ᏔᎵ ᎢᎦ ᏗᏍᏓᏒᏂᎦ.|You two, touch the <=a4> twice.
+
+#walk
+<s> ᎭᎢᏎᏍᏗ.|You one, walk <=s>.
+<s> ᏍᏓᎢᏎᏍᏗ.|You two, walk <=s>.
+<s> ᎢᏣᎢᏎᏍᏗ.|You all, walk <=s>.
+
+#walk near rabbit/dog/rock/potato
+<a5> ᎾᎥ <s> ᎭᎢᏎᏍᏗ.|You one, walk <=s> near <=a5>.
+<a5> ᎾᎥ <s> ᏍᏓᎢᏎᏍᏗ.|You two, walk <=s> near <=a5>.
+<a5> ᎾᎥ <s> ᎢᏣᎢᏎᏍᏗ.|You all, walk <=s> near <=a5>.
+
+#walk|stop
+<s> ᎭᎢᏎᏍᏗ, ᎭᎴᏫᏍᏓ.|You one, walk <=s> then stop.
+<s> ᏍᏓᎢᏎᏍᏗ, ᏍᏓᎴᏫᏍᏓ.|You two, walk <=s> then stop.
+<s> ᎢᏣᎢᏎᏍᏗ, ᎢᏣᎴᏫᏍᏓ.|You all, walk <=s> then stop.
+
+#walk|sit
+ᎭᎢᏎᏍᏗ, <s> ᏦᏞᏍᏗ.|You one, walk then sit <=s>.
+ᏍᏓᎢᏎᏍᏗ, <s> ᏕᏍᏙᏞᏍᏗ.|You two, walk then sit <=s>.
+ᎢᏣᎢᏎᏍᏗ, <s> ᏕᏦᏞᏍᏗ.|You all, walk then sit <=s>.
+
+#sit
+<s> ᏦᏞᏍᏗ.|You one, sit <=s>.
+<s> ᏕᏍᏙᏞᏍᏗ.|You two, sit <=s>.
+<s> ᏕᏦᏞᏍᏗ.|You all, sit <=s>.
+
+#sit near rabbit/dog/rock/potato
+<a5> ᎾᎥ <s> ᏦᏞᏍᏗ.|You one, sit <=s> near <=a5>.
+<a5> ᎾᎥ <s> ᏕᏍᏙᏞᏍᏗ.|You two, sit <=s> near <=a5>.
+<a5> ᎾᎥ <s> ᏕᏦᏞᏍᏗ.|You all, sit <=s> near <=a5>.
+
+#turn around
+<s> ᎭᎦᏔᎲᎾ.|You one, turn around <=s>.
+<s> ᏍᏓᎦᏔᎲᎾ.|You two, turn around <=s>.
+<s> ᎢᏣᎦᏔᎲᎾ.|You all, turn around <=s>.
+
+#stand
+<s> ᎯᏙᎨᏍᏗ.|You one, stand <=s>.
+<s> ᏍᏗᏙᎨᏍᏗ.|You two, stand <=s>.
+<s> ᎢᏥᏙᎨᏍᏗ.|You all, stand <=s>.
+
+#stand near rabbit/dog/rock/potato
+<a5> ᎾᎥ ᎯᏙᎨᏍᏗ.|You one, stand near <=a5>.
+<a5> ᎾᎥ ᏍᏗᏙᎨᏍᏗ.|You two, stand near <=a5>.
+<a5> ᎾᎥ ᎢᏥᏙᎨᏍᏗ.|You all, stand near <=a5>.
+
+
